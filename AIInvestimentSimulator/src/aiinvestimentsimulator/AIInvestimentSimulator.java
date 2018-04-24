@@ -27,9 +27,11 @@ public class AIInvestimentSimulator {
 
     private List<File> setUpFiles() {
         List<File> filesList = new ArrayList<>();
-//        filesList.add(new File(1L, Year.of(2014), "COTAHIST_A2014-REDUZIDO.TXT"));
-        filesList.add(new File(1L, Year.of(2014), "COTAHIST_A2014.TXT"));
+        filesList.add(new File(1L, Year.of(2014), "COTAHIST_A2014-REDUZIDO.TXT"));
+//        filesList.add(new File(1L, Year.of(2014), "COTAHIST_A2014.TXT"));
 //        filesList.add(new File(2L, Year.of(2015), "COTAHIST_A2015.TXT"));
         return filesList;
     }
 }
+
+
