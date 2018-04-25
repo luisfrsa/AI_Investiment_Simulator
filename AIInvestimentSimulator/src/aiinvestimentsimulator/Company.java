@@ -43,21 +43,20 @@ public class Company {
         if (this == o) return true;
         if (!(o instanceof Company)) return false;
         Company company = (Company) o;
-        return Objects.equals(getName(), company.getName()) &&
-                Objects.equals(getDadosDoDiaSet(), company.getDadosDoDiaSet());
+        return Objects.equals(getName(), company.getName());
     }
 
     @Override
     public int hashCode() {
 
-        return Objects.hash(getName(), getDadosDoDiaSet());
+        return Objects.hash(getName());
     }
 
     @Override
     public String toString() {
-        return "Company{" +
+        return "Company{ " +
                 "name='" + name + '\'' +
                 ", dadosDoDiaSet=" + dadosDoDiaSet.stream().map(d->d.toString()).reduce((e1,e2)->{return e2+", "+e1;}) +
-                '}';
+                "}\n";
     }
 }

@@ -131,7 +131,7 @@ public class DadosDoDia {
 
     @Override
     public String toString() {
-        return "DadosDoDia{" +
+        return "\n     DadosDoDia{" +
                 "name='" + name + '\'' +
                 ", complany=" + complany.getName() +
                 ", date=" + date +
@@ -141,6 +141,6 @@ public class DadosDoDia {
                 ", avgPrice=" + avgPrice +
                 ", closePrice=" + closePrice +
                 ", total=" + total +
-                '}';
+                "} ";
     }
 }
