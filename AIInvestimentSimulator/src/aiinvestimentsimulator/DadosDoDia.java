@@ -6,8 +6,6 @@
 package aiinvestimentsimulator;
 
 import java.time.LocalDate;
-import java.time.format.DateTimeFormatter;
-import java.util.Objects;
 
 /**
  * @author luisr
@@ -15,6 +13,7 @@ import java.util.Objects;
 public class DadosDoDia {
 
     private String name;
+    private String codNegociation;
     private Company complany;
     private LocalDate date;
     private Double openPrice;
@@ -23,7 +22,10 @@ public class DadosDoDia {
     private Double avgPrice;
     private Double closePrice;
     private Double total;
-    public DadosDoDia(String name, Company complany, LocalDate date, Double openPrice, Double maxPrice, Double minPrice, Double avgPrice, Double closePrice,Double total) {
+    private Double percent;
+
+
+    public DadosDoDia(String name, Company complany, LocalDate date, Double openPrice, Double maxPrice, Double minPrice, Double avgPrice, Double closePrice, Double total, Double percent, String codNegociation) {
         this.name = name;
         this.complany = complany;
         this.date = date;
@@ -33,6 +35,8 @@ public class DadosDoDia {
         this.avgPrice = avgPrice;
         this.closePrice = closePrice;
         this.total = total;
+        this.percent = percent;
+        this.codNegociation = codNegociation;
     }
 
     public String getName() {
@@ -107,39 +111,27 @@ public class DadosDoDia {
         this.total = total;
     }
 
-    @Override
-    public boolean equals(Object o) {
-        if (this == o) return true;
-        if (!(o instanceof DadosDoDia)) return false;
-        DadosDoDia that = (DadosDoDia) o;
-        return Objects.equals(getName(), that.getName()) &&
-                Objects.equals(getComplany(), that.getComplany()) &&
-                Objects.equals(getDate(), that.getDate()) &&
-                Objects.equals(getOpenPrice(), that.getOpenPrice()) &&
-                Objects.equals(getMaxPrice(), that.getMaxPrice()) &&
-                Objects.equals(getMinPrice(), that.getMinPrice()) &&
-                Objects.equals(getAvgPrice(), that.getAvgPrice()) &&
-                Objects.equals(getClosePrice(), that.getClosePrice()) &&
-                Objects.equals(getTotal(), that.getTotal());
+    public Double getPercent() {
+        return percent;
     }
 
-    @Override
-    public int hashCode() {
-
-        return Objects.hash(getName(), getComplany(), getDate(), getOpenPrice(), getMaxPrice(), getMinPrice(), getAvgPrice(), getClosePrice(), getTotal());
+    public void setPercent(Double percent) {
+        this.percent = percent;
     }
 
     @Override
     public String toString() {
         return "\n     DadosDoDia{" +
                 "name='" + name + '\'' +
+                "codNegociation='" + codNegociation + '\'' +
                 ", complany=" + complany.getName() +
                 ", date=" + date +
                 ", openPrice=" + openPrice +
-                ", maxPrice=" + maxPrice +
-                ", minPrice=" + minPrice +
-                ", avgPrice=" + avgPrice +
                 ", closePrice=" + closePrice +
+                ", percentage=" + percent +
+                ", minPrice=" + minPrice +
+                ", maxPrice=" + maxPrice +
+                ", avgPrice=" + avgPrice +
                 ", total=" + total +
                 "} ";
     }
