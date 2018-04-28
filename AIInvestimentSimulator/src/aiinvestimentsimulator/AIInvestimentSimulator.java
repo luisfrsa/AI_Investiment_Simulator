@@ -24,20 +24,16 @@ public class AIInvestimentSimulator extends Config {
     }
 
     public void run() {
-        List<File> filesList = setUpFiles();
         FileReader reader = new FileReader(service);
-        filesList.forEach(file -> {
+        setUpFiles().forEach(file -> {
             reader.readFile(file.getName());
         });
+        SMART_INVESTIMENT.run();
+        service.printLoadedData();
+
     }
 
-    private List<File> setUpFiles() {
-        List<File> filesList = new ArrayList<>();
-//        filesList.add(new File(1L, Year.of(2014), "COTAHIST_A2014-REDUZIDO.TXT"));
-        filesList.add(new File(1L, Year.of(2014), "COTAHIST_A2014.TXT"));
-//        filesList.add(new File(2L, Year.of(2015), "COTAHIST_A2015.TXT"));
-        return filesList;
-    }
+
 }
 
 

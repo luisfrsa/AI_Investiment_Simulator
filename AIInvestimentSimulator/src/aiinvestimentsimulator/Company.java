@@ -18,8 +18,10 @@ public class Company {
     private String name;
     private double average;
     private double sum;
+    private int actions;
     private int count;
     private Set<DadosDoDia> dadosDoDiaSet = new HashSet<>();
+
 
     public Company() {
         this.average = 0;
@@ -27,10 +29,10 @@ public class Company {
         this.count = 0;
     }
 
-    public void increment(double value) {
+    public void increment(double value){
         this.count++;
-        this.sum += value;
-        this.average = this.sum / this.count;
+        this.sum+=value;
+        this.average= this.sum/this.count;
     }
 
     public Company(String name) {
@@ -51,6 +53,38 @@ public class Company {
 
     public void setDadosDoDiaSet(Set<DadosDoDia> dadosDoDiaSet) {
         this.dadosDoDiaSet = dadosDoDiaSet;
+    }
+
+    public double getAverage() {
+        return average;
+    }
+
+    public void setAverage(double average) {
+        this.average = average;
+    }
+
+    public double getSum() {
+        return sum;
+    }
+
+    public void setSum(double sum) {
+        this.sum = sum;
+    }
+
+    public int getCount() {
+        return count;
+    }
+
+    public void setCount(int count) {
+        this.count = count;
+    }
+
+    public int getActions() {
+        return actions;
+    }
+
+    public void setActions(int actions) {
+        this.actions = actions;
     }
 
     @Override
