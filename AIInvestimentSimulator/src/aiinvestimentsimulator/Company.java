@@ -16,7 +16,22 @@ import java.util.concurrent.atomic.AtomicInteger;
 public class Company {
 
     private String name;
+    private double average;
+    private double sum;
+    private int count;
     private Set<DadosDoDia> dadosDoDiaSet = new HashSet<>();
+
+    public Company() {
+        this.average = 0;
+        this.sum = 0;
+        this.count = 0;
+    }
+
+    public void increment(double value) {
+        this.count++;
+        this.sum += value;
+        this.average = this.sum / this.count;
+    }
 
     public Company(String name) {
         this.name = name;
@@ -56,7 +71,9 @@ public class Company {
     public String toString() {
         return "Company{ " +
                 "name='" + name + '\'' +
-                ", dadosDoDiaSet=" + dadosDoDiaSet.stream().map(d->d.toString()).reduce((e1,e2)->{return e2+", "+e1;}) +
+                ", dadosDoDiaSet=" + dadosDoDiaSet.stream().map(d -> d.toString()).reduce((e1, e2) -> {
+            return e2 + ", " + e1;
+        }) +
                 "}\n";
     }
 }

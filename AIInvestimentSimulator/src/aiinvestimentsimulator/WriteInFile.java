@@ -5,6 +5,7 @@ import java.io.PrintWriter;
 
 public class WriteInFile {
 
+    public static final String SAIDA_TXT = "saida.txt";
     private static StringBuilder data = new StringBuilder();
 
     static void addToWrite(String string){
@@ -13,7 +14,7 @@ public class WriteInFile {
 
     static void writeInFile(String saida) {
         if(saida.equals("")){
-            saida = "saida.txt";
+            saida = SAIDA_TXT;
         }
         try (PrintWriter out = new PrintWriter(saida)) {
             out.println(data.toString());

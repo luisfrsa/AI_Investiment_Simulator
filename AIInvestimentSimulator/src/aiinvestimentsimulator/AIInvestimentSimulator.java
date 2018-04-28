@@ -1,11 +1,11 @@
 package aiinvestimentsimulator;
 
 import java.io.IOException;
+import java.time.LocalDate;
 import java.time.Year;
-import java.util.ArrayList;
-import java.util.List;
+import java.util.*;
 
-public class AIInvestimentSimulator {
+public class AIInvestimentSimulator extends Config {
 
 
     public static void main(String[] args) throws IOException {
@@ -20,9 +20,12 @@ public class AIInvestimentSimulator {
         }
     }
 
+    public AIInvestimentSimulator() {
+    }
+
     public void run() {
         List<File> filesList = setUpFiles();
-        FileReader reader = new FileReader();
+        FileReader reader = new FileReader(service);
         filesList.forEach(file -> {
             reader.readFile(file.getName());
         });
