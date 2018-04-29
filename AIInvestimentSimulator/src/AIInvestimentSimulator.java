@@ -13,20 +13,20 @@ public class AIInvestimentSimulator extends Config {
             self.run();
             System.out.println(String.format("Programa executado em %d milisegundos.", (System.currentTimeMillis() - startTime)));
         } catch (Exception e) {
-            System.out.println("Erro ao executar progeama: ");
+            System.out.println("Erro ao executar programa: ");
             e.printStackTrace();
         }
     }
 
     public static void setParams(String[] args) {
-//        PARAM_MIN_TO_BUY = 0.10;
-//        PARAM_MIN_TO_SELL = 0.10;
-//        PARAM_DISCARD_DIV = 1.1;
-//        PARAM_DAYS_TO_DISCARD = 30;
-//        PARAM_MIN_DAYS_TO_BEGIN = 10;
-//        PARAM_MAX_MONEY_TO_INVEST = 3;
-//        MONEY = 100000;
-//        TO_PRINT_DATA = false;
+        PARAM_MIN_TO_BUY= 0.03;
+        PARAM_MIN_TO_SELL= 0.1;
+        PARAM_DISCARD_DIV= 2.5;
+        PARAM_DAYS_TO_DISCARD= 10;
+        PARAM_MIN_DAYS_TO_BEGIN= 0;
+        PARAM_MAX_MONEY_TO_INVEST= 1.0;
+        MONEY= 100000.0;
+        TO_PRINT_DATA = true;
 //        Arrays.stream(args).forEach(a->{
 //            System.out.println(a);
 //        });

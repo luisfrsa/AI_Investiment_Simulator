@@ -25,17 +25,21 @@ public class Config {
     protected static final Set<String> avaliableCompanies = new HashSet<>();
     protected static final List<File> FILES_TO_TRAIN = new ArrayList<>();
     protected static final List<File> FILES_TO_RUN = new ArrayList<>();
-    protected static final String RESULT_PATH = "../result_pitomba/";
+    protected static final String RESULT_PATH = "../result/";
 
 
     protected void setUpFiles() {
 //        TO_PRINT_DATA = true;
+//        FILES_TO_TRAIN.add(new File("COTAHIST_A2013.TXT"));
+        FILES_TO_TRAIN.add(new File("COTAHIST_A2014.TXT"));
+        FILES_TO_TRAIN.add(new File("COTAHIST_A2015.TXT"));
+//        FILES_TO_TRAIN.add(new File("COTAHIST_A2016.TXT"));
 
-//        FILES_TO_TRAIN.add(new File(1L, Year.of(2014), "COTAHIST_A2014-REDUZIDO.TXT"));
-        FILES_TO_TRAIN.add(new File(1L, Year.of(2014), "COTAHIST_A2014.TXT"));
-        FILES_TO_TRAIN.add(new File(2L, Year.of(2015), "COTAHIST_A2015.TXT"));
-        FILES_TO_RUN.add(new File(2L, Year.of(2016), "COTAHIST_A2016.TXT"));
-//        FILES_TO_TRAIN.add(new File(2L, Year.of(2015), "COTAHIST_A2015-REDUZIDO.TXT"));
+//        FILES_TO_RUN.add(new File( "COTAHIST_A2013.TXT"));
+//        FILES_TO_RUN.add(new File( "COTAHIST_A2014.TXT"));
+//        FILES_TO_RUN.add(new File( "COTAHIST_A2015.TXT"));
+        FILES_TO_RUN.add(new File( "COTAHIST_A2016.TXT"));
+//        FILES_TO_RUN.add(new File("COTAHIST_A2017.TXT"));
     }
 
 

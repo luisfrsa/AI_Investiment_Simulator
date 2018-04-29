@@ -21,6 +21,9 @@ public class File {
         this.year = year;
         this.name = name;
     }
+    public File( String name) {
+        this.name = name;
+    }
 
     public Long getId() {
         return id;

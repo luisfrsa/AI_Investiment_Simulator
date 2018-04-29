@@ -2,6 +2,7 @@
 
 import java.io.IOException;
 import java.io.UncheckedIOException;
+import java.nio.charset.Charset;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.time.LocalDate;
@@ -24,7 +25,7 @@ public class FileReader {
     public void readFileToTrain(String fileDir) {
         try {
             service.generateCompanys();
-            Stream<String> stream = Files.lines(Paths.get(FILE_PATH + fileDir));
+            Stream<String> stream = Files.lines(Paths.get(FILE_PATH + fileDir), Charset.defaultCharset());
             handleLinesToTrain(stream);
         } catch (IOException e) {
             System.out.println("Erro ao ler arquivo: " + fileDir);
@@ -44,12 +45,12 @@ public class FileReader {
     }
 
     private void handleLinesToRun(Stream<String> stream) {
-        String s = stream.toString();
         stream.forEach(line -> {
             try {
                 String codNegociation = line.substring(12, 24).trim() + "-" + line.substring(45, 56).trim();
                 if (service.containsCompany(codNegociation)) {
-                    DadosDoDia dadosDoDia = buildDadosDoDia(codNegociation,line);
+
+                    DadosDoDia dadosDoDia = buildDadosDoDia(codNegociation, line);
                     dadosDoDia.getComplany().getDadosDoDiaSet().add(dadosDoDia);
                     dadosDoDia.getComplany().increment(dadosDoDia.getClosePrice());
                     dadosDoDia.getComplany().getDadosDoDiaSet().add(dadosDoDia);
@@ -67,19 +68,22 @@ public class FileReader {
         });
     }
 
+    private void handleLine(String line) {
+        String codNegociation = line.substring(12, 24).trim() + "-" + line.substring(45, 56).trim();
+        if (service.containsCompany(codNegociation)) {
+            DadosDoDia dadosDoDia = buildDadosDoDia(codNegociation, line);
+            dadosDoDia.getComplany().getDadosDoDiaSet().add(dadosDoDia);
+            dadosDoDia.getComplany().increment(dadosDoDia.getClosePrice());
+//                    service.addDados(dadosDoDia);
+//                    service.addLocalDate(date, dadosDoDia);
+        }
+    }
 
     private void handleLinesToTrain(Stream<String> stream) {
         String s = stream.toString();
         stream.forEach(line -> {
             try {
-                String codNegociation = line.substring(12, 24).trim() + "-" + line.substring(45, 56).trim();
-                if (service.containsCompany(codNegociation)) {
-                    DadosDoDia dadosDoDia = buildDadosDoDia(codNegociation,line);
-                    dadosDoDia.getComplany().getDadosDoDiaSet().add(dadosDoDia);
-                    dadosDoDia.getComplany().increment(dadosDoDia.getClosePrice());
-//                    service.addDados(dadosDoDia);
-//                    service.addLocalDate(date, dadosDoDia);
-                }
+                handleLine(line);
             } catch (DateTimeParseException dateTimeParseException) {
                 System.out.println("DateTimeParseException (primeira e ultima linha)");
             } catch (UncheckedIOException e) {

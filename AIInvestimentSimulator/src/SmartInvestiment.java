@@ -33,7 +33,7 @@ public class SmartInvestiment extends Config {
             toSell = new HashMap<>();
         });
         sellAllOnLastDay();
-        logWritter.writeInFile("logWritter.txt");
+        logWritter.writeInFile(RESULT_PATH + service.finalPercent() + "_logWritter.txt");
     }
 
     private void sellAllOnLastDay() {
@@ -132,7 +132,7 @@ public class SmartInvestiment extends Config {
 
     public boolean worthToSell(double closePrice, double average_or_last_buy) {
         int bypass = 1;
-        if(bypass ==0) {
+        if (bypass == 0) {
             return closePrice >= haveEnoughtPriceToSell(average_or_last_buy);
         }
         if (closePrice < average_or_last_buy) {
@@ -165,7 +165,7 @@ public class SmartInvestiment extends Config {
         logWritter.addToWrite("-------VENDA Ação da empresa " + dadosDoDia.getComplany().getName() + ", na data" + dadosDoDia.getDate().toString());
         logWritter.addToWrite("Ação com valor " + dadosDoDia.getClosePrice() + ", Sendo a media de " + dadosDoDia.getComplany().getAverage());
         logWritter.addToWrite("Com media de " + dadosDoDia.getComplany().getAverage());
-        company.setProfit_prejudice(company.getProfit_prejudice() + (company.getActions()*(dadosDoDia.getClosePrice()-company.getLastBuy())));
+        company.setProfit_prejudice(company.getProfit_prejudice() + (company.getActions() * (dadosDoDia.getClosePrice() - company.getLastBuy())));
         updateMoneyFromSoldAction(company.getActions(), dadosDoDia.getClosePrice());
         company.setActions(0);
     }
