@@ -52,3 +52,16 @@ public class File {
     }
     
 }
+/*
+* Tenho 100% de R$, e 4 ações
+* invisto valores aleatorios, max = 100, while rand (0~max) array invest = 0,1,2,4,8,16,32,64,
+*
+*
+*
+*
+*
+*
+*
+*
+*
+* */

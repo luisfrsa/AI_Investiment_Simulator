@@ -25,7 +25,7 @@ public class Config {
     protected static final Set<String> avaliableCompanies = new HashSet<>();
     protected static final List<File> FILES_TO_TRAIN = new ArrayList<>();
     protected static final List<File> FILES_TO_RUN = new ArrayList<>();
-    protected static final String RESULT_PATH = "../result/";
+    protected static final String RESULT_PATH = "../result_pitomba/";
 
 
     protected void setUpFiles() {
