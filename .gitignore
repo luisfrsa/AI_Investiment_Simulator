@@ -1,4 +1,4 @@
-instances/*.txt
-instances/*.TXT
+*.txt
+*.TXT
 /AIInvestimentSimulator/nbproject/private/
 /AIInvestimentSimulator/build/
