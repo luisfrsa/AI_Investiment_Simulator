@@ -33,7 +33,7 @@ public class SmartInvestiment extends Config {
             toSell = new HashMap<>();
         });
         sellAllOnLastDay();
-        logWritter.writeInFile(RESULT_PATH + service.finalPercent() + "_logWritter.txt");
+        logWritter.writeInFile(RESULT_PATH +RUNNED_INSTANCE_STRING+ service.finalPercent() + "_logWritter.txt");
     }
 
     private void sellAllOnLastDay() {

@@ -26,20 +26,31 @@ public class Config {
     protected static final List<File> FILES_TO_TRAIN = new ArrayList<>();
     protected static final List<File> FILES_TO_RUN = new ArrayList<>();
     protected static final String RESULT_PATH = "../result/";
+    protected static List<String> INSTANCES_TO_TRAIN = new ArrayList<>();
+    protected static List<String> INSTANCE_TO_RUN = new ArrayList<>();
+    protected static String RUNNED_INSTANCE_STRING = "";
 
 
     protected void setUpFiles() {
 //        TO_PRINT_DATA = true;
 //        FILES_TO_TRAIN.add(new File("COTAHIST_A2013.TXT"));
-        FILES_TO_TRAIN.add(new File("COTAHIST_A2014.TXT"));
-        FILES_TO_TRAIN.add(new File("COTAHIST_A2015.TXT"));
+//        FILES_TO_TRAIN.add(new File("COTAHIST_A2014.TXT"));
+//        FILES_TO_TRAIN.add(new File("COTAHIST_A2015.TXT"));
 //        FILES_TO_TRAIN.add(new File("COTAHIST_A2016.TXT"));
 
 //        FILES_TO_RUN.add(new File( "COTAHIST_A2013.TXT"));
 //        FILES_TO_RUN.add(new File( "COTAHIST_A2014.TXT"));
 //        FILES_TO_RUN.add(new File( "COTAHIST_A2015.TXT"));
-        FILES_TO_RUN.add(new File( "COTAHIST_A2016.TXT"));
+//        FILES_TO_RUN.add(new File( "COTAHIST_A2016.TXT"));
 //        FILES_TO_RUN.add(new File("COTAHIST_A2017.TXT"));
+        FILES_TO_TRAIN.forEach(instance -> {
+            FILES_TO_TRAIN.add(new File("COTAHIST_A" + instance + ".TXT"));
+        });
+        INSTANCE_TO_RUN.forEach(instance -> {
+            RUNNED_INSTANCE_STRING += instance + "_";
+            FILES_TO_RUN.add(new File("COTAHIST_A" + instance + ".TXT"));
+        });
+
     }
 
 
@@ -56,7 +67,7 @@ public class Config {
         avaliableCompanies.add("CSNA3F-R$");
     }
 
-    protected void generateCompanysAll() {
+    protected void generateCompanys2() {
         avaliableCompanies.add("VIVT3F-R$");
         avaliableCompanies.add("NATU3-NM   R$");
         avaliableCompanies.add("JSLG3-NM   R$");

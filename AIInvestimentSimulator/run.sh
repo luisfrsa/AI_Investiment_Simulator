@@ -1,10 +1,23 @@
-declare -a PARAM_MIN_TO_BUY=("0.01" "0.03" "0.05" "0.1" "0.2")
-declare -a PARAM_MIN_TO_SELL=("0.005" "0.01" "0.025" "0.05" "0.1")
-declare -a PARAM_DISCARD_DIV=("1.0" "1.01" "1.05" "1.1" "1.2" "1.5" "2" "3")
-declare -a PARAM_DAYS_TO_DISCARD=("10" "20" "45" "60" "90")
+#declare -a PARAM_MIN_TO_BUY=("0.01" "0.03" "0.05")
+#declare -a PARAM_MIN_TO_SELL=("0.15" "0.2" "0.25")
+#declare -a PARAM_DISCARD_DIV=("2" "2.5" "3.5")
+#declare -a PARAM_DAYS_TO_DISCARD=("5" "10" "20")
+#declare -a PARAM_MIN_DAYS_TO_BEGIN=("0")
+#declare -a PARAM_MAX_MONEY_TO_INVEST=("1" "1.1" "1.2")
+#declare -a MONEY=("100000")
+#declare -a INSTANCES=("2013-2014,2015" "2014-2015,2016" "2015-2016,2017")
+
+declare -a PARAM_MIN_TO_BUY=("0.03")
+declare -a PARAM_MIN_TO_SELL=("0.15")
+declare -a PARAM_DISCARD_DIV=("2.5")
+declare -a PARAM_DAYS_TO_DISCARD=("5")
 declare -a PARAM_MIN_DAYS_TO_BEGIN=("0")
-declare -a PARAM_MAX_MONEY_TO_INVEST=("1" "1.1" "1.5" "2" "2.5")
-declare -a MONEY=("100000")
+declare -a PARAM_MAX_MONEY_TO_INVEST=("1")
+declare -a MONEY=("250000")
+#declare -a INSTANCES=("2011-2012,2013-2014-2015-2016-2017" "2012-2013,2014-2015-2016-2017" "2013-2014,2015-2016-2017" "2014-2015,2016-2017" "2015-2016,2017")
+declare -a INSTANCES=("2015-2016,2017")
+
+
 
 #declare -a PARAM_MIN_TO_BUY=("0.01" "0.05" "0.1")
 #declare -a PARAM_MIN_TO_SELL=("0.005" "0.01" "0.1")
@@ -43,8 +56,11 @@ do
                     do
                         for MONEY_VAR in "${MONEY[@]}";
                         do
-                            java AIInvestimentSimulator $PARAM_MIN_TO_BUY_VAR $PARAM_MIN_TO_SELL_VAR $PARAM_DISCARD_DIV_VAR $PARAM_DAYS_TO_DISCARD_VAR $PARAM_MIN_DAYS_TO_BEGIN_VAR $PARAM_MAX_MONEY_TO_INVEST_VAR $MONEY_VAR  0
-                            #echo "java AIInvestimentSimulator $PARAM_MIN_TO_BUY_VAR $PARAM_MIN_TO_SELL_VAR $PARAM_DISCARD_DIV_VAR $PARAM_DAYS_TO_DISCARD_VAR $PARAM_MIN_DAYS_TO_BEGIN_VAR $PARAM_MAX_MONEY_TO_INVEST_VAR $MONEY_VAR 0"
+                           for INSTANCE_VAR in "${INSTANCES[@]}";
+                           do
+                                java AIInvestimentSimulator $PARAM_MIN_TO_BUY_VAR $PARAM_MIN_TO_SELL_VAR $PARAM_DISCARD_DIV_VAR $PARAM_DAYS_TO_DISCARD_VAR $PARAM_MIN_DAYS_TO_BEGIN_VAR $PARAM_MAX_MONEY_TO_INVEST_VAR $MONEY_VAR  0 $INSTANCE_VAR
+                                #echo "java AIInvestimentSimulator $PARAM_MIN_TO_BUY_VAR $PARAM_MIN_TO_SELL_VAR $PARAM_DISCARD_DIV_VAR $PARAM_DAYS_TO_DISCARD_VAR $PARAM_MIN_DAYS_TO_BEGIN_VAR $PARAM_MAX_MONEY_TO_INVEST_VAR $MONEY_VAR  0 $INSTANCE_VAR"
+                            done
                         done
                     done
                 done
