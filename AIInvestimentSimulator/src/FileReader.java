@@ -26,6 +26,8 @@ public class FileReader {
         try {
             service.generateCompanys();
             Stream<String> stream = Files.lines(Paths.get(FILE_PATH + fileDir), Charset.defaultCharset());
+            System.out.println("ASDASD");
+            System.out.println(fileDir);
             handleLinesToTrain(stream);
         } catch (IOException e) {
             System.out.println("Erro ao ler arquivo: " + fileDir);
@@ -35,8 +37,11 @@ public class FileReader {
 
     public void readFileToRun(String fileDir) {
         try {
+            System.out.println("haha");
+
             service.generateCompanys();
             Stream<String> stream = Files.lines(Paths.get(FILE_PATH + fileDir));
+            System.out.println(fileDir);
             handleLinesToRun(stream);
         } catch (IOException e) {
             System.out.println("Erro ao ler arquivo: " + fileDir);
@@ -45,27 +50,26 @@ public class FileReader {
     }
 
     private void handleLinesToRun(Stream<String> stream) {
-        stream.forEach(line -> {
-            try {
+        try {
+            stream.forEach(line -> {
                 String codNegociation = line.substring(12, 24).trim() + "-" + line.substring(45, 56).trim();
                 if (service.containsCompany(codNegociation)) {
-
                     DadosDoDia dadosDoDia = buildDadosDoDia(codNegociation, line);
                     dadosDoDia.getComplany().getDadosDoDiaSet().add(dadosDoDia);
                     dadosDoDia.getComplany().increment(dadosDoDia.getClosePrice());
                     dadosDoDia.getComplany().getDadosDoDiaSet().add(dadosDoDia);
                     service.addLocalDate(dadosDoDia.getDate(), dadosDoDia);
                 }
-            } catch (DateTimeParseException dateTimeParseException) {
-                System.out.println("DateTimeParseException (primeira e ultima linha)");
-            } catch (UncheckedIOException e) {
-                System.out.println("UncheckedIOException: ");
-                e.printStackTrace();
-            } catch (Exception e) {
-                System.out.println("Erro ao ao formatar dados: ");
-                e.printStackTrace();
-            }
-        });
+            });
+        } catch (DateTimeParseException dateTimeParseException) {
+            System.out.println("DateTimeParseException (primeira e ultima linha)");
+        } catch (UncheckedIOException e) {
+            System.out.println("UncheckedIOException: ");
+            e.printStackTrace();
+        } catch (Exception e) {
+            System.out.println("Erro ao ao formatar dados: ");
+            e.printStackTrace();
+        }
     }
 
     private void handleLine(String line) {

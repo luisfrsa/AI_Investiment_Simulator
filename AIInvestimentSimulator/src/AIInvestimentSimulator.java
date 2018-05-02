@@ -55,11 +55,18 @@ public class AIInvestimentSimulator extends Config {
     public void run() {
         setUpFiles();
         FileReader reader = new FileReader(service);
+        System.out.println("TRAIN");
         FILES_TO_TRAIN.forEach(file -> {
+            System.out.println("train" + file);
             reader.readFileToTrain(file.getName());
+            System.out.println("trained" + file);
+
         });
+        System.out.println("RUN");
         FILES_TO_RUN.forEach(file -> {
+            System.out.println("run" + file);
             reader.readFileToRun(file.getName());
+            System.out.println("runed" + file);
         });
 
         SMART_INVESTIMENT.run();
