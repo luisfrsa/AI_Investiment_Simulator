@@ -13,7 +13,7 @@ import java.util.stream.Stream;
 /**
  * @author luisr
  */
-public class FileReader extends Config{
+public class FileReader extends Config {
     private static Service service;
     private static final String FILE_PATH = System.getProperty("user.dir") + "/../instances/";
 
@@ -25,7 +25,7 @@ public class FileReader extends Config{
         try {
             service.generateCompanys();
             Stream<String> stream = Files.lines(Paths.get(FILE_PATH + fileDir), Charset.defaultCharset());
-            System.out.println("TRain "+fileDir);
+            System.out.println("TRain " + fileDir);
             handleLinesToTrain(stream);
 
         } catch (IOException e) {
@@ -38,7 +38,7 @@ public class FileReader extends Config{
         try {
             service.generateCompanys();
             Stream<String> stream = Files.lines(Paths.get(FILE_PATH + fileDir));
-            System.out.println("Run "+fileDir);
+            System.out.println("Run " + fileDir);
             handleLinesToRun(stream);
         } catch (IOException e) {
             System.out.println("Erro ao ler arquivo: " + fileDir);
@@ -49,16 +49,18 @@ public class FileReader extends Config{
     private void handleLinesToRun(Stream<String> stream) {
         try {
             stream.forEach(line -> {
-                String codNegociation = line.substring(12, 24).trim() + "-" + line.substring(45, 56).trim();
-                if (service.containsCompany(codNegociation)) {
-                    DadosDoDia dadosDoDia = buildDadosDoDia(codNegociation, line);
-                    Company company =dadosDoDia.getComplany();
-                    company.getDadosDoDiaSet().add(dadosDoDia);
-                    company.increment(dadosDoDia.getClosePrice());
-                    company.getDadosDoDiaSet().add(dadosDoDia);
-                    company.setNum_actions(company.getNum_actions()+1);
-                    service.addLocalDate(dadosDoDia.getDate(), dadosDoDia);
-                }
+//                if (!service.containsSpace(line)) {
+                    String codNegociation = line.substring(12, 24).trim() + "-" + line.substring(45, 56).trim();
+                    if (service.containsCompany(codNegociation)) {
+                        DadosDoDia dadosDoDia = buildDadosDoDia(codNegociation, line);
+                        Company company = dadosDoDia.getComplany();
+                        company.getDadosDoDiaSet().add(dadosDoDia);
+                        company.increment(dadosDoDia.getClosePrice());
+                        company.getDadosDoDiaSet().add(dadosDoDia);
+                        company.setNum_actions(company.getNum_actions() + 1);
+                        service.addLocalDate(dadosDoDia.getDate(), dadosDoDia);
+                    }
+//                }
             });
         } catch (DateTimeParseException dateTimeParseException) {
             System.out.println("DateTimeParseException (primeira e ultima linha)");
@@ -81,10 +83,11 @@ public class FileReader extends Config{
     }
 
     private void handleLinesToTrain(Stream<String> stream) {
-        String s = stream.toString();
         stream.forEach(line -> {
             try {
-                handleLine(line);
+//                if (!service.containsSpace(line)) {
+                    handleLine(line);
+//                }
             } catch (DateTimeParseException dateTimeParseException) {
                 System.out.println("DateTimeParseException (primeira e ultima linha)");
             } catch (UncheckedIOException e) {

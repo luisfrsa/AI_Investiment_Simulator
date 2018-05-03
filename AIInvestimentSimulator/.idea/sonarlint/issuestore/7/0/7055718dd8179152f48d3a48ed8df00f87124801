@@ -1,0 +1,35 @@
+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ûá•ëøÿÿÿÿ8×£ç®²,
+Rsquid:S2696"6Make the enclosing method "static" or remove this set.(°Àä¥8Æ®è®²,
+vsquid:S3008"ZRename this field "INSTANCE_TO_RUN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áŒ³÷8ùÓæ®²,
+7squid:S2390"#Remove this reference to "Service".(Õµ¦,
+ksquid:S3008"VRename this field "START_MONEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑðÑú
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(©¥¯Óþÿÿÿÿ8ùÓæ®²,
+qsquid:S3008"\Rename this field "PARAM_MIN_TO_SELL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îåÛï
+|squid:S3008"bRename this field "PARAM_MIN_DAYS_TO_BEGIN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ýÊóµùÿÿÿÿ
+ysquid:S3008"]Rename this field "INSTANCES_TO_TRAIN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”µ´Ö8ùÓæ®²,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÏÐªƒ8Æ®è®²,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ô€ÞŸ8ïƒ³®²,
+msquid:S3008"XRename this field "TO_PRINT_DATA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öË˜Ø
+1squid:S1220""Move this file to a named package.
+Msquid:UselessImportCheck"+Remove this unused import 'java.time.Year'.(Èƒœ¦
+usquid:S3008"[Rename this field "PARAM_MIN_TO_BUY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦È…ýÿÿÿÿ
+jsquid:S3008"PRename this field "MONEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–Ÿ½îúÿÿÿÿ
+usquid:S3008"`Rename this field "PARAM_DAYS_TO_DISCARD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÒñ¢
+qsquid:S3008"\Rename this field "SMART_INVESTIMENT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Úå¯
+qsquid:S3008"\Rename this field "PARAM_DISCARD_DIV" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿¯šŠ
+}squid:S3008"aRename this field "RUNNED_INSTANCE_STRING" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½¬Ñú8ùÓæ®²,
+Asquid:S2390",Remove this reference to "SmartInvestiment".(Úå¯
+ysquid:S3008"dRename this field "PARAM_MAX_MONEY_TO_INVEST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§„ú²
+jsquid:S1192"IDefine a constant instead of duplicating this literal "VIVT3-R$" 3 times.(·¥çûÿÿÿÿ8§Ää¯²,
+esquid:S1192"JDefine a constant instead of duplicating this literal "GRND3F-NM" 3 times.(¾¯|8§Ää¯²,
+jsquid:S1192"IDefine a constant instead of duplicating this literal "NATU3-NM" 3 times.(‚Ë§øÿÿÿÿ8§Ää¯²,
+ksquid:S1192"JDefine a constant instead of duplicating this literal "NATU3F-NM" 3 times.(†ãï¦üÿÿÿÿ8§Ää¯²,
+ksquid:S1192"JDefine a constant instead of duplicating this literal "CSNA3F-R$" 3 times.(´Ú¦õþÿÿÿÿ8§Ää¯²,
+jsquid:S1192"IDefine a constant instead of duplicating this literal "JSLG3-NM" 3 times.(µ¿àÿÿÿÿÿ8§Ää¯²,
+dsquid:S1192"IDefine a constant instead of duplicating this literal "GRND3-NM" 3 times.(ï†ý8§Ää¯²,
+ksquid:S1192"JDefine a constant instead of duplicating this literal "LEVE3F-NM" 3 times.(ýÏ•ýÿÿÿÿ8§Ää¯²,
+ksquid:S1192"JDefine a constant instead of duplicating this literal "JSLG3F-NM" 3 times.(ëÂýËùÿÿÿÿ8§Ää¯²,
+ksquid:S1192"JDefine a constant instead of duplicating this literal "VIVT3F-R$" 3 times.(ÖÜÐâÿÿÿÿÿ8§Ää¯²,

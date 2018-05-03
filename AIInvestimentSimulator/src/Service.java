@@ -39,6 +39,11 @@ public class Service extends Config {
         return false;
     }
 
+    public boolean containsSpace(String line) {
+        System.out.println(line);
+        return line.contains("                        ");
+    }
+
     public void updateAverage(Company company, double value) {
         if (company.getCount() % PARAM_DAYS_TO_DISCARD == 0) {
             discardDaysFromAverage(company);

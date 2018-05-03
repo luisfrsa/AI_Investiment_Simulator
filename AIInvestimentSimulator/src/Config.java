@@ -23,6 +23,7 @@ public class Config {
     protected static final TreeMap<LocalDate, Set<DadosDoDia>> HASH_DATE_DADOS = new TreeMap<>();
 
     protected static final Set<String> avaliableCompanies = new HashSet<>();
+
     protected static final List<File> FILES_TO_TRAIN = new ArrayList<>();
     protected static final List<File> FILES_TO_RUN = new ArrayList<>();
     protected static final String RESULT_PATH = "../result/";
@@ -46,9 +47,11 @@ public class Config {
 //        FILES_TO_RUN.add(new File( "COTAHIST_A2016.TXT"));
 //        FILES_TO_RUN.add(new File("COTAHIST_A2017.TXT"));
         INSTANCES_TO_TRAIN.forEach(instance -> {
+            System.out.println("File to train "+instance);
             FILES_TO_TRAIN.add(new File("COTAHIST_A" + instance + ".TXT"));
         });
         INSTANCE_TO_RUN.forEach(instance -> {
+            System.out.println("File to RUN "+instance);
             RUNNED_INSTANCE_STRING += instance + "_";
             FILES_TO_RUN.add(new File("COTAHIST_A" + instance + ".TXT"));
         });
@@ -56,7 +59,7 @@ public class Config {
     }
 
 
-    protected void generateCompanys() {
+    protected void generateCompanys2() {
         avaliableCompanies.add("LEVE3F-NM");
         avaliableCompanies.add("GRND3-NM");
         avaliableCompanies.add("GRND3F-NM");
@@ -69,7 +72,7 @@ public class Config {
         avaliableCompanies.add("CSNA3F-R$");
     }
 
-    protected void generateCompanys2() {
+    protected void generateCompanys() {
         avaliableCompanies.add("VIVT3F-R$");
         avaliableCompanies.add("NATU3-NM");
         avaliableCompanies.add("JSLG3-NM");
