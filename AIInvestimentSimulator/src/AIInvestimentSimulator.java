@@ -25,8 +25,11 @@ public class AIInvestimentSimulator extends Config {
         PARAM_DAYS_TO_DISCARD= 10;
         PARAM_MIN_DAYS_TO_BEGIN= 0;
         PARAM_MAX_MONEY_TO_INVEST= 1.0;
-        MONEY= 100000.0;
-        TO_PRINT_DATA = true;
+//        MONEY= 100000.0;
+        MONEY= 1000;
+        TO_PRINT_DATA = false;
+      //  PARAM_DISCARD_DIV= 1.5;
+       // PARAM_DAYS_TO_DISCARD= 15;
 //        Arrays.stream(args).forEach(a->{
 //            System.out.println(a);
 //        });

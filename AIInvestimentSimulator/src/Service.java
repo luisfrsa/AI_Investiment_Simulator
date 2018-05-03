@@ -29,6 +29,9 @@ public class Service extends Config {
 
 
     public boolean containsCompany(String company) {
+//        if(!company.isEmpty()){
+//            return true;
+//        }
         for (String comp : avaliableCompanies) {
             if (company.contains(comp)) {
                 return true;
@@ -74,7 +77,6 @@ public class Service extends Config {
 
             loadedDateCompany.addToWrite(str);
             loadedDateCompany.writeInFile(RESULT_PATH + finalPercent() + "loadedDateCompany.txt");
-
 
         }
 
