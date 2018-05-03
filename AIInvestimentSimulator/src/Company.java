@@ -20,7 +20,9 @@ public class Company {
     private int actions;
     private double count;
     private double lastBuy;
+    private double lastBuyCount;
     private double profit_prejudice;
+    private double num_actions;
     private Set<DadosDoDia> dadosDoDiaSet = new HashSet<>();
 
 
@@ -29,6 +31,9 @@ public class Company {
         this.sum = 0;
         this.count = 0;
         this.profit_prejudice = 0;
+        this.lastBuyCount = 0;
+        this.lastBuy = 0;
+
     }
 
     public void increment(double value) {
@@ -103,6 +108,22 @@ public class Company {
 
     public void setProfit_prejudice(double profit_prejudice) {
         this.profit_prejudice = profit_prejudice;
+    }
+
+    public double getNum_actions() {
+        return num_actions;
+    }
+
+    public void setNum_actions(double num_actions) {
+        this.num_actions = num_actions;
+    }
+
+    public double getLastBuyCount() {
+        return lastBuyCount;
+    }
+
+    public void setLastBuyCount(double lastBuyCount) {
+        this.lastBuyCount = lastBuyCount;
     }
 
     @Override

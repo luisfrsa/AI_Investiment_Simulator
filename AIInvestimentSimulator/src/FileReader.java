@@ -13,8 +13,7 @@ import java.util.stream.Stream;
 /**
  * @author luisr
  */
-public class FileReader {
-    public static final int AHUNDREAD = 100;
+public class FileReader extends Config{
     private static Service service;
     private static final String FILE_PATH = System.getProperty("user.dir") + "/../instances/";
 
@@ -53,9 +52,11 @@ public class FileReader {
                 String codNegociation = line.substring(12, 24).trim() + "-" + line.substring(45, 56).trim();
                 if (service.containsCompany(codNegociation)) {
                     DadosDoDia dadosDoDia = buildDadosDoDia(codNegociation, line);
-                    dadosDoDia.getComplany().getDadosDoDiaSet().add(dadosDoDia);
-                    dadosDoDia.getComplany().increment(dadosDoDia.getClosePrice());
-                    dadosDoDia.getComplany().getDadosDoDiaSet().add(dadosDoDia);
+                    Company company =dadosDoDia.getComplany();
+                    company.getDadosDoDiaSet().add(dadosDoDia);
+                    company.increment(dadosDoDia.getClosePrice());
+                    company.getDadosDoDiaSet().add(dadosDoDia);
+                    company.setNum_actions(company.getNum_actions()+1);
                     service.addLocalDate(dadosDoDia.getDate(), dadosDoDia);
                 }
             });
@@ -76,8 +77,6 @@ public class FileReader {
             DadosDoDia dadosDoDia = buildDadosDoDia(codNegociation, line);
             dadosDoDia.getComplany().getDadosDoDiaSet().add(dadosDoDia);
             dadosDoDia.getComplany().increment(dadosDoDia.getClosePrice());
-//                    service.addDados(dadosDoDia);
-//                    service.addLocalDate(date, dadosDoDia);
         }
     }
 

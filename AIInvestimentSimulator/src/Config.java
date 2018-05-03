@@ -29,6 +29,8 @@ public class Config {
     protected static List<String> INSTANCES_TO_TRAIN = new ArrayList<>();
     protected static List<String> INSTANCE_TO_RUN = new ArrayList<>();
     protected static String RUNNED_INSTANCE_STRING = "";
+    protected static final int NUM_ACTIONS = 220;
+    public static final int AHUNDREAD = 100;
 
 
     protected void setUpFiles() {
