@@ -5,27 +5,34 @@ import java.util.*;
 
 public class Config {
 
-    protected static double PARAM_MIN_TO_BUY;
-    protected static double PARAM_MIN_TO_SELL;
-    protected static double PARAM_DISCARD_DIV;
-    protected static double PARAM_MAX_MONEY_TO_INVEST;
-    protected static int PARAM_DAYS_TO_DISCARD;
-    protected static int PARAM_MIN_DAYS_TO_BEGIN;
+    protected static double[] STATIC_PARAM_MIN_TO_BUY;
+    protected static double[] STATIC_PARAM_MIN_TO_SELL;
+    protected static double[] STATIC_PARAM_DISCARD_DIV;
+    protected static double[] STATIC_PARAM_MAX_MONEY_TO_INVEST;
+    protected static int[] STATIC_PARAM_DAYS_TO_DISCARD;
+    protected static int[] STATIC_PARAM_MIN_DAYS_TO_BEGIN;
+
+    protected  double PARAM_MIN_TO_BUY;
+    protected  double PARAM_MIN_TO_SELL;
+    protected  double PARAM_DISCARD_DIV;
+    protected  double PARAM_MAX_MONEY_TO_INVEST;
+    protected  int PARAM_DAYS_TO_DISCARD;
+    protected  int PARAM_MIN_DAYS_TO_BEGIN;
 
     protected static boolean TO_PRINT_DATA;
-    protected static double MONEY;
+    protected double MONEY;
     protected static double START_MONEY;
 
-    protected static SmartInvestiment SMART_INVESTIMENT = new SmartInvestiment();
-    protected static final Service service = new Service();
+    protected  SmartInvestiment SMART_INVESTIMENT = new SmartInvestiment();
+    protected  final Service service = new Service();
 
-    protected static final HashMap<String, Company> COMPANY_HASH_MAP = new HashMap<>();
-    protected static final TreeMap<LocalDate, Set<DadosDoDia>> HASH_DATE_DADOS = new TreeMap<>();
+    protected  final HashMap<String, Company> COMPANY_HASH_MAP = new HashMap<>();
+    protected  final TreeMap<LocalDate, Set<DadosDoDia>> HASH_DATE_DADOS = new TreeMap<>();
 
-    protected static final Set<String> avaliableCompanies = new HashSet<>();
-    protected static final List<File> FILES_TO_TRAIN = new ArrayList<>();
-    protected static final List<File> FILES_TO_RUN = new ArrayList<>();
-    protected static final String RESULT_PATH = "../result/";
+    protected  final Set<String> avaliableCompanies = new HashSet<>();
+    protected  final List<File> FILES_TO_TRAIN = new ArrayList<>();
+    protected  final List<File> FILES_TO_RUN = new ArrayList<>();
+    protected  final String RESULT_PATH = "../result/";
     protected static List<String> INSTANCES_TO_TRAIN = new ArrayList<>();
     protected static List<String> INSTANCE_TO_RUN = new ArrayList<>();
     protected static String RUNNED_INSTANCE_STRING = "";

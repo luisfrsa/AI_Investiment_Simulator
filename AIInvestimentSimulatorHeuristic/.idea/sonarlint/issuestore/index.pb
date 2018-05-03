@@ -1,3 +1,0 @@
-
-9
-	saida.txt,6\2\62060f2f4e07b2a092cdeb04181623ae0cc6a770
