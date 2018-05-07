@@ -1,5 +1,7 @@
 
-;
-run_tiny.sh,e\5\e5bae5cdec9a6b2067780d78b27d28a59b473471
-6
-run.sh,3\2\324fcb49f1cf313ebdd7cbda6a71b73727ddd94d
+?
+src\Config.java,7\0\7055718dd8179152f48d3a48ed8df00f87124801
+?
+run_genetico.sh,3\b\3b78c7014f96cdf05420384be70ce626e95669ca
+W
+'src\AIInvestimentSimulatorGenetico.java,b\5\b564194886201cc018286106de8f003aa085d23f

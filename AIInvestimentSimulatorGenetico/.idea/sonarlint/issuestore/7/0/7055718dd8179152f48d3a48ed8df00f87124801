@@ -1,0 +1,32 @@
+
+|squid:S3008"bRename this field "STATIC_PARAM_MIN_TO_BUY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÉÎ¶úÿÿÿÿ
+}squid:S3008"cRename this field "STATIC_PARAM_MIN_TO_SELL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø“øÿÿÿÿ
+}squid:S3008"cRename this field "STATIC_PARAM_DISCARD_DIV" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íë Ûÿÿÿÿÿ
+…squid:S3008"kRename this field "STATIC_PARAM_MAX_MONEY_TO_INVEST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ñìÖüÿÿÿÿ
+squid:S3008"gRename this field "STATIC_PARAM_DAYS_TO_DISCARD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´…€²üÿÿÿÿ
+ƒsquid:S3008"iRename this field "STATIC_PARAM_MIN_DAYS_TO_BEGIN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„©½¢ıÿÿÿÿ
+msquid:S3008"XRename this field "TO_PRINT_DATA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öË˜Ø
+ksquid:S3008"VRename this field "START_MONEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑğÑú
+rsquid:S3008"]Rename this field "INSTANCES_TO_TRAIN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”µ´Ö
+osquid:S3008"ZRename this field "INSTANCE_TO_RUN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áŒ³÷
+vsquid:S3008"aRename this field "RUNNED_INSTANCE_STRING" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½¬Ñú
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(©¥¯Óşÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ô€ŞŸ
+Ksquid:S2696"6Make the enclosing method "static" or remove this set.(°Àä¥
+1squid:S1220""Move this file to a named package.
+;squid:S1170"!Make this final field static too.(Ú‹Ä­úÿÿÿÿ
+Fsquid:S1602",Remove useless curly braces around statement(ëŒïşÿÿÿÿ
+qsquid:S00116"[Rename this field "PARAM_MIN_TO_BUY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÆÓ
+wsquid:S00116"\Rename this field "PARAM_MIN_TO_SELL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºä¯İûÿÿÿÿ
+rsquid:S00116"\Rename this field "PARAM_DISCARD_DIV" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊŒ¹ƒ
+squid:S00116"dRename this field "PARAM_MAX_MONEY_TO_INVEST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º³‘Ìÿÿÿÿÿ
+{squid:S00116"`Rename this field "PARAM_DAYS_TO_DISCARD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İŸ’¼üÿÿÿÿ
+wsquid:S00116"bRename this field "PARAM_MIN_DAYS_TO_BEGIN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»‚®
+fsquid:S00116"PRename this field "MONEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÅÌ
+wsquid:S00116"\Rename this field "SMART_INVESTIMENT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·±†ÿÿÿÿÿ
+psquid:S00116"[Rename this field "COMPANY_HASH_MAP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰‚
+usquid:S00116"ZRename this field "HASH_DATE_DADOS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô¶ˆñøÿÿÿÿ
+tsquid:S00116"YRename this field "FILES_TO_TRAIN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ƒ«¼ûÿÿÿÿ
+msquid:S00116"WRename this field "FILES_TO_RUN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚öãé
+qsquid:S00116"VRename this field "RESULT_PATH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú‹Ä­úÿÿÿÿ
+Msquid:UselessImportCheck"+Remove this unused import 'java.time.Year'.(Èƒœ¦

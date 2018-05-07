@@ -1,0 +1,16 @@
+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÏÞ´û8ê¿”Ñ³,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ê¿”Ñ³,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(è‹²8ê¿”Ñ³,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(‚“çÒ8ê¿”Ñ³,
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÍŽ‰ûÿÿÿÿ8ê¿”Ñ³,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ûœ´µ8ê¿”Ñ³,
+8squid:S1220""Move this file to a named package.8ê¿”Ñ³,
+¢%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8ê¿”Ñ³,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¬èØ¥8ê¿”Ñ³,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ä€õÿ8ê¿”Ñ³,

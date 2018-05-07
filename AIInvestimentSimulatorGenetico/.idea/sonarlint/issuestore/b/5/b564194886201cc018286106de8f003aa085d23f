@@ -1,0 +1,13 @@
+
+›%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(è‹²
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(˜ýñùÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(¬èØ¥
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(‚“çÒ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ûœ´µ
+1squid:S1220""Move this file to a named package.
+›squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ôÎ¼•ûÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
