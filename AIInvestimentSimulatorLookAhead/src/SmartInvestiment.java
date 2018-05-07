@@ -23,8 +23,8 @@ public class SmartInvestiment extends Config {
 //            logWritter.addToWrite(localDate);
 
             dadosDoDiasSet.forEach(dadosDoDia -> {
+                Double closeTomorrow = getDadosFromTomorrow(localDate, dadosDoDia.getComplany());
                 if (dadosDoDia.getComplany().getCount() > PARAM_MIN_DAYS_TO_BEGIN && dadosDoDia.getComplany().getNum_actions() > NUM_ACTIONS) {
-                    Double closeTomorrow = getDadosFromTomorrow(localDate, dadosDoDia.getComplany());
                     mapSellList(dadosDoDia, dadosDoDia.getComplany(), closeTomorrow);
                     mapInvestList(dadosDoDia, dadosDoDia.getComplany(), closeTomorrow);
                 }
@@ -40,24 +40,34 @@ public class SmartInvestiment extends Config {
     }
 
     private Double getDadosFromTomorrow(LocalDate today, Company company) {
-        Double closeDadoTomorrow = null;
-        DadosDoDia dadoTomorrow = null;
-        LocalDate tomorrow = today.plusDays(1L);
-        int numOfDays = 720;
+        try {
+            Double closeDadoTomorrow = null;
+            DadosDoDia dadoTomorrow = null;
+            LocalDate tomorrow = today.plusDays(1L);
+            int numOfDays = 720;
 
-        while (numOfDays-- > 0) {
-            tomorrow = today.plusDays(1L);
-            Set<DadosDoDia> setDadosTomorrow = HASH_DATE_DADOS.get(tomorrow);
-            if (Objects.nonNull(setDadosTomorrow) && setDadosTomorrow.size() > 0) {
-                dadoTomorrow = setDadosTomorrow.stream().filter(el -> el.getComplany() == company).findAny().orElse(null);
-                if (Objects.nonNull(dadoTomorrow)) {
-                    closeDadoTomorrow = dadoTomorrow.getClosePrice();
+            while (numOfDays-- > 0) {
+                tomorrow = tomorrow.plusDays(1L);
+                Set<DadosDoDia> setDadosTomorrow = HASH_DATE_DADOS.get(tomorrow);
+                if (Objects.nonNull(setDadosTomorrow) && setDadosTomorrow.size() > 0) {
+                    dadoTomorrow = setDadosTomorrow.stream().filter(el -> el.getComplany() == company).findAny().orElse(null);
+                    if (Objects.nonNull(dadoTomorrow)) {
+                        closeDadoTomorrow = dadoTomorrow.getClosePrice();
+//                        DadosDoDia dadoDiaToday = HASH_DATE_DADOS.get(today).stream().filter(el -> el.getComplany() == company).findAny().orElse(null);
+//                        System.out.println("--New search for " + today + " for " + company.getName() + "---");
+//                        System.out.println("Today: " + today.toString() + " price " + dadoDiaToday.getClosePrice());
+//                        System.out.println("Tomorrow: " + tomorrow.toString() + " price " + dadoTomorrow.getClosePrice());
 //                    System.out.println("Empresa " + company.getName() + ", Today " + today.toString() + " tomorrow " + tomorrow + " Value " + dadoTomorrow);
-                    break;
+                        break;
+                    }
                 }
             }
+            return closeDadoTomorrow;
+        } catch (NullPointerException e) {
+            e.printStackTrace();
         }
-        return closeDadoTomorrow;
+        return null;
+
     }
 
     private void sellAllOnLastDay() {
@@ -75,15 +85,23 @@ public class SmartInvestiment extends Config {
     }
 
     public void investRunner() {
-        toInvest.forEach((dadosDoDia, company) -> {});
-        int toInvestSize = toInvest.size();
-        toInvest.forEach((dadosDoDia, company) -> {
-            double moneyToInvest = (MONEY / PARAM_MAX_MONEY_TO_INVEST) * (1/toInvestSize);
-            if (moneyToInvest > 0) {
-                investInCompany(dadosDoDia, company, moneyToInvest);
-            }
-        });
 
+        double toInvestSize = toInvest.size();
+        if (toInvestSize > 0) {
+//            System.out.println("toInvestSize " + toInvestSize);
+//            System.out.println("1 / toInvestSize " + (1 / toInvestSize));
+//            System.out.println("MONEY " + MONEY);
+//            System.out.println("(MONEY / PARAM_MAX_MONEY_TO_INVEST) " + (MONEY / PARAM_MAX_MONEY_TO_INVEST));
+//            System.out.println("(MONEY / PARAM_MAX_MONEY_TO_INVEST) * (1 / toInvestSize) " + (MONEY / PARAM_MAX_MONEY_TO_INVEST) * (1 / toInvestSize));
+            toInvest.forEach((dadosDoDia, company) -> {
+//                double moneyToInvest = (MONEY / PARAM_MAX_MONEY_TO_INVEST) * (1 / toInvestSize);
+                double moneyToInvest = MONEY;
+//            double moneyToInvest = MONEY;
+                if (moneyToInvest > 0) {
+                    investInCompany(dadosDoDia, company, moneyToInvest);
+                }
+            });
+        }
     }
 
     public double getPercentOfPercent(double average, double closePrice, double totalPercent) {
@@ -105,9 +123,9 @@ public class SmartInvestiment extends Config {
 
     public void mapSellList(DadosDoDia dadosDoDia, Company company, Double closeTomorrow) {
         if (company.getActions() > 0) {
-            if (worthToSell(dadosDoDia.getClosePrice(), closeTomorrow)) {
-                toSell.put(dadosDoDia, company);
-            }
+//            if (worthToSell(dadosDoDia.getClosePrice(), closeTomorrow)) {
+            toSell.put(dadosDoDia, company);
+//            }
         }
     }
 

@@ -1,28 +1,0 @@
-
-Zsquid:S1155">Use isEmpty() to check whether the collection is empty or not.(¡ÄÛš8¢Ò³,
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Èúø¿ûÿÿÿÿ8‰ö¢Ò³,
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(—¹øüÿÿÿÿ8¢Ò³,
-Rsquid:S2696"6Make the enclosing method "static" or remove this set.(»Äÿ¥8‰ö¢Ò³,
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÇŞ‚×8‰ö¢Ò³,
-Msquid:S1612",Replace this lambda with a method reference.(Ú™Û“üÿÿÿÿ8‰ö¢Ò³,
-Wsquid:S2696"6Make the enclosing method "static" or remove this set.(ÊÕ»Öÿÿÿÿÿ8¢Ò³,
-Psquid:S1066"/Merge this if statement with the enclosing one.(ëÎ‹ßüÿÿÿÿ8‰ö¢Ò³,
-¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦ÛË‹úÿÿÿÿ8¢Ò³,
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¡Á¶8‰ö¢Ò³,
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÆÕ¨Üÿÿÿÿÿ8‰ö¢Ò³,
-vsquid:S00116"TRename this field "count_low" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§æè»øÿÿÿÿ8¢Ò³,
-]squid:S1854"<Remove this useless assignment to local variable "tomorrow".(©ı§Šúÿÿÿÿ8¢Ò³,
-Rsquid:S2696"6Make the enclosing method "static" or remove this set.(´ÖÓ8‰ö¢Ò³,
-rsquid:S00116"URename this field "count_high" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÛôç8¢Ò³,
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Šñª²ÿÿÿÿÿ8‰ö¢Ò³,
-Wsquid:S2696"6Make the enclosing method "static" or remove this set.(Û·îÌûÿÿÿÿ8‰ö¢Ò³,
-Nsquid:S1068"-Remove this unused "count_low" private field.(§æè»øÿÿÿÿ8¢Ò³,
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¾¶§¸úÿÿÿÿ8‰ö¢Ò³,
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(®Éß8‰ö¢Ò³,
-8squid:S1220""Move this file to a named package.8¢Ò³,
-Msquid:S1602",Remove useless curly braces around statement(Ú™Û“üÿÿÿÿ8‰ö¢Ò³,
-Rsquid:S2696"6Make the enclosing method "static" or remove this set.(»Äÿ¥8¢Ò³,
-Jsquid:S1068".Remove this unused "count_high" private field.(šÛôç8¢Ò³,
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ—Á8‰ö¢Ò³,
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ıúßÃúÿÿÿÿ8ëàÁÒ³,
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖŒµ¡ùÿÿÿÿ8‰ö¢Ò³,

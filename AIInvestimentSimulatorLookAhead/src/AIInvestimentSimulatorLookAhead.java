@@ -23,11 +23,10 @@ public class AIInvestimentSimulatorLookAhead extends Config {
         PARAM_MIN_TO_SELL = 0.15;
         PARAM_DISCARD_DIV = 2.5;
         PARAM_DAYS_TO_DISCARD = 5;
-        PARAM_MIN_DAYS_TO_BEGIN = 0;
         PARAM_MAX_MONEY_TO_INVEST = 1.0;
         MONEY = 100000.0;
         TO_PRINT_DATA = true;
-        INSTANCES_TO_TRAIN = Arrays.asList("2010", "2011");
+//        INSTANCES_TO_TRAIN = Arrays.asList("2010", "2011");
         INSTANCE_TO_RUN = Arrays.asList("2012");
         // Arrays.stream(args).forEach(a->{
         // System.out.println(a);
@@ -44,7 +43,7 @@ public class AIInvestimentSimulatorLookAhead extends Config {
             MONEY = Double.parseDouble(args[6]);
             TO_PRINT_DATA = Integer.parseInt(args[7]) == 1;
             String[] instances = args[8].split(",");
-            INSTANCES_TO_TRAIN = Arrays.asList(instances[0].split("-"));
+//            INSTANCES_TO_TRAIN = Arrays.asList(instances[0].split("-"));
             INSTANCE_TO_RUN = Arrays.asList(instances[1].split("-"));
             System.out.println(instances[1]);
         }
