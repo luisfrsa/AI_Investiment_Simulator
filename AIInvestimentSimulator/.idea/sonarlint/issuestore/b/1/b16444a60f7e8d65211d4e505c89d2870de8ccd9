@@ -1,13 +1,0 @@
-
-8squid:S1220""Move this file to a named package.8ž¿¿°²,
-psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çää»ûÿÿÿÿ8ž¿¿°²,
-psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰´ðÏøÿÿÿÿ8ž¿¿°²,
-ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£¨ûå8ž¿¿°²,
-psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ìéóüÿÿÿÿ8ž¿¿°²,
-osquid:S1602"SRemove useless curly braces around statement and then remove useless return keyword(ç·›´8ž¿¿°²,
-Hsquid:S1612",Replace this lambda with a method reference.(ç·›´8ž¿¿°²,
-xsquid:S00116"[Rename this field "profit_prejudice" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê¾´õ8ž¿¿°²,
-rsquid:S00116"VRename this field "num_actions" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àž¦M8ž¿¿°²,
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰´ðÏøÿÿÿÿ8ž¿¿°²,
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ìéóüÿÿÿÿ8ž¿¿°²,
-tsquid:UselessImportCheck"FRemove this unused import 'java.util.concurrent.atomic.AtomicInteger'.(¿êäœøÿÿÿÿ8ž¿¿°²,

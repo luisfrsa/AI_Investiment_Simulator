@@ -79,7 +79,7 @@ public class Service extends Config {
             WriteInFile loadedDateCompany = new WriteInFile();
 
             loadedDateCompany.addToWrite(str);
-            loadedDateCompany.writeInFile(RESULT_PATH + RUNNED_INSTANCE_STRING + finalPercent() + "loadedDateCompany.txt");
+            loadedDateCompany.writeInFile(RESULT_PATH + RUNNED_INSTANCE_STRING + finalPercent()+ "_" + CURRENT_TIME + "loadedDateCompany.txt");
 
         }
 
@@ -101,7 +101,7 @@ public class Service extends Config {
 
         WriteInFile qdeCompany = new WriteInFile();
         qdeCompany.addToWrite(qdeEmpresa);
-        qdeCompany.writeInFile(RESULT_PATH + RUNNED_INSTANCE_STRING + finalPercent() + "_companyDetails" + ".txt");
+        qdeCompany.writeInFile(RESULT_PATH + RUNNED_INSTANCE_STRING + finalPercent() + "_" + CURRENT_TIME + "_companyDetails" + ".txt");
 //        qdeCompany.writeInFile(RESULT_PATH + finalPercent() + "_"+System.currentTimeMillis()+"_companyDetails" + ".txt");
 
     }
@@ -123,7 +123,7 @@ public class Service extends Config {
         WriteInFile finalResultFile = new WriteInFile();
 
         finalResultFile.addToWrite(finalResult);
-        finalResultFile.writeInFile(RESULT_PATH + RUNNED_INSTANCE_STRING + finalPercent() + "_finalResult" + ".txt");
+        finalResultFile.writeInFile(RESULT_PATH + RUNNED_INSTANCE_STRING + finalPercent()+ "_" + CURRENT_TIME + "_finalResult" + ".txt");
 //        finalResultFile.writeInFile(RESULT_PATH + finalPercent() + "_"+System.currentTimeMillis()+ "_finalResult" + ".txt");
 
     }

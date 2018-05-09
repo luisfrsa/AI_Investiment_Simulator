@@ -1,0 +1,27 @@
+
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(—¹øüÿÿÿÿ
+Ssquid:S1155">Use isEmpty() to check whether the collection is empty or not.(¡ÄÛš
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¾¶§¸úÿÿÿÿ
+Ksquid:S2696"6Make the enclosing method "static" or remove this set.(´ÖžÓ
+›squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦ÛË‹úÿÿÿÿ
+1squid:S1220""Move this file to a named package.
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ô†¹×ÿÿÿÿÿ
+Nsquid:S1172"4Remove this unused method parameter "closeTomorrow".(ÇÅðæþÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¬Ë½ö
+Ksquid:S2696"6Make the enclosing method "static" or remove this set.(»Äÿ¥
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+Psquid:S2696"6Make the enclosing method "static" or remove this set.(Û·îÌûÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ÿæ«ÿÿÿÿÿ
+osquid:S00116"TRename this field "count_low" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§æè»øÿÿÿÿ
+Gsquid:S1068"-Remove this unused "count_low" private field.(§æè»øÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(°äÓîøÿÿÿÿ
+Fsquid:S1612",Replace this lambda with a method reference.(Ú™Û“üÿÿÿÿ
+Csquid:S1068".Remove this unused "count_high" private field.(šÛôç
+Psquid:S2696"6Make the enclosing method "static" or remove this set.(ÊÕ»Öÿÿÿÿÿ
+ksquid:S00116"URename this field "count_high" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÛôç
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(š¹­¼
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(®Éžß
+Ksquid:S2696"6Make the enclosing method "static" or remove this set.(»Äÿ¥
+Fsquid:S1602",Remove useless curly braces around statement(Ú™Û“üÿÿÿÿ
+_squid:UselessImportCheck"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ

@@ -1,0 +1,23 @@
+
+jsquid:S3008"PRename this field "MONEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–Ÿ½îúÿÿÿÿ
+rsquid:S3008"]Rename this field "INSTANCES_TO_TRAIN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”µ´Ö
+7squid:S2390"#Remove this reference to "Service".(Õµ¦,
+qsquid:S3008"\Rename this field "PARAM_MIN_TO_SELL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îåÛï
+qsquid:S3008"\Rename this field "SMART_INVESTIMENT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Úå¯
+osquid:S3008"ZRename this field "INSTANCE_TO_RUN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áŒ³÷
+Asquid:S2390",Remove this reference to "SmartInvestiment".(Úå¯
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ô€ŞŸ
+Ksquid:S2696"6Make the enclosing method "static" or remove this set.(°Àä¥
+|squid:S3008"bRename this field "PARAM_MIN_DAYS_TO_BEGIN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÊóµùÿÿÿÿ
+Msquid:UselessImportCheck"+Remove this unused import 'java.time.Year'.(Èƒœ¦
+msquid:S3008"XRename this field "TO_PRINT_DATA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öË˜Ø
+ksquid:S3008"VRename this field "START_MONEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑğÑú
+usquid:S3008"`Rename this field "PARAM_DAYS_TO_DISCARD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÒñ¢
+1squid:S1220""Move this file to a named package.
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(©¥¯Óşÿÿÿÿ
+ysquid:S3008"dRename this field "PARAM_MAX_MONEY_TO_INVEST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§„ú²
+usquid:S3008"[Rename this field "PARAM_MIN_TO_BUY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦È…ıÿÿÿÿ
+qsquid:S3008"\Rename this field "PARAM_DISCARD_DIV" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿¯šŠ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÏĞªƒ
+vsquid:S3008"aRename this field "RUNNED_INSTANCE_STRING" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½¬Ñú

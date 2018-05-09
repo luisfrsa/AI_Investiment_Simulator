@@ -59,7 +59,7 @@ public class Config {
     }
 
 
-    protected void generateCompanys2() {
+    protected void generateCompanys() {
         avaliableCompanies.add("LEVE3F-NM");
         avaliableCompanies.add("GRND3-NM");
         avaliableCompanies.add("GRND3F-NM");
@@ -72,7 +72,7 @@ public class Config {
         avaliableCompanies.add("CSNA3F-R$");
     }
 
-    protected void generateCompanys() {
+    protected void generateCompanys2() {
         avaliableCompanies.add("VIVT3F-R$");
         avaliableCompanies.add("NATU3-NM");
         avaliableCompanies.add("JSLG3-NM");

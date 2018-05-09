@@ -35,7 +35,7 @@ public class SmartInvestiment extends Config {
             toSell = new HashMap<>();
         });
         sellAllOnLastDay();
-        logWritter.writeInFile(RESULT_PATH +RUNNED_INSTANCE_STRING+ service.finalPercent() + "_logWritter.txt");
+        logWritter.writeInFile(RESULT_PATH +RUNNED_INSTANCE_STRING+ service.finalPercent() +"_" + CURRENT_TIME + "_logWritter.txt");
     }
 
     private void sellAllOnLastDay() {
@@ -133,7 +133,7 @@ public class SmartInvestiment extends Config {
     }
 
     public boolean worthToSell(double closePrice, double average_or_last_buy) {
-        int bypass = 1;
+        int bypass = 0;
         if (bypass == 0) {
             return closePrice >= haveEnoughtPriceToSell(average_or_last_buy);
         }
