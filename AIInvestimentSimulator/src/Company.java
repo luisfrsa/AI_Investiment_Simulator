@@ -23,6 +23,7 @@ public class Company {
     private double lastBuyCount;
     private double profit_prejudice;
     private double num_actions;
+    private double accumBought;
     private Set<DadosDoDia> dadosDoDiaSet = new HashSet<>();
 
 
@@ -33,7 +34,7 @@ public class Company {
         this.profit_prejudice = 0;
         this.lastBuyCount = 0;
         this.lastBuy = 0;
-
+        this.accumBought = 0;
     }
 
     public void increment(double value) {
@@ -126,6 +127,14 @@ public class Company {
         this.lastBuyCount = lastBuyCount;
     }
 
+
+     public double getAccumBought() {
+        return accumBought;
+    }
+
+    public void setAccumBought(double accumBought) {
+        this.accumBought = accumBought;
+    }
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
