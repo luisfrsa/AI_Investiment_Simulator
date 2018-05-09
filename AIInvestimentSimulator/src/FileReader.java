@@ -49,7 +49,7 @@ public class FileReader extends Config {
     private void handleLinesToRun(Stream<String> stream) {
         try {
             stream.forEach(line -> {
-//                if (!service.containsSpace(line)) {
+               if (!service.containsSpace(line)) {
                     String codNegociation = line.substring(12, 24).trim() + "-" + line.substring(45, 56).trim();
                     if (service.containsCompany(codNegociation)) {
                         DadosDoDia dadosDoDia = buildDadosDoDia(codNegociation, line);
@@ -60,7 +60,7 @@ public class FileReader extends Config {
                         company.setNum_actions(company.getNum_actions() + 1);
                         service.addLocalDate(dadosDoDia.getDate(), dadosDoDia);
                     }
-//                }
+               }
             });
         } catch (DateTimeParseException dateTimeParseException) {
             System.out.println("DateTimeParseException (primeira e ultima linha)");
@@ -85,9 +85,9 @@ public class FileReader extends Config {
     private void handleLinesToTrain(Stream<String> stream) {
         stream.forEach(line -> {
             try {
-//                if (!service.containsSpace(line)) {
-                    handleLine(line);
-//                }
+               if (!service.containsSpace(line)) {
+                    //handleLine(line);
+                }
             } catch (DateTimeParseException dateTimeParseException) {
                 System.out.println("DateTimeParseException (primeira e ultima linha)");
             } catch (UncheckedIOException e) {

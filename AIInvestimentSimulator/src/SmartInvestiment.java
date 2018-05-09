@@ -170,8 +170,11 @@ public class SmartInvestiment extends Config {
 //        logWritter.addToWrite("Com a ultima compra no valor de " + company.getLastBuy() + " com a quantidade " + company.getLastBuyCount()+ " Gasto total de compra: " + (company.getLastBuy() * company.getLastBuyCount()));
 //        logWritter.addToWrite("Ação com valor  hoje" + dadosDoDia.getClosePrice() + ", Sendo a media de " + company.getAverage());
 //        logWritter.addToWrite("Ação com valor " + dadosDoDia.getClosePrice() + ", Sendo a media de " + company.getAverage());
-        company.setProfit_prejudice(company.getProfit_prejudice() + (company.getActions() * (dadosDoDia.getClosePrice() - company.getLastBuy())));
+        double lucroPreju = (dadosDoDia.getClosePrice()*company.getActions()) - company.getAccumBought();
+        logWritter.addToWrite("Total gasto: "+company.getAccumBought()+", total vendido: "+ (dadosDoDia.getClosePrice()*company.getActions())+", Lucro-prejuizo: "+lucroPreju);
+        company.setProfit_prejudice(company.getProfit_prejudice() + lucroPreju);
         updateMoneyFromSoldAction(company.getActions(), dadosDoDia.getClosePrice());
+        company.setAccumBought(0);
         company.setLastBuy(0);
         company.setLastBuyCount(0);
         company.setActions(0);
@@ -187,6 +190,7 @@ public class SmartInvestiment extends Config {
             company.setLastBuy(dadosDoDia.getClosePrice());
             company.setLastBuyCount(numOfActions);
             company.setActions(company.getActions() + numOfActions);
+            company.setAccumBought(company.getAccumBought()+dadosDoDia.getClosePrice()*numOfActions);
             updateMoneyFromBoughtAction(numOfActions, dadosDoDia.getClosePrice());
         }
     }
