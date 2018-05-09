@@ -40,7 +40,6 @@ public class Service extends Config {
     }
 
     public boolean containsSpace(String line) {
-        System.out.println(line);
         return line.contains("                        ");
     }
 
