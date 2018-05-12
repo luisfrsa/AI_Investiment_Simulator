@@ -1,0 +1,472 @@
+
+-------COMPRA Ação da empresa GRND3-NM   R$, na data 2015-01-02
+Ação com valor 14.9, Sendo a media de 16.88581162324649
+Quantidade Ações antes:  0 comprando + 2420 acoes, então acoes agora 2420
+Comprando 2420 com valor 14.9
+Money Agora: 100000.0, Gastando 36058.0, E agora com 63942.0
+
+-------COMPRA Ação da empresa LEVE3F-NM   R$, na data 2015-01-02
+Ação com valor 20.11, Sendo a media de 21.868286937901498
+Quantidade Ações antes:  0 comprando + 784 acoes, então acoes agora 784
+Comprando 784 com valor 20.11
+Money Agora: 63942.0, Gastando 15766.24, E agora com 48175.76
+
+-------COMPRA Ação da empresa GRND3F-NM   R$, na data 2015-01-02
+Ação com valor 14.71, Sendo a media de 16.870200400801608
+Quantidade Ações antes:  0 comprando + 1286 acoes, então acoes agora 1286
+Comprando 1286 com valor 14.71
+Money Agora: 48175.76, Gastando 18917.06, E agora com 29258.7
+
+-------COMPRA Ação da empresa CSNA3F-R$, na data 2015-01-05
+Ação com valor 4.81, Sendo a media de 5.208478260869569
+Quantidade Ações antes:  0 comprando + 1166 acoes, então acoes agora 1166
+Comprando 1166 com valor 4.81
+Money Agora: 29258.7, Gastando 5608.459999999999, E agora com 23650.24
+
+-------COMPRA Ação da empresa GRND3F-NM   R$, na data 2015-01-05
+Ação com valor 14.73, Sendo a media de 16.8405928853755
+Quantidade Ações antes:  1286 comprando + 504 acoes, então acoes agora 1790
+Comprando 504 com valor 14.73
+Money Agora: 23650.24, Gastando 7423.92, E agora com 16226.320000000002
+
+-------COMPRA Ação da empresa GRND3-NM   R$, na data 2015-01-05
+Ação com valor 14.65, Sendo a media de 16.8548814229249
+Quantidade Ações antes:  2420 comprando + 363 acoes, então acoes agora 2783
+Comprando 363 com valor 14.65
+Money Agora: 16226.320000000002, Gastando 5317.95, E agora com 10908.370000000003
+
+-------COMPRA Ação da empresa LEVE3F-NM   R$, na data 2015-01-05
+Ação com valor 20.4, Sendo a media de 21.846603375527426
+Quantidade Ações antes:  784 comprando + 88 acoes, então acoes agora 872
+Comprando 88 com valor 20.4
+Money Agora: 10908.370000000003, Gastando 1795.1999999999998, E agora com 9113.170000000002
+
+-------COMPRA Ação da empresa LEVE3F-NM   R$, na data 2015-01-06
+Ação com valor 20.5, Sendo a media de 21.827006237006238
+Quantidade Ações antes:  872 comprando + 82 acoes, então acoes agora 954
+Comprando 82 com valor 20.5
+Money Agora: 9113.170000000002, Gastando 1681.0, E agora com 7432.170000000002
+
+-------COMPRA Ação da empresa GRND3F-NM   R$, na data 2015-01-06
+Ação com valor 14.43, Sendo a media de 16.807699805068232
+Quantidade Ações antes:  1790 comprando + 223 acoes, então acoes agora 2013
+Comprando 223 com valor 14.43
+Money Agora: 7432.170000000002, Gastando 3217.89, E agora com 4214.2800000000025
+
+-------COMPRA Ação da empresa GRND3-NM   R$, na data 2015-01-06
+Ação com valor 14.75, Sendo a media de 16.82615984405458
+Quantidade Ações antes:  2783 comprando + 108 acoes, então acoes agora 2891
+Comprando 108 com valor 14.75
+Money Agora: 4214.2800000000025, Gastando 1593.0, E agora com 2621.2800000000025
+
+-------VENDA Ação da empresa CSNA3F-R$, na data 2015-01-07
+Ação teve sua ultima compra com valor de 4.81, com a quantidade 1166.0, totalizando 5608.459999999999
+Ação teve sua venda pelo valor de        5.52, com a quantidade 1166, totalizando 6436.32, sua media é de 5.211346153846157
+Total gasto: 5608.459999999999, total vendido: 6436.32, Lucro-prejuizo: 827.8600000000006
+Money Antes: 2621.2800000000025, Ganhando 6436.32, E agora com 9057.600000000002
+
+-------VENDA Ação da empresa GRND3F-NM   R$, na data 2015-01-07
+Ação teve sua ultima compra com valor de 14.43, com a quantidade 223.0, totalizando 3217.89
+Ação teve sua venda pelo valor de        15.93, com a quantidade 2013, totalizando 32067.09, sua media é de 16.795884615384622
+Total gasto: 29558.870000000003, total vendido: 32067.09, Lucro-prejuizo: 2508.2199999999975
+Money Antes: 9057.600000000002, Ganhando 32067.09, E agora com 41124.69
+
+-------COMPRA Ação da empresa GRND3-NM   R$, na data 2015-01-07
+Ação com valor 15.45, Sendo a media de 16.807634615384615
+Quantidade Ações antes:  2891 comprando + 1118 acoes, então acoes agora 4009
+Comprando 1118 com valor 15.45
+Money Agora: 41124.69, Gastando 17273.1, E agora com 23851.590000000004
+
+-------COMPRA Ação da empresa LEVE3F-NM   R$, na data 2015-01-07
+Ação com valor 20.5, Sendo a media de 21.80797131147541
+Quantidade Ações antes:  954 comprando + 362 acoes, então acoes agora 1316
+Comprando 362 com valor 20.5
+Money Agora: 23851.590000000004, Gastando 7421.0, E agora com 16430.590000000004
+
+-------COMPRA Ação da empresa GRND3F-NM   R$, na data 2015-01-07
+Ação com valor 15.93, Sendo a media de 16.795884615384622
+Quantidade Ações antes:  0 comprando + 276 acoes, então acoes agora 276
+Comprando 276 com valor 15.93
+Money Agora: 16430.590000000004, Gastando 4396.68, E agora com 12033.910000000003
+
+-------COMPRA Ação da empresa GRND3F-NM   R$, na data 2015-01-08
+Ação com valor 15.3, Sendo a media de 16.77601518026566
+Quantidade Ações antes:  276 comprando + 405 acoes, então acoes agora 681
+Comprando 405 com valor 15.3
+Money Agora: 12033.910000000003, Gastando 6196.5, E agora com 5837.4100000000035
+
+-------COMPRA Ação da empresa GRND3-NM   R$, na data 2015-01-08
+Ação com valor 15.4, Sendo a media de 16.788937381404175
+Quantidade Ações antes:  4009 comprando + 183 acoes, então acoes agora 4192
+Comprando 183 com valor 15.4
+Money Agora: 5837.4100000000035, Gastando 2818.2000000000003, E agora com 3019.210000000003
+
+-------COMPRA Ação da empresa GRND3-NM   R$, na data 2015-01-09
+Ação com valor 15.17, Sendo a media de 16.767715355805244
+Quantidade Ações antes:  4192 comprando + 100 acoes, então acoes agora 4292
+Comprando 100 com valor 15.17
+Money Agora: 3019.210000000003, Gastando 1517.0, E agora com 1502.2100000000032
+
+-------COMPRA Ação da empresa GRND3F-NM   R$, na data 2015-01-09
+Ação com valor 15.2, Sendo a media de 16.75535580524345
+Quantidade Ações antes:  681 comprando + 48 acoes, então acoes agora 729
+Comprando 48 com valor 15.2
+Money Agora: 1502.2100000000032, Gastando 729.5999999999999, E agora com 772.6100000000033
+
+-------COMPRA Ação da empresa GRND3F-NM   R$, na data 2015-01-12
+Ação com valor 14.89, Sendo a media de 16.73121996303143
+Quantidade Ações antes:  729 comprando + 27 acoes, então acoes agora 756
+Comprando 27 com valor 14.89
+Money Agora: 772.6100000000033, Gastando 402.03000000000003, E agora com 370.5800000000033
+
+-------COMPRA Ação da empresa GRND3-NM   R$, na data 2015-01-12
+Ação com valor 15.05, Sendo a media de 16.745489833641408
+Quantidade Ações antes:  4292 comprando + 11 acoes, então acoes agora 4303
+Comprando 11 com valor 15.05
+Money Agora: 370.5800000000033, Gastando 165.55, E agora com 205.03000000000327
+
+-------COMPRA Ação da empresa GRND3F-NM   R$, na data 2015-01-13
+Ação com valor 15.45, Sendo a media de 16.714854014598547
+Quantidade Ações antes:  756 comprando + 6 acoes, então acoes agora 762
+Comprando 6 com valor 15.45
+Money Agora: 205.03000000000327, Gastando 92.69999999999999, E agora com 112.33000000000328
+
+-------COMPRA Ação da empresa GRND3-NM   R$, na data 2015-01-13
+Ação com valor 15.5, Sendo a media de 16.729580291970805
+Quantidade Ações antes:  4303 comprando + 3 acoes, então acoes agora 4306
+Comprando 3 com valor 15.5
+Money Agora: 112.33000000000328, Gastando 46.5, E agora com 65.83000000000328
+
+-------COMPRA Ação da empresa CSNA3F-R$, na data 2015-01-14
+Ação com valor 4.88, Sendo a media de 5.21403603603604
+Quantidade Ações antes:  0 comprando + 2 acoes, então acoes agora 2
+Comprando 2 com valor 4.88
+Money Agora: 65.83000000000328, Gastando 9.76, E agora com 56.07000000000328
+
+-------COMPRA Ação da empresa GRND3F-NM   R$, na data 2015-01-14
+Ação com valor 15.19, Sendo a media de 16.69562162162163
+Quantidade Ações antes:  762 comprando + 1 acoes, então acoes agora 763
+Comprando 1 com valor 15.19
+Money Agora: 56.07000000000328, Gastando 15.19, E agora com 40.880000000003285
+
+-------COMPRA Ação da empresa GRND3-NM   R$, na data 2015-01-15
+Ação com valor 15.3, Sendo a media de 16.693718861209966
+Quantidade Ações antes:  4306 comprando + 1 acoes, então acoes agora 4307
+Comprando 1 com valor 15.3
+Money Agora: 40.880000000003285, Gastando 15.3, E agora com 25.580000000003285
+
+-------COMPRA Ação da empresa CSNA3F-R$, na data 2015-01-15
+Ação com valor 4.94, Sendo a media de 5.210622775800715
+Quantidade Ações antes:  2 comprando + 1 acoes, então acoes agora 3
+Comprando 1 com valor 4.94
+Money Agora: 25.580000000003285, Gastando 4.94, E agora com 20.640000000003283
+
+-------COMPRA Ação da empresa CSNA3F-R$, na data 2015-01-19
+Ação com valor 4.85, Sendo a media de 5.205381944444448
+Quantidade Ações antes:  3 comprando + 1 acoes, então acoes agora 4
+Comprando 1 com valor 4.85
+Money Agora: 20.640000000003283, Gastando 4.85, E agora com 15.790000000003284
+
+-------VENDA Ação da empresa CSNA3F-R$, na data 2015-01-22
+Ação teve sua ultima compra com valor de 4.85, com a quantidade 1.0, totalizando 4.85
+Ação teve sua venda pelo valor de        5.4, com a quantidade 4, totalizando 21.6, sua media é de 5.206130653266334
+Total gasto: 19.549999999999997, total vendido: 21.6, Lucro-prejuizo: 2.0500000000000043
+Money Antes: 15.790000000003284, Ganhando 21.6, E agora com 37.39000000000328
+
+-------COMPRA Ação da empresa CSNA3F-R$, na data 2015-01-26
+Ação com valor 4.9, Sendo a media de 5.201063829787237
+Quantidade Ações antes:  0 comprando + 1 acoes, então acoes agora 1
+Comprando 1 com valor 4.9
+Money Agora: 37.39000000000328, Gastando 4.9, E agora com 32.490000000003285
+
+-------COMPRA Ação da empresa CSNA3F-R$, na data 2015-01-27
+Ação com valor 4.86, Sendo a media de 5.197200647249193
+Quantidade Ações antes:  1 comprando + 1 acoes, então acoes agora 2
+Comprando 1 com valor 4.86
+Money Agora: 32.490000000003285, Gastando 4.86, E agora com 27.630000000003285
+
+-------COMPRA Ação da empresa CSNA3F-R$, na data 2015-01-28
+Ação com valor 4.62, Sendo a media de 5.190736000000003
+Quantidade Ações antes:  2 comprando + 1 acoes, então acoes agora 3
+Comprando 1 com valor 4.62
+Money Agora: 27.630000000003285, Gastando 4.62, E agora com 23.010000000003284
+
+-------COMPRA Ação da empresa CSNA3F-R$, na data 2015-01-29
+Ação com valor 4.38, Sendo a media de 5.181756329113926
+Quantidade Ações antes:  3 comprando + 1 acoes, então acoes agora 4
+Comprando 1 com valor 4.38
+Money Agora: 23.010000000003284, Gastando 4.38, E agora com 18.630000000003285
+
+-------COMPRA Ação da empresa CSNA3F-R$, na data 2015-01-30
+Ação com valor 4.17, Sendo a media de 5.170672926447577
+Quantidade Ações antes:  4 comprando + 1 acoes, então acoes agora 5
+Comprando 1 com valor 4.17
+Money Agora: 18.630000000003285, Gastando 4.17, E agora com 14.460000000003285
+
+-------COMPRA Ação da empresa CSNA3F-R$, na data 2015-02-02
+Ação com valor 4.46, Sendo a media de 5.162972136222913
+Quantidade Ações antes:  5 comprando + 1 acoes, então acoes agora 6
+Comprando 1 com valor 4.46
+Money Agora: 14.460000000003285, Gastando 4.46, E agora com 10.000000000003286
+
+-------VENDA Ação da empresa CSNA3F-R$, na data 2015-02-10
+Ação teve sua ultima compra com valor de 4.46, com a quantidade 1.0, totalizando 4.46
+Ação teve sua venda pelo valor de        4.97, com a quantidade 6, totalizando 29.82, sua media é de 5.1307412790697695
+Total gasto: 27.39, total vendido: 29.82, Lucro-prejuizo: 2.4299999999999997
+Money Antes: 10.000000000003286, Ganhando 29.82, E agora com 39.82000000000329
+
+-------COMPRA Ação da empresa GRND3F-NM   R$, na data 2015-02-10
+Ação com valor 14.13, Sendo a media de 16.268023255813958
+Quantidade Ações antes:  763 comprando + 1 acoes, então acoes agora 764
+Comprando 1 com valor 14.13
+Money Agora: 39.82000000000329, Gastando 14.13, E agora com 25.690000000003288
+
+-------COMPRA Ação da empresa GRND3-NM   R$, na data 2015-02-13
+Ação com valor 15.3, Sendo a media de 16.225754583921013
+Quantidade Ações antes:  4307 comprando + 1 acoes, então acoes agora 4308
+Comprando 1 com valor 15.3
+Money Agora: 25.690000000003288, Gastando 15.3, E agora com 10.390000000003287
+
+-------VENDA Ação da empresa GRND3F-NM   R$, na data 2015-02-19
+Ação teve sua ultima compra com valor de 14.13, com a quantidade 1.0, totalizando 14.13
+Ação teve sua venda pelo valor de        15.7, com a quantidade 764, totalizando 11994.8, sua media é de 16.201507607192262
+Total gasto: 11846.830000000002, total vendido: 11994.8, Lucro-prejuizo: 147.96999999999753
+Money Antes: 10.390000000003287, Ganhando 11994.8, E agora com 12005.190000000002
+
+-------COMPRA Ação da empresa GRND3-NM   R$, na data 2015-02-20
+Ação com valor 15.33, Sendo a media de 16.206315068493147
+Quantidade Ações antes:  4308 comprando + 783 acoes, então acoes agora 5091
+Comprando 783 com valor 15.33
+Money Agora: 12005.190000000002, Gastando 12003.39, E agora com 1.8000000000029104
+
+-------VENDA Ação da empresa GRND3-NM   R$, na data 2015-03-11
+Ação teve sua ultima compra com valor de 15.33, com a quantidade 783.0, totalizando 12003.39
+Ação teve sua venda pelo valor de        16.92, com a quantidade 5091, totalizando 86139.72000000002, sua media é de 16.221900121802676
+Total gasto: 76823.29000000001, total vendido: 86139.72000000002, Lucro-prejuizo: 9316.430000000008
+Money Antes: 1.8000000000029104, Ganhando 86139.72000000002, E agora com 86141.52000000002
+
+-------COMPRA Ação da empresa NATU3F-NM   R$, na data 2015-03-11
+Ação com valor 25.11, Sendo a media de 27.587776261937247
+Quantidade Ações antes:  0 comprando + 1026 acoes, então acoes agora 1026
+Comprando 1026 com valor 25.11
+Money Agora: 86141.52000000002, Gastando 25762.86, E agora com 60378.66000000002
+
+-------COMPRA Ação da empresa NATU3-NM   R$, na data 2015-03-11
+Ação com valor 25.32, Sendo a media de 27.441336971350616
+Quantidade Ações antes:  0 comprando + 614 acoes, então acoes agora 614
+Comprando 614 com valor 25.32
+Money Agora: 60378.66000000002, Gastando 15546.48, E agora com 44832.18000000002
+
+-------COMPRA Ação da empresa LEVE3F-NM   R$, na data 2015-03-11
+Ação com valor 18.5, Sendo a media de 21.335956907477822
+Quantidade Ações antes:  1316 comprando + 1073 acoes, então acoes agora 2389
+Comprando 1073 com valor 18.5
+Money Agora: 44832.18000000002, Gastando 19850.5, E agora com 24981.680000000022
+
+-------VENDA Ação da empresa LEVE3F-NM   R$, na data 2015-03-12
+Ação teve sua ultima compra com valor de 18.5, com a quantidade 1073.0, totalizando 19850.5
+Ação teve sua venda pelo valor de        20.99, com a quantidade 2389, totalizando 50145.10999999999, sua media é de 21.332914572864322
+Total gasto: 46513.94, total vendido: 50145.10999999999, Lucro-prejuizo: 3631.169999999991
+Money Antes: 24981.680000000022, Ganhando 50145.10999999999, E agora com 75126.79000000001
+
+-------COMPRA Ação da empresa NATU3F-NM   R$, na data 2015-03-12
+Ação com valor 25.5, Sendo a media de 27.56802702702703
+Quantidade Ações antes:  1026 comprando + 1485 acoes, então acoes agora 2511
+Comprando 1485 com valor 25.5
+Money Agora: 75126.79000000001, Gastando 37867.5, E agora com 37259.29000000001
+
+-------COMPRA Ação da empresa NATU3-NM   R$, na data 2015-03-12
+Ação com valor 25.4, Sendo a media de 27.42202702702703
+Quantidade Ações antes:  614 comprando + 727 acoes, então acoes agora 1341
+Comprando 727 com valor 25.4
+Money Agora: 37259.29000000001, Gastando 18465.8, E agora com 18793.49000000001
+
+-------COMPRA Ação da empresa NATU3F-NM   R$, na data 2015-03-13
+Ação com valor 24.82, Sendo a media de 27.54227576974565
+Quantidade Ações antes:  2511 comprando + 286 acoes, então acoes agora 2797
+Comprando 286 com valor 24.82
+Money Agora: 18793.49000000001, Gastando 7098.52, E agora com 11694.970000000008
+
+-------COMPRA Ação da empresa LEVE3F-NM   R$, na data 2015-03-13
+Ação com valor 20.0, Sendo a media de 21.32129514321295
+Quantidade Ações antes:  0 comprando + 138 acoes, então acoes agora 138
+Comprando 138 com valor 20.0
+Money Agora: 11694.970000000008, Gastando 2760.0, E agora com 8934.970000000008
+
+-------COMPRA Ação da empresa NATU3-NM   R$, na data 2015-03-13
+Ação com valor 24.64, Sendo a media de 27.395957161981258
+Quantidade Ações antes:  1341 comprando + 139 acoes, então acoes agora 1480
+Comprando 139 com valor 24.64
+Money Agora: 8934.970000000008, Gastando 3424.96, E agora com 5510.010000000008
+
+-------COMPRA Ação da empresa LEVE3F-NM   R$, na data 2015-03-16
+Ação com valor 20.03, Sendo a media de 21.310135802469137
+Quantidade Ações antes:  138 comprando + 67 acoes, então acoes agora 205
+Comprando 67 com valor 20.03
+Money Agora: 5510.010000000008, Gastando 1342.01, E agora com 4168.000000000008
+
+-------COMPRA Ação da empresa NATU3F-NM   R$, na data 2015-03-16
+Ação com valor 24.89, Sendo a media de 27.5176525198939
+Quantidade Ações antes:  2797 comprando + 64 acoes, então acoes agora 2861
+Comprando 64 com valor 24.89
+Money Agora: 4168.000000000008, Gastando 1592.96, E agora com 2575.040000000008
+
+-------COMPRA Ação da empresa NATU3-NM   R$, na data 2015-03-16
+Ação com valor 24.89, Sendo a media de 27.372692307692308
+Quantidade Ações antes:  1480 comprando + 38 acoes, então acoes agora 1518
+Comprando 38 com valor 24.89
+Money Agora: 2575.040000000008, Gastando 945.82, E agora com 1629.220000000008
+
+-------COMPRA Ação da empresa NATU3F-NM   R$, na data 2015-03-17
+Ação com valor 25.89, Sendo a media de 27.502680683311432
+Quantidade Ações antes:  2861 comprando + 32 acoes, então acoes agora 2893
+Comprando 32 com valor 25.89
+Money Agora: 1629.220000000008, Gastando 828.48, E agora com 800.740000000008
+
+-------COMPRA Ação da empresa NATU3-NM   R$, na data 2015-03-17
+Ação com valor 25.85, Sendo a media de 27.35868593955322
+Quantidade Ações antes:  1518 comprando + 15 acoes, então acoes agora 1533
+Comprando 15 com valor 25.85
+Money Agora: 800.740000000008, Gastando 387.75, E agora com 412.99000000000797
+
+-------COMPRA Ação da empresa LEVE3F-NM   R$, na data 2015-03-18
+Ação com valor 20.22, Sendo a media de 21.294842233009707
+Quantidade Ações antes:  205 comprando + 6 acoes, então acoes agora 211
+Comprando 6 com valor 20.22
+Money Agora: 412.99000000000797, Gastando 121.32, E agora com 291.670000000008
+
+-------COMPRA Ação da empresa NATU3F-NM   R$, na data 2015-03-18
+Ação com valor 26.01, Sendo a media de 27.489075520833335
+Quantidade Ações antes:  2893 comprando + 3 acoes, então acoes agora 2896
+Comprando 3 com valor 26.01
+Money Agora: 291.670000000008, Gastando 78.03, E agora com 213.64000000000797
+
+-------COMPRA Ação da empresa NATU3-NM   R$, na data 2015-03-18
+Ação com valor 25.93, Sendo a media de 27.3456640625
+Quantidade Ações antes:  1533 comprando + 2 acoes, então acoes agora 1535
+Comprando 2 com valor 25.93
+Money Agora: 213.64000000000797, Gastando 51.86, E agora com 161.780000000008
+
+-------COMPRA Ação da empresa NATU3-NM   R$, na data 2015-03-19
+Ação com valor 25.88, Sendo a media de 27.33242580645161
+Quantidade Ações antes:  1535 comprando + 1 acoes, então acoes agora 1536
+Comprando 1 com valor 25.88
+Money Agora: 161.780000000008, Gastando 25.88, E agora com 135.900000000008
+
+-------COMPRA Ação da empresa NATU3F-NM   R$, na data 2015-03-19
+Ação com valor 25.63, Sendo a media de 27.472283870967747
+Quantidade Ações antes:  2896 comprando + 1 acoes, então acoes agora 2897
+Comprando 1 com valor 25.63
+Money Agora: 135.900000000008, Gastando 25.63, E agora com 110.270000000008
+
+-------COMPRA Ação da empresa LEVE3F-NM   R$, na data 2015-03-19
+Ação com valor 19.88, Sendo a media de 21.28292418772563
+Quantidade Ações antes:  211 comprando + 1 acoes, então acoes agora 212
+Comprando 1 com valor 19.88
+Money Agora: 110.270000000008, Gastando 19.88, E agora com 90.390000000008
+
+-------COMPRA Ação da empresa LEVE3F-NM   R$, na data 2015-03-20
+Ação com valor 19.62, Sendo a media de 21.269033412887826
+Quantidade Ações antes:  212 comprando + 4 acoes, então acoes agora 216
+Comprando 4 com valor 19.62
+Money Agora: 90.390000000008, Gastando 78.48, E agora com 11.910000000007997
+
+-------VENDA Ação da empresa NATU3F-NM   R$, na data 2015-04-02
+Ação teve sua ultima compra com valor de 25.63, com a quantidade 1.0, totalizando 25.63
+Ação teve sua venda pelo valor de        28.85, com a quantidade 2897, totalizando 83578.45, sua media é de 27.404911242603553
+Total gasto: 73253.98000000001, total vendido: 83578.45, Lucro-prejuizo: 10324.469999999987
+Money Antes: 11.910000000007997, Ganhando 83578.45, E agora com 83590.36
+
+-------VENDA Ação da empresa NATU3-NM   R$, na data 2015-04-02
+Ação teve sua ultima compra com valor de 25.88, com a quantidade 1.0, totalizando 25.88
+Ação teve sua venda pelo valor de        28.7, com a quantidade 1536, totalizando 44083.2, sua media é de 27.277715976331358
+Total gasto: 38848.549999999996, total vendido: 44083.2, Lucro-prejuizo: 5234.6500000000015
+Money Antes: 83590.36, Ganhando 44083.2, E agora com 127673.56
+
+-------COMPRA Ação da empresa LEVE3F-NM   R$, na data 2015-04-02
+Ação com valor 20.03, Sendo a media de 21.1730743618202
+Quantidade Ações antes:  216 comprando + 6374 acoes, então acoes agora 6590
+Comprando 6374 com valor 20.03
+Money Agora: 127673.56, Gastando 127671.22, E agora com 2.3399999999965075
+
+-------VENDA Ação da empresa LEVE3F-NM   R$, na data 2015-04-27
+Ação teve sua ultima compra com valor de 20.03, com a quantidade 6374.0, totalizando 127671.22
+Ação teve sua venda pelo valor de        23.7, com a quantidade 6590, totalizando 156183.0, sua media é de 21.10226640159045
+Total gasto: 131992.91, total vendido: 156183.0, Lucro-prejuizo: 24190.089999999997
+Money Antes: 2.3399999999965075, Ganhando 156183.0, E agora com 156185.34
+
+-------COMPRA Ação da empresa VIVT3F-R$, na data 2015-05-06
+Ação com valor 38.1, Sendo a media de 40.64188268684958
+Quantidade Ações antes:  0 comprando + 4099 acoes, então acoes agora 4099
+Comprando 4099 com valor 38.1
+Money Agora: 156185.34, Gastando 156171.9, E agora com 13.440000000002328
+
+-------COMPRA Ação da empresa JSLG3-NM   R$, na data 2015-05-29
+Ação com valor 10.16, Sendo a media de 10.712727272727271
+Quantidade Ações antes:  0 comprando + 1 acoes, então acoes agora 1
+Comprando 1 com valor 10.16
+Money Agora: 13.440000000002328, Gastando 10.16, E agora com 3.280000000002328
+
+-------VENDA Ação da empresa JSLG3-NM   R$, na data 2015-06-02
+Ação teve sua ultima compra com valor de 10.16, com a quantidade 1.0, totalizando 10.16
+Ação teve sua venda pelo valor de        11.26, com a quantidade 1, totalizando 11.26, sua media é de 10.716389117889529
+Total gasto: 10.16, total vendido: 11.26, Lucro-prejuizo: 1.0999999999999996
+Money Antes: 3.280000000002328, Ganhando 11.26, E agora com 14.540000000002328
+
+-------COMPRA Ação da empresa CSNA3F-R$, na data 2015-07-02
+Ação com valor 4.94, Sendo a media de 5.659544117647062
+Quantidade Ações antes:  0 comprando + 1 acoes, então acoes agora 1
+Comprando 1 com valor 4.94
+Money Agora: 14.540000000002328, Gastando 4.94, E agora com 9.600000000002328
+
+-------COMPRA Ação da empresa CSNA3F-R$, na data 2015-07-03
+Ação com valor 4.72, Sendo a media de 5.654732991953186
+Quantidade Ações antes:  1 comprando + 1 acoes, então acoes agora 2
+Comprando 1 com valor 4.72
+Money Agora: 9.600000000002328, Gastando 4.72, E agora com 4.880000000002329
+
+-------COMPRA Ação da empresa CSNA3F-R$, na data 2015-07-31
+Ação com valor 4.39, Sendo a media de 5.543993333333339
+Quantidade Ações antes:  2 comprando + 1 acoes, então acoes agora 3
+Comprando 1 com valor 4.39
+Money Agora: 4.880000000002329, Gastando 4.39, E agora com 0.490000000002329
+
+-------VENDA Ação da empresa CSNA3F-R$, na data 2015-09-11
+Ação teve sua ultima compra com valor de 4.39, com a quantidade 1.0, totalizando 4.39
+Ação teve sua venda pelo valor de        5.15, com a quantidade 3, totalizando 15.450000000000001, sua media é de 5.331749853200239
+Total gasto: 14.05, total vendido: 15.450000000000001, Lucro-prejuizo: 1.4000000000000004
+Money Antes: 0.490000000002329, Ganhando 15.450000000000001, E agora com 15.94000000000233
+
+-------COMPRA Ação da empresa CSNA3F-R$, na data 2015-10-01
+Ação com valor 3.69, Sendo a media de 5.293020544142148
+Quantidade Ações antes:  0 comprando + 1 acoes, então acoes agora 1
+Comprando 1 com valor 3.69
+Money Agora: 15.94000000000233, Gastando 3.69, E agora com 12.25000000000233
+
+-------VENDA Ação da empresa CSNA3F-R$, na data 2015-10-05
+Ação teve sua ultima compra com valor de 3.69, com a quantidade 1.0, totalizando 3.69
+Ação teve sua venda pelo valor de        4.13, com a quantidade 1, totalizando 4.13, sua media é de 5.28281542699725
+Total gasto: 3.69, total vendido: 4.13, Lucro-prejuizo: 0.43999999999999995
+Money Antes: 12.25000000000233, Ganhando 4.13, E agora com 16.38000000000233
+
+-------COMPRA Ação da empresa CSNA3F-R$, na data 2015-12-17
+Ação com valor 4.2, Sendo a media de 5.239745958429567
+Quantidade Ações antes:  0 comprando + 1 acoes, então acoes agora 1
+Comprando 1 com valor 4.2
+Money Agora: 16.38000000000233, Gastando 4.2, E agora com 12.18000000000233
+------------------------
+VENDENDO TUDO
+------------------------
+
+-------VENDA Ação da empresa CSNA3F-R$, na data 2015-12-30
+Ação teve sua ultima compra com valor de 4.2, com a quantidade 1.0, totalizando 4.2
+Ação teve sua venda pelo valor de        3.98, com a quantidade 1, totalizando 3.98, sua media é de 5.215691056910575
+Total gasto: 4.2, total vendido: 3.98, Lucro-prejuizo: -0.2200000000000002
+Money Antes: 12.18000000000233, Ganhando 3.98, E agora com 16.16000000000233
+
+-------VENDA Ação da empresa VIVT3F-R$, na data 2015-12-30
+Ação teve sua ultima compra com valor de 38.1, com a quantidade 4099.0, totalizando 156171.9
+Ação teve sua venda pelo valor de        30.64, com a quantidade 4099, totalizando 125593.36, sua media é de 36.51854170205539
+Total gasto: 156171.9, total vendido: 125593.36, Lucro-prejuizo: -30578.539999999994
+Money Antes: 16.16000000000233, Ganhando 125593.36, E agora com 125609.52
+

@@ -1,0 +1,58 @@
+
+-------COMPRA Ação da empresa VIVT3F-R$, na data 2014-01-02
+Ação com valor 38.89, Sendo a media de 39.56088000000003
+Quantidade Ações antes:  0 comprando + 941 acoes, então acoes agora 941
+Comprando 941 com valor 38.89
+Money Agora: 100000.0, Gastando 36595.49, E agora com 63404.51
+
+-------COMPRA Ação da empresa VIVT3-R$, na data 2014-01-02
+Ação com valor 38.55, Sendo a media de 39.71664
+Quantidade Ações antes:  0 comprando + 1042 acoes, então acoes agora 1042
+Comprando 1042 com valor 38.55
+Money Agora: 63404.51, Gastando 40169.1, E agora com 23235.410000000003
+
+-------COMPRA Ação da empresa NATU3-NM   R$, na data 2014-01-16
+Ação com valor 37.62, Sendo a media de 37.96979166666667
+Quantidade Ações antes:  0 comprando + 617 acoes, então acoes agora 617
+Comprando 617 com valor 37.62
+Money Agora: 23235.410000000003, Gastando 23211.539999999997, E agora com 23.870000000006257
+
+-------COMPRA Ação da empresa CSNA3F-R$, na data 2014-01-21
+Ação com valor 12.64, Sendo a media de 13.029970703125002
+Quantidade Ações antes:  0 comprando + 1 acoes, então acoes agora 1
+Comprando 1 com valor 12.64
+Money Agora: 23.870000000006257, Gastando 12.64, E agora com 11.230000000006257
+
+-------COMPRA Ação da empresa CSNA3F-R$, na data 2014-03-05
+Ação com valor 10.13, Sendo a media de 10.657128294557333
+Quantidade Ações antes:  1 comprando + 1 acoes, então acoes agora 2
+Comprando 1 com valor 10.13
+Money Agora: 11.230000000006257, Gastando 10.13, E agora com 1.100000000006256
+------------------------
+VENDENDO TUDO
+------------------------
+
+-------VENDA Ação da empresa CSNA3F-R$, na data 2014-12-30
+Ação teve sua ultima compra com valor de 10.13, com a quantidade 1.0, totalizando 10.13
+Ação teve sua venda pelo valor de        5.6, com a quantidade 2, totalizando 11.2, sua media é de 5.728884083987005
+Total gasto: 22.770000000000003, total vendido: 11.2, Lucro-prejuizo: -11.570000000000004
+Money Antes: 1.100000000006256, Ganhando 11.2, E agora com 12.300000000006255
+
+-------VENDA Ação da empresa VIVT3-R$, na data 2014-12-30
+Ação teve sua ultima compra com valor de 38.55, com a quantidade 1042.0, totalizando 40169.1
+Ação teve sua venda pelo valor de        39.89, com a quantidade 1042, totalizando 41565.38, sua media é de 39.333000356211656
+Total gasto: 40169.1, total vendido: 41565.38, Lucro-prejuizo: 1396.2799999999988
+Money Antes: 12.300000000006255, Ganhando 41565.38, E agora com 41577.68
+
+-------VENDA Ação da empresa NATU3-NM   R$, na data 2014-12-30
+Ação teve sua ultima compra com valor de 37.62, com a quantidade 617.0, totalizando 23211.539999999997
+Ação teve sua venda pelo valor de        31.85, com a quantidade 617, totalizando 19651.45, sua media é de 31.7872126625348
+Total gasto: 23211.539999999997, total vendido: 19651.45, Lucro-prejuizo: -3560.0899999999965
+Money Antes: 41577.68, Ganhando 19651.45, E agora com 61229.130000000005
+
+-------VENDA Ação da empresa VIVT3F-R$, na data 2014-12-30
+Ação teve sua ultima compra com valor de 38.89, com a quantidade 941.0, totalizando 36595.49
+Ação teve sua venda pelo valor de        38.5, com a quantidade 941, totalizando 36228.5, sua media é de 38.71166156113965
+Total gasto: 36595.49, total vendido: 36228.5, Lucro-prejuizo: -366.98999999999796
+Money Antes: 61229.130000000005, Ganhando 36228.5, E agora com 97457.63
+

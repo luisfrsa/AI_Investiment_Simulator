@@ -1,0 +1,58 @@
+
+-------COMPRA Ação da empresa VIVT3-R$, na data 2014-01-30
+Ação com valor 38.56, Sendo a media de 39.92126382306476
+Quantidade Ações antes:  0 comprando + 2593 acoes, então acoes agora 2593
+Comprando 2593 com valor 38.56
+Money Agora: 100000.0, Gastando 99986.08, E agora com 13.919999999998254
+
+-------COMPRA Ação da empresa CSNA3F-R$, na data 2014-03-27
+Ação com valor 10.02, Sendo a media de 10.35820912124583
+Quantidade Ações antes:  0 comprando + 1 acoes, então acoes agora 1
+Comprando 1 com valor 10.02
+Money Agora: 13.919999999998254, Gastando 10.02, E agora com 3.899999999998254
+
+-------VENDA Ação da empresa CSNA3F-R$, na data 2014-07-15
+Ação teve sua ultima compra com valor de 10.02, com a quantidade 1.0, totalizando 10.02
+Ação teve sua venda pelo valor de        11.7, com a quantidade 1, totalizando 11.7, sua media é de 10.00875267284391
+Total gasto: 10.02, total vendido: 11.7, Lucro-prejuizo: 1.6799999999999997
+Money Antes: 3.899999999998254, Ganhando 11.7, E agora com 15.599999999998253
+
+-------COMPRA Ação da empresa JSLG3-NM   R$, na data 2014-08-27
+Ação com valor 11.94, Sendo a media de 12.81600617283951
+Quantidade Ações antes:  0 comprando + 1 acoes, então acoes agora 1
+Comprando 1 com valor 11.94
+Money Agora: 15.599999999998253, Gastando 11.94, E agora com 3.659999999998254
+
+-------VENDA Ação da empresa JSLG3-NM   R$, na data 2014-10-14
+Ação teve sua ultima compra com valor de 11.94, com a quantidade 1.0, totalizando 11.94
+Ação teve sua venda pelo valor de        14.02, com a quantidade 1, totalizando 14.02, sua media é de 12.769574811625406
+Total gasto: 11.94, total vendido: 14.02, Lucro-prejuizo: 2.08
+Money Antes: 3.659999999998254, Ganhando 14.02, E agora com 17.679999999998252
+
+-------COMPRA Ação da empresa CSNA3F-R$, na data 2014-10-14
+Ação com valor 8.91, Sendo a media de 10.063046286329385
+Quantidade Ações antes:  0 comprando + 1 acoes, então acoes agora 1
+Comprando 1 com valor 8.91
+Money Agora: 17.679999999998252, Gastando 8.91, E agora com 8.769999999998252
+
+-------COMPRA Ação da empresa CSNA3F-R$, na data 2014-11-28
+Ação com valor 6.0, Sendo a media de 9.81106147934678
+Quantidade Ações antes:  1 comprando + 1 acoes, então acoes agora 2
+Comprando 1 com valor 6.0
+Money Agora: 8.769999999998252, Gastando 6.0, E agora com 2.7699999999982516
+------------------------
+VENDENDO TUDO
+------------------------
+
+-------VENDA Ação da empresa CSNA3F-R$, na data 2014-12-30
+Ação teve sua ultima compra com valor de 6.0, com a quantidade 1.0, totalizando 6.0
+Ação teve sua venda pelo valor de        5.6, com a quantidade 2, totalizando 11.2, sua media é de 9.53310531053105
+Total gasto: 14.91, total vendido: 11.2, Lucro-prejuizo: -3.710000000000001
+Money Antes: 2.7699999999982516, Ganhando 11.2, E agora com 13.969999999998251
+
+-------VENDA Ação da empresa VIVT3-R$, na data 2014-12-30
+Ação teve sua ultima compra com valor de 38.56, com a quantidade 2593.0, totalizando 99986.08
+Ação teve sua venda pelo valor de        39.89, com a quantidade 2593, totalizando 103434.77, sua media é de 39.724725472547235
+Total gasto: 99986.08, total vendido: 103434.77, Lucro-prejuizo: 3448.6900000000023
+Money Antes: 13.969999999998251, Ganhando 103434.77, E agora com 103448.74
+

@@ -1,3 +1,6 @@
-*.TXT
+/AIInvestimentSimulator/instances/
 /AIInvestimentSimulator/nbproject/private/
 /AIInvestimentSimulator/build/
+/AIInvestimentSimulatorLookAhead/instances/
+/AIInvestimentSimulatorLookAhead/nbproject/private/
+/AIInvestimentSimulatorLookAhead/build/

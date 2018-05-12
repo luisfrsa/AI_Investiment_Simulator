@@ -1,0 +1,46 @@
+
+-------COMPRA Ação da empresa CSNA3F-R$, na data 2014-01-21
+Ação com valor 12.64, Sendo a media de 13.029970703125002
+Quantidade Ações antes:  0 comprando + 7911 acoes, então acoes agora 7911
+Comprando 7911 com valor 12.64
+Money Agora: 100000.0, Gastando 99995.04000000001, E agora com 4.959999999991851
+
+-------COMPRA Ação da empresa CSNA3F-R$, na data 2014-12-10
+Ação com valor 4.9, Sendo a media de 5.221914708501652
+Quantidade Ações antes:  7911 comprando + 1 acoes, então acoes agora 7912
+Comprando 1 com valor 4.9
+Money Agora: 4.959999999991851, Gastando 4.9, E agora com 0.05999999999185057
+
+-------VENDA Ação da empresa CSNA3F-R$, na data 2014-12-23
+Ação teve sua ultima compra com valor de 4.9, com a quantidade 1.0, totalizando 4.9
+Ação teve sua venda pelo valor de        6.38, com a quantidade 7912, totalizando 50478.56, sua media é de 5.646652251961014
+Total gasto: 99999.94, total vendido: 50478.56, Lucro-prejuizo: -49521.380000000005
+Money Antes: 0.05999999999185057, Ganhando 50478.56, E agora com 50478.61999999999
+
+-------COMPRA Ação da empresa LEVE3F-NM   R$, na data 2014-12-23
+Ação com valor 20.0, Sendo a media de 20.72279342882719
+Quantidade Ações antes:  0 comprando + 2523 acoes, então acoes agora 2523
+Comprando 2523 com valor 20.0
+Money Agora: 50478.61999999999, Gastando 50460.0, E agora com 18.619999999988067
+
+-------COMPRA Ação da empresa CSNA3F-R$, na data 2014-12-30
+Ação com valor 5.6, Sendo a media de 5.728884083987005
+Quantidade Ações antes:  0 comprando + 1 acoes, então acoes agora 1
+Comprando 1 com valor 5.6
+Money Agora: 18.619999999988067, Gastando 5.6, E agora com 13.019999999988068
+------------------------
+VENDENDO TUDO
+------------------------
+
+-------VENDA Ação da empresa LEVE3F-NM   R$, na data 2014-12-30
+Ação teve sua ultima compra com valor de 20.0, com a quantidade 2523.0, totalizando 50460.0
+Ação teve sua venda pelo valor de        20.01, com a quantidade 2523, totalizando 50485.23, sua media é de 20.686047535810197
+Total gasto: 50460.0, total vendido: 50485.23, Lucro-prejuizo: 25.2300000000032
+Money Antes: 13.019999999988068, Ganhando 50485.23, E agora com 50498.24999999999
+
+-------VENDA Ação da empresa CSNA3F-R$, na data 2014-12-30
+Ação teve sua ultima compra com valor de 5.6, com a quantidade 1.0, totalizando 5.6
+Ação teve sua venda pelo valor de        5.6, com a quantidade 1, totalizando 5.6, sua media é de 5.728884083987005
+Total gasto: 5.6, total vendido: 5.6, Lucro-prejuizo: 0.0
+Money Antes: 50498.24999999999, Ganhando 5.6, E agora com 50503.84999999999
+

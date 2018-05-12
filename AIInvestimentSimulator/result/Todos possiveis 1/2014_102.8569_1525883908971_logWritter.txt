@@ -1,0 +1,40 @@
+
+-------COMPRA Ação da empresa VIVT3-R$, na data 2014-01-29
+Ação com valor 38.78, Sendo a media de 39.94271739130434
+Quantidade Ações antes:  0 comprando + 2578 acoes, então acoes agora 2578
+Comprando 2578 com valor 38.78
+Money Agora: 100000.0, Gastando 99974.84, E agora com 25.160000000003492
+
+-------COMPRA Ação da empresa JSLG3-NM   R$, na data 2014-02-03
+Ação com valor 13.01, Sendo a media de 13.413171296296294
+Quantidade Ações antes:  0 comprando + 1 acoes, então acoes agora 1
+Comprando 1 com valor 13.01
+Money Agora: 25.160000000003492, Gastando 13.01, E agora com 12.150000000003493
+
+-------COMPRA Ação da empresa CSNA3F-R$, na data 2014-03-27
+Ação com valor 10.02, Sendo a media de 10.466830808080806
+Quantidade Ações antes:  0 comprando + 1 acoes, então acoes agora 1
+Comprando 1 com valor 10.02
+Money Agora: 12.150000000003493, Gastando 10.02, E agora com 2.130000000003493
+------------------------
+VENDENDO TUDO
+------------------------
+
+-------VENDA Ação da empresa CSNA3F-R$, na data 2014-12-30
+Ação teve sua ultima compra com valor de 10.02, com a quantidade 1.0, totalizando 10.02
+Ação teve sua venda pelo valor de        5.6, com a quantidade 1, totalizando 5.6, sua media é de 9.28259171907757
+Total gasto: 10.02, total vendido: 5.6, Lucro-prejuizo: -4.42
+Money Antes: 2.130000000003493, Ganhando 5.6, E agora com 7.730000000003493
+
+-------VENDA Ação da empresa VIVT3-R$, na data 2014-12-30
+Ação teve sua ultima compra com valor de 38.78, com a quantidade 2578.0, totalizando 99974.84
+Ação teve sua venda pelo valor de        39.89, com a quantidade 2578, totalizando 102836.42, sua media é de 39.65883123689726
+Total gasto: 99974.84, total vendido: 102836.42, Lucro-prejuizo: 2861.5800000000017
+Money Antes: 7.730000000003493, Ganhando 102836.42, E agora com 102844.15000000001
+
+-------VENDA Ação da empresa JSLG3-NM   R$, na data 2014-12-30
+Ação teve sua ultima compra com valor de 13.01, com a quantidade 1.0, totalizando 13.01
+Ação teve sua venda pelo valor de        12.75, com a quantidade 1, totalizando 12.75, sua media é de 12.56950864779874
+Total gasto: 13.01, total vendido: 12.75, Lucro-prejuizo: -0.2599999999999998
+Money Antes: 102844.15000000001, Ganhando 12.75, E agora com 102856.90000000001
+

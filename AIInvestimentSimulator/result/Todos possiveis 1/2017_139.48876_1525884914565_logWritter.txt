@@ -1,0 +1,988 @@
+
+-------COMPRA Ação da empresa GRND3-NM   R$, na data 2017-01-02
+Ação com valor 17.61, Sendo a media de 24.650043010752672
+Quantidade Ações antes:  0 comprando + 1596 acoes, então acoes agora 1596
+Comprando 1596 com valor 17.61
+Money Agora: 100000.0, Gastando 28105.559999999998, E agora com 71894.44
+
+-------COMPRA Ação da empresa GRND3F-NM   R$, na data 2017-01-02
+Ação com valor 17.72, Sendo a media de 24.796000000000006
+Quantidade Ações antes:  0 comprando + 1139 acoes, então acoes agora 1139
+Comprando 1139 com valor 17.72
+Money Agora: 71894.44, Gastando 20183.079999999998, E agora com 51711.36
+
+-------COMPRA Ação da empresa NATU3F-NM   R$, na data 2017-01-02
+Ação com valor 22.5, Sendo a media de 28.95343096234309
+Quantidade Ações antes:  0 comprando + 504 acoes, então acoes agora 504
+Comprando 504 com valor 22.5
+Money Agora: 51711.36, Gastando 11340.0, E agora com 40371.36
+
+-------COMPRA Ação da empresa NATU3-NM   R$, na data 2017-01-02
+Ação com valor 22.47, Sendo a media de 28.88364016736402
+Quantidade Ações antes:  0 comprando + 392 acoes, então acoes agora 392
+Comprando 392 com valor 22.47
+Money Agora: 40371.36, Gastando 8808.24, E agora com 31563.120000000003
+
+-------VENDA Ação da empresa NATU3-NM   R$, na data 2017-01-03
+Ação teve sua ultima compra com valor de 22.47, com a quantidade 392.0, totalizando 8808.24
+Ação teve sua venda pelo valor de        23.24, com a quantidade 392, totalizando 9110.08, sua media é de 28.860125000000004
+Total gasto: 8808.24, total vendido: 9110.08, Lucro-prejuizo: 301.84000000000015
+Money Antes: 31563.120000000003, Ganhando 9110.08, E agora com 40673.200000000004
+
+-------VENDA Ação da empresa GRND3F-NM   R$, na data 2017-01-03
+Ação teve sua ultima compra com valor de 17.72, com a quantidade 1139.0, totalizando 20183.079999999998
+Ação teve sua venda pelo valor de        17.98, com a quantidade 1139, totalizando 20479.22, sua media é de 24.723489361702136
+Total gasto: 20183.079999999998, total vendido: 20479.22, Lucro-prejuizo: 296.14000000000306
+Money Antes: 40673.200000000004, Ganhando 20479.22, E agora com 61152.420000000006
+
+-------VENDA Ação da empresa GRND3-NM   R$, na data 2017-01-03
+Ação teve sua ultima compra com valor de 17.61, com a quantidade 1596.0, totalizando 28105.559999999998
+Ação teve sua venda pelo valor de        18.05, com a quantidade 1596, totalizando 28807.800000000003, sua media é de 24.579829787234026
+Total gasto: 28105.559999999998, total vendido: 28807.800000000003, Lucro-prejuizo: 702.2400000000052
+Money Antes: 61152.420000000006, Ganhando 28807.800000000003, E agora com 89960.22
+
+-------VENDA Ação da empresa NATU3F-NM   R$, na data 2017-01-03
+Ação teve sua ultima compra com valor de 22.5, com a quantidade 504.0, totalizando 11340.0
+Ação teve sua venda pelo valor de        23.39, com a quantidade 504, totalizando 11788.56, sua media é de 28.930249999999997
+Total gasto: 11340.0, total vendido: 11788.56, Lucro-prejuizo: 448.5599999999995
+Money Antes: 89960.22, Ganhando 11788.56, E agora com 101748.78
+
+-------COMPRA Ação da empresa NATU3-NM   R$, na data 2017-01-03
+Ação com valor 23.24, Sendo a media de 28.860125000000004
+Quantidade Ações antes:  0 comprando + 922 acoes, então acoes agora 922
+Comprando 922 com valor 23.24
+Money Agora: 101748.78, Gastando 21427.28, E agora com 80321.5
+
+-------COMPRA Ação da empresa GRND3F-NM   R$, na data 2017-01-03
+Ação com valor 17.98, Sendo a media de 24.723489361702136
+Quantidade Ações antes:  0 comprando + 1317 acoes, então acoes agora 1317
+Comprando 1317 com valor 17.98
+Money Agora: 80321.5, Gastando 23679.66, E agora com 56641.84
+
+-------COMPRA Ação da empresa GRND3-NM   R$, na data 2017-01-03
+Ação com valor 18.05, Sendo a media de 24.579829787234026
+Quantidade Ações antes:  0 comprando + 901 acoes, então acoes agora 901
+Comprando 901 com valor 18.05
+Money Agora: 56641.84, Gastando 16263.050000000001, E agora com 40378.78999999999
+
+-------COMPRA Ação da empresa NATU3F-NM   R$, na data 2017-01-03
+Ação com valor 23.39, Sendo a media de 28.930249999999997
+Quantidade Ações antes:  0 comprando + 357 acoes, então acoes agora 357
+Comprando 357 com valor 23.39
+Money Agora: 40378.78999999999, Gastando 8350.23, E agora com 32028.559999999994
+
+-------VENDA Ação da empresa GRND3F-NM   R$, na data 2017-01-04
+Ação teve sua ultima compra com valor de 17.98, com a quantidade 1317.0, totalizando 23679.66
+Ação teve sua venda pelo valor de        18.26, com a quantidade 1317, totalizando 24048.420000000002, sua media é de 24.655452631578957
+Total gasto: 23679.66, total vendido: 24048.420000000002, Lucro-prejuizo: 368.76000000000204
+Money Antes: 32028.559999999994, Ganhando 24048.420000000002, E agora com 56076.979999999996
+
+-------VENDA Ação da empresa GRND3-NM   R$, na data 2017-01-04
+Ação teve sua ultima compra com valor de 18.05, com a quantidade 901.0, totalizando 16263.050000000001
+Ação teve sua venda pelo valor de        18.34, com a quantidade 901, totalizando 16524.34, sua media é de 24.51414736842104
+Total gasto: 16263.050000000001, total vendido: 16524.34, Lucro-prejuizo: 261.28999999999905
+Money Antes: 56076.979999999996, Ganhando 16524.34, E agora com 72601.31999999999
+
+-------COMPRA Ação da empresa NATU3-NM   R$, na data 2017-01-04
+Ação com valor 23.11, Sendo a media de 28.80084536082475
+Quantidade Ações antes:  922 comprando + 687 acoes, então acoes agora 1609
+Comprando 687 com valor 23.11
+Money Agora: 72601.31999999999, Gastando 15876.57, E agora com 56724.74999999999
+
+-------COMPRA Ação da empresa GRND3F-NM   R$, na data 2017-01-04
+Ação com valor 18.26, Sendo a media de 24.655452631578957
+Quantidade Ações antes:  0 comprando + 891 acoes, então acoes agora 891
+Comprando 891 com valor 18.26
+Money Agora: 56724.74999999999, Gastando 16269.660000000002, E agora com 40455.08999999999
+
+-------COMPRA Ação da empresa GRND3-NM   R$, na data 2017-01-04
+Ação com valor 18.34, Sendo a media de 24.51414736842104
+Quantidade Ações antes:  0 comprando + 614 acoes, então acoes agora 614
+Comprando 614 com valor 18.34
+Money Agora: 40455.08999999999, Gastando 11260.76, E agora com 29194.329999999987
+
+-------COMPRA Ação da empresa NATU3F-NM   R$, na data 2017-01-04
+Ação com valor 23.25, Sendo a media de 28.871690721649482
+Quantidade Ações antes:  357 comprando + 270 acoes, então acoes agora 627
+Comprando 270 com valor 23.25
+Money Agora: 29194.329999999987, Gastando 6277.5, E agora com 22916.829999999987
+
+-------VENDA Ação da empresa NATU3-NM   R$, na data 2017-01-05
+Ação teve sua ultima compra com valor de 23.11, com a quantidade 687.0, totalizando 15876.57
+Ação teve sua venda pelo valor de        23.14, com a quantidade 1609, totalizando 37232.26, sua media é de 28.743081632653066
+Total gasto: 37303.85, total vendido: 37232.26, Lucro-prejuizo: -71.58999999999651
+Money Antes: 22916.829999999987, Ganhando 37232.26, E agora com 60149.08999999999
+
+-------VENDA Ação da empresa NATU3F-NM   R$, na data 2017-01-05
+Ação teve sua ultima compra com valor de 23.25, com a quantidade 270.0, totalizando 6277.5
+Ação teve sua venda pelo valor de        23.28, com a quantidade 627, totalizando 14596.560000000001, sua media é de 28.814632653061224
+Total gasto: 14627.73, total vendido: 14596.560000000001, Lucro-prejuizo: -31.169999999998254
+Money Antes: 60149.08999999999, Ganhando 14596.560000000001, E agora com 74745.65
+
+-------COMPRA Ação da empresa VIVT3-R$, na data 2017-01-05
+Ação com valor 34.59, Sendo a media de 38.734639999999985
+Quantidade Ações antes:  0 comprando + 225 acoes, então acoes agora 225
+Comprando 225 com valor 34.59
+Money Agora: 74745.65, Gastando 7782.750000000001, E agora com 66962.9
+
+-------COMPRA Ação da empresa NATU3-NM   R$, na data 2017-01-05
+Ação com valor 23.14, Sendo a media de 28.743081632653066
+Quantidade Ações antes:  0 comprando + 549 acoes, então acoes agora 549
+Comprando 549 com valor 23.14
+Money Agora: 66962.9, Gastando 12703.86, E agora com 54259.03999999999
+
+-------COMPRA Ação da empresa GRND3-NM   R$, na data 2017-01-05
+Ação com valor 17.91, Sendo a media de 24.44535416666665
+Quantidade Ações antes:  614 comprando + 788 acoes, então acoes agora 1402
+Comprando 788 com valor 17.91
+Money Agora: 54259.03999999999, Gastando 14113.08, E agora com 40145.95999999999
+
+-------COMPRA Ação da empresa GRND3F-NM   R$, na data 2017-01-05
+Ação com valor 18.06, Sendo a media de 24.58675000000001
+Quantidade Ações antes:  891 comprando + 574 acoes, então acoes agora 1465
+Comprando 574 com valor 18.06
+Money Agora: 40145.95999999999, Gastando 10366.439999999999, E agora com 29779.519999999993
+
+-------COMPRA Ação da empresa NATU3F-NM   R$, na data 2017-01-05
+Ação com valor 23.28, Sendo a media de 28.814632653061224
+Quantidade Ações antes:  0 comprando + 239 acoes, então acoes agora 239
+Comprando 239 com valor 23.28
+Money Agora: 29779.519999999993, Gastando 5563.92, E agora com 24215.59999999999
+
+-------VENDA Ação da empresa VIVT3-R$, na data 2017-01-06
+Ação teve sua ultima compra com valor de 34.59, com a quantidade 225.0, totalizando 7782.750000000001
+Ação teve sua venda pelo valor de        35.41, com a quantidade 225, totalizando 7967.249999999999, sua media é de 38.701722772277215
+Total gasto: 7782.750000000001, total vendido: 7967.249999999999, Lucro-prejuizo: 184.49999999999818
+Money Antes: 24215.59999999999, Ganhando 7967.249999999999, E agora com 32182.84999999999
+
+-------COMPRA Ação da empresa GRND3-NM   R$, na data 2017-01-06
+Ação com valor 17.8, Sendo a media de 24.376845360824728
+Quantidade Ações antes:  1402 comprando + 515 acoes, então acoes agora 1917
+Comprando 515 com valor 17.8
+Money Agora: 32182.84999999999, Gastando 9167.0, E agora com 23015.84999999999
+
+-------COMPRA Ação da empresa NATU3-NM   R$, na data 2017-01-06
+Ação com valor 23.06, Sendo a media de 28.685676767676775
+Quantidade Ações antes:  549 comprando + 206 acoes, então acoes agora 755
+Comprando 206 com valor 23.06
+Money Agora: 23015.84999999999, Gastando 4750.36, E agora com 18265.48999999999
+
+-------COMPRA Ação da empresa NATU3F-NM   R$, na data 2017-01-06
+Ação com valor 23.03, Sendo a media de 28.75620202020202
+Quantidade Ações antes:  239 comprando + 166 acoes, então acoes agora 405
+Comprando 166 com valor 23.03
+Money Agora: 18265.48999999999, Gastando 3822.98, E agora com 14442.509999999991
+
+-------COMPRA Ação da empresa GRND3F-NM   R$, na data 2017-01-06
+Ação com valor 17.6, Sendo a media de 24.514721649484546
+Quantidade Ações antes:  1465 comprando + 244 acoes, então acoes agora 1709
+Comprando 244 com valor 17.6
+Money Agora: 14442.509999999991, Gastando 4294.400000000001, E agora com 10148.10999999999
+
+-------VENDA Ação da empresa GRND3-NM   R$, na data 2017-01-09
+Ação teve sua ultima compra com valor de 17.8, com a quantidade 515.0, totalizando 9167.0
+Ação teve sua venda pelo valor de        17.99, com a quantidade 1917, totalizando 34486.829999999994, sua media é de 24.31167346938774
+Total gasto: 34540.84, total vendido: 34486.829999999994, Lucro-prejuizo: -54.01000000000204
+Money Antes: 10148.10999999999, Ganhando 34486.829999999994, E agora com 44634.93999999999
+
+-------VENDA Ação da empresa GRND3F-NM   R$, na data 2017-01-09
+Ação teve sua ultima compra com valor de 17.6, com a quantidade 244.0, totalizando 4294.400000000001
+Ação teve sua venda pelo valor de        17.86, com a quantidade 1709, totalizando 30522.739999999998, sua media é de 24.446816326530623
+Total gasto: 30930.5, total vendido: 30522.739999999998, Lucro-prejuizo: -407.76000000000204
+Money Antes: 44634.93999999999, Ganhando 30522.739999999998, E agora com 75157.68
+
+-------VENDA Ação da empresa NATU3F-NM   R$, na data 2017-01-09
+Ação teve sua ultima compra com valor de 23.03, com a quantidade 166.0, totalizando 3822.98
+Ação teve sua venda pelo valor de        24.07, com a quantidade 405, totalizando 9748.35, sua media é de 28.70934
+Total gasto: 9386.9, total vendido: 9748.35, Lucro-prejuizo: 361.4500000000007
+Money Antes: 75157.68, Ganhando 9748.35, E agora com 84906.03
+
+-------VENDA Ação da empresa NATU3-NM   R$, na data 2017-01-09
+Ação teve sua ultima compra com valor de 23.06, com a quantidade 206.0, totalizando 4750.36
+Ação teve sua venda pelo valor de        24.18, com a quantidade 755, totalizando 18255.9, sua media é de 28.640620000000002
+Total gasto: 17454.22, total vendido: 18255.9, Lucro-prejuizo: 801.6800000000003
+Money Antes: 84906.03, Ganhando 18255.9, E agora com 103161.93
+
+-------COMPRA Ação da empresa GRND3-NM   R$, na data 2017-01-09
+Ação com valor 17.99, Sendo a media de 24.31167346938774
+Quantidade Ações antes:  0 comprando + 1760 acoes, então acoes agora 1760
+Comprando 1760 com valor 17.99
+Money Agora: 103161.93, Gastando 31662.399999999998, E agora com 71499.53
+
+-------COMPRA Ação da empresa GRND3F-NM   R$, na data 2017-01-09
+Ação com valor 17.86, Sendo a media de 24.446816326530623
+Quantidade Ações antes:  0 comprando + 1273 acoes, então acoes agora 1273
+Comprando 1273 com valor 17.86
+Money Agora: 71499.53, Gastando 22735.78, E agora com 48763.75
+
+-------COMPRA Ação da empresa NATU3F-NM   R$, na data 2017-01-09
+Ação com valor 24.07, Sendo a media de 28.70934
+Quantidade Ações antes:  0 comprando + 386 acoes, então acoes agora 386
+Comprando 386 com valor 24.07
+Money Agora: 48763.75, Gastando 9291.02, E agora com 39472.729999999996
+
+-------COMPRA Ação da empresa NATU3-NM   R$, na data 2017-01-09
+Ação com valor 24.18, Sendo a media de 28.640620000000002
+Quantidade Ações antes:  0 comprando + 300 acoes, então acoes agora 300
+Comprando 300 com valor 24.18
+Money Agora: 39472.729999999996, Gastando 7254.0, E agora com 32218.729999999996
+
+-------COMPRA Ação da empresa GRND3-NM   R$, na data 2017-01-10
+Ação com valor 17.84, Sendo a media de 24.246303030303018
+Quantidade Ações antes:  1760 comprando + 544 acoes, então acoes agora 2304
+Comprando 544 com valor 17.84
+Money Agora: 32218.729999999996, Gastando 9704.96, E agora com 22513.769999999997
+
+-------COMPRA Ação da empresa GRND3F-NM   R$, na data 2017-01-10
+Ação com valor 17.8, Sendo a media de 24.379676767676777
+Quantidade Ações antes:  1273 comprando + 389 acoes, então acoes agora 1662
+Comprando 389 com valor 17.8
+Money Agora: 22513.769999999997, Gastando 6924.200000000001, E agora com 15589.569999999996
+
+-------COMPRA Ação da empresa NATU3F-NM   R$, na data 2017-01-10
+Ação com valor 23.52, Sendo a media de 28.58277073170732
+Quantidade Ações antes:  386 comprando + 133 acoes, então acoes agora 519
+Comprando 133 com valor 23.52
+Money Agora: 15589.569999999996, Gastando 3128.16, E agora com 12461.409999999996
+
+-------COMPRA Ação da empresa NATU3-NM   R$, na data 2017-01-10
+Ação com valor 23.8, Sendo a media de 28.522556097560976
+Quantidade Ações antes:  300 comprando + 98 acoes, então acoes agora 398
+Comprando 98 com valor 23.8
+Money Agora: 12461.409999999996, Gastando 2332.4, E agora com 10129.009999999997
+
+-------VENDA Ação da empresa GRND3F-NM   R$, na data 2017-01-11
+Ação teve sua ultima compra com valor de 17.8, com a quantidade 389.0, totalizando 6924.200000000001
+Ação teve sua venda pelo valor de        17.9, com a quantidade 1662, totalizando 29749.8, sua media é de 24.314880000000013
+Total gasto: 29659.98, total vendido: 29749.8, Lucro-prejuizo: 89.81999999999971
+Money Antes: 10129.009999999997, Ganhando 29749.8, E agora com 39878.81
+
+-------COMPRA Ação da empresa NATU3F-NM   R$, na data 2017-01-11
+Ação com valor 23.49, Sendo a media de 28.461514285714287
+Quantidade Ações antes:  519 comprando + 332 acoes, então acoes agora 851
+Comprando 332 com valor 23.49
+Money Agora: 39878.81, Gastando 7798.679999999999, E agora com 32080.129999999997
+
+-------COMPRA Ação da empresa NATU3-NM   R$, na data 2017-01-11
+Ação com valor 23.2, Sendo a media de 28.395828571428574
+Quantidade Ações antes:  398 comprando + 283 acoes, então acoes agora 681
+Comprando 283 com valor 23.2
+Money Agora: 32080.129999999997, Gastando 6565.599999999999, E agora com 25514.53
+
+-------COMPRA Ação da empresa GRND3-NM   R$, na data 2017-01-11
+Ação com valor 17.63, Sendo a media de 24.180139999999987
+Quantidade Ações antes:  2304 comprando + 439 acoes, então acoes agora 2743
+Comprando 439 com valor 17.63
+Money Agora: 25514.53, Gastando 7739.57, E agora com 17774.96
+
+-------COMPRA Ação da empresa GRND3F-NM   R$, na data 2017-01-11
+Ação com valor 17.9, Sendo a media de 24.314880000000013
+Quantidade Ações antes:  0 comprando + 293 acoes, então acoes agora 293
+Comprando 293 com valor 17.9
+Money Agora: 17774.96, Gastando 5244.7, E agora com 12530.259999999998
+
+-------VENDA Ação da empresa NATU3-NM   R$, na data 2017-01-12
+Ação teve sua ultima compra com valor de 23.2, com a quantidade 283.0, totalizando 6565.599999999999
+Ação teve sua venda pelo valor de        24.45, com a quantidade 681, totalizando 16650.45, sua media é de 28.304065116279073
+Total gasto: 16152.0, total vendido: 16650.45, Lucro-prejuizo: 498.4500000000007
+Money Antes: 12530.259999999998, Ganhando 16650.45, E agora com 29180.71
+
+-------VENDA Ação da empresa NATU3F-NM   R$, na data 2017-01-12
+Ação teve sua ultima compra com valor de 23.49, com a quantidade 332.0, totalizando 7798.679999999999
+Ação teve sua venda pelo valor de        24.25, com a quantidade 851, totalizando 20636.75, sua media é de 28.363572093023258
+Total gasto: 20217.86, total vendido: 20636.75, Lucro-prejuizo: 418.8899999999994
+Money Antes: 29180.71, Ganhando 20636.75, E agora com 49817.46
+
+-------VENDA Ação da empresa GRND3-NM   R$, na data 2017-01-12
+Ação teve sua ultima compra com valor de 17.63, com a quantidade 439.0, totalizando 7739.57
+Ação teve sua venda pelo valor de        17.68, com a quantidade 2743, totalizando 48496.24, sua media é de 24.02159999999999
+Total gasto: 49106.93, total vendido: 48496.24, Lucro-prejuizo: -610.6900000000023
+Money Antes: 49817.46, Ganhando 48496.24, E agora com 98313.7
+
+-------VENDA Ação da empresa GRND3F-NM   R$, na data 2017-01-12
+Ação teve sua ultima compra com valor de 17.9, com a quantidade 293.0, totalizando 5244.7
+Ação teve sua venda pelo valor de        17.99, com a quantidade 293, totalizando 5271.07, sua media é de 24.160614634146352
+Total gasto: 5244.7, total vendido: 5271.07, Lucro-prejuizo: 26.36999999999989
+Money Antes: 98313.7, Ganhando 5271.07, E agora com 103584.76999999999
+
+-------COMPRA Ação da empresa NATU3-NM   R$, na data 2017-01-12
+Ação com valor 24.45, Sendo a media de 28.304065116279073
+Quantidade Ações antes:  0 comprando + 720 acoes, então acoes agora 720
+Comprando 720 com valor 24.45
+Money Agora: 103584.76999999999, Gastando 17604.0, E agora com 85980.76999999999
+
+-------COMPRA Ação da empresa NATU3F-NM   R$, na data 2017-01-12
+Ação com valor 24.25, Sendo a media de 28.363572093023258
+Quantidade Ações antes:  0 comprando + 642 acoes, então acoes agora 642
+Comprando 642 com valor 24.25
+Money Agora: 85980.76999999999, Gastando 15568.5, E agora com 70412.26999999999
+
+-------COMPRA Ação da empresa GRND3-NM   R$, na data 2017-01-12
+Ação com valor 17.68, Sendo a media de 24.02159999999999
+Quantidade Ações antes:  0 comprando + 1313 acoes, então acoes agora 1313
+Comprando 1313 com valor 17.68
+Money Agora: 70412.26999999999, Gastando 23213.84, E agora com 47198.42999999999
+
+-------COMPRA Ação da empresa GRND3F-NM   R$, na data 2017-01-12
+Ação com valor 17.99, Sendo a media de 24.160614634146352
+Quantidade Ações antes:  0 comprando + 836 acoes, então acoes agora 836
+Comprando 836 com valor 17.99
+Money Agora: 47198.42999999999, Gastando 15039.64, E agora com 32158.789999999994
+
+-------VENDA Ação da empresa NATU3F-NM   R$, na data 2017-01-13
+Ação teve sua ultima compra com valor de 24.25, com a quantidade 642.0, totalizando 15568.5
+Ação teve sua venda pelo valor de        24.3, com a quantidade 642, totalizando 15600.6, sua media é de 28.271218181818185
+Total gasto: 15568.5, total vendido: 15600.6, Lucro-prejuizo: 32.100000000000364
+Money Antes: 32158.789999999994, Ganhando 15600.6, E agora com 47759.38999999999
+
+-------COMPRA Ação da empresa GRND3F-NM   R$, na data 2017-01-13
+Ação com valor 17.38, Sendo a media de 23.99917142857144
+Quantidade Ações antes:  836 comprando + 917 acoes, então acoes agora 1753
+Comprando 917 com valor 17.38
+Money Agora: 47759.38999999999, Gastando 15937.46, E agora com 31821.929999999993
+
+-------COMPRA Ação da empresa NATU3-NM   R$, na data 2017-01-13
+Ação com valor 24.35, Sendo a media de 28.2142
+Quantidade Ações antes:  720 comprando + 216 acoes, então acoes agora 936
+Comprando 216 com valor 24.35
+Money Agora: 31821.929999999993, Gastando 5259.6, E agora com 26562.329999999994
+
+-------COMPRA Ação da empresa GRND3-NM   R$, na data 2017-01-13
+Ação com valor 17.35, Sendo a media de 23.86275238095237
+Quantidade Ações antes:  1313 comprando + 505 acoes, então acoes agora 1818
+Comprando 505 com valor 17.35
+Money Agora: 26562.329999999994, Gastando 8761.75, E agora com 17800.579999999994
+
+-------COMPRA Ação da empresa NATU3F-NM   R$, na data 2017-01-13
+Ação com valor 24.3, Sendo a media de 28.271218181818185
+Quantidade Ações antes:  0 comprando + 124 acoes, então acoes agora 124
+Comprando 124 com valor 24.3
+Money Agora: 17800.579999999994, Gastando 3013.2000000000003, E agora com 14787.379999999994
+
+-------VENDA Ação da empresa GRND3-NM   R$, na data 2017-01-16
+Ação teve sua ultima compra com valor de 17.35, com a quantidade 505.0, totalizando 8761.75
+Ação teve sua venda pelo valor de        17.54, com a quantidade 1818, totalizando 31887.719999999998, sua media é de 23.715711627906966
+Total gasto: 31975.59, total vendido: 31887.719999999998, Lucro-prejuizo: -87.87000000000262
+Money Antes: 14787.379999999994, Ganhando 31887.719999999998, E agora com 46675.09999999999
+
+-------VENDA Ação da empresa GRND3F-NM   R$, na data 2017-01-16
+Ação teve sua ultima compra com valor de 17.38, com a quantidade 917.0, totalizando 15937.46
+Ação teve sua venda pelo valor de        17.42, com a quantidade 1753, totalizando 30537.260000000002, sua media é de 23.846167441860473
+Total gasto: 30977.1, total vendido: 30537.260000000002, Lucro-prejuizo: -439.8399999999965
+Money Antes: 46675.09999999999, Ganhando 30537.260000000002, E agora com 77212.35999999999
+
+-------COMPRA Ação da empresa NATU3-NM   R$, na data 2017-01-16
+Ação com valor 23.91, Sendo a media de 28.118551111111113
+Quantidade Ações antes:  936 comprando + 582 acoes, então acoes agora 1518
+Comprando 582 com valor 23.91
+Money Agora: 77212.35999999999, Gastando 13915.62, E agora com 63296.73999999998
+
+-------COMPRA Ação da empresa GRND3-NM   R$, na data 2017-01-16
+Ação com valor 17.54, Sendo a media de 23.715711627906966
+Quantidade Ações antes:  0 comprando + 1133 acoes, então acoes agora 1133
+Comprando 1133 com valor 17.54
+Money Agora: 63296.73999999998, Gastando 19872.82, E agora com 43423.919999999984
+
+-------COMPRA Ação da empresa NATU3F-NM   R$, na data 2017-01-16
+Ação com valor 23.96, Sendo a media de 28.175413333333335
+Quantidade Ações antes:  124 comprando + 327 acoes, então acoes agora 451
+Comprando 327 com valor 23.96
+Money Agora: 43423.919999999984, Gastando 7834.92, E agora com 35588.999999999985
+
+-------COMPRA Ação da empresa GRND3F-NM   R$, na data 2017-01-16
+Ação com valor 17.42, Sendo a media de 23.846167441860473
+Quantidade Ações antes:  0 comprando + 663 acoes, então acoes agora 663
+Comprando 663 com valor 17.42
+Money Agora: 35588.999999999985, Gastando 11549.460000000001, E agora com 24039.539999999986
+
+-------VENDA Ação da empresa GRND3-NM   R$, na data 2017-01-17
+Ação teve sua ultima compra com valor de 17.54, com a quantidade 1133.0, totalizando 19872.82
+Ação teve sua venda pelo valor de        17.8, com a quantidade 1133, totalizando 20167.4, sua media é de 23.581263636363623
+Total gasto: 19872.82, total vendido: 20167.4, Lucro-prejuizo: 294.58000000000175
+Money Antes: 24039.539999999986, Ganhando 20167.4, E agora com 44206.93999999999
+
+-------VENDA Ação da empresa GRND3F-NM   R$, na data 2017-01-17
+Ação teve sua ultima compra com valor de 17.42, com a quantidade 663.0, totalizando 11549.460000000001
+Ação teve sua venda pelo valor de        17.8, com a quantidade 663, totalizando 11801.4, sua media é de 23.708754545454553
+Total gasto: 11549.460000000001, total vendido: 11801.4, Lucro-prejuizo: 251.9399999999987
+Money Antes: 44206.93999999999, Ganhando 11801.4, E agora com 56008.33999999999
+
+-------VENDA Ação da empresa NATU3-NM   R$, na data 2017-01-17
+Ação teve sua ultima compra com valor de 23.91, com a quantidade 582.0, totalizando 13915.62
+Ação teve sua venda pelo valor de        24.25, com a quantidade 1518, totalizando 36811.5, sua media é de 28.034452173913046
+Total gasto: 36779.22, total vendido: 36811.5, Lucro-prejuizo: 32.279999999998836
+Money Antes: 56008.33999999999, Ganhando 36811.5, E agora com 92819.84
+
+-------COMPRA Ação da empresa GRND3-NM   R$, na data 2017-01-17
+Ação com valor 17.8, Sendo a media de 23.581263636363623
+Quantidade Ações antes:  0 comprando + 1643 acoes, então acoes agora 1643
+Comprando 1643 com valor 17.8
+Money Agora: 92819.84, Gastando 29245.4, E agora com 63574.439999999995
+
+-------COMPRA Ação da empresa GRND3F-NM   R$, na data 2017-01-17
+Ação com valor 17.8, Sendo a media de 23.708754545454553
+Quantidade Ações antes:  0 comprando + 1144 acoes, então acoes agora 1144
+Comprando 1144 com valor 17.8
+Money Agora: 63574.439999999995, Gastando 20363.2, E agora com 43211.23999999999
+
+-------COMPRA Ação da empresa NATU3F-NM   R$, na data 2017-01-17
+Ação com valor 23.91, Sendo a media de 28.082686956521744
+Quantidade Ações antes:  451 comprando + 345 acoes, então acoes agora 796
+Comprando 345 com valor 23.91
+Money Agora: 43211.23999999999, Gastando 8248.95, E agora com 34962.28999999999
+
+-------COMPRA Ação da empresa NATU3-NM   R$, na data 2017-01-17
+Ação com valor 24.25, Sendo a media de 28.034452173913046
+Quantidade Ações antes:  0 comprando + 250 acoes, então acoes agora 250
+Comprando 250 com valor 24.25
+Money Agora: 34962.28999999999, Gastando 6062.5, E agora com 28899.789999999994
+
+-------VENDA Ação da empresa NATU3F-NM   R$, na data 2017-01-18
+Ação teve sua ultima compra com valor de 23.91, com a quantidade 345.0, totalizando 8248.95
+Ação teve sua venda pelo valor de        25.28, com a quantidade 796, totalizando 20122.88, sua media é de 28.02305531914894
+Total gasto: 19097.07, total vendido: 20122.88, Lucro-prejuizo: 1025.8100000000013
+Money Antes: 28899.789999999994, Ganhando 20122.88, E agora com 49022.67
+
+-------VENDA Ação da empresa NATU3-NM   R$, na data 2017-01-18
+Ação teve sua ultima compra com valor de 24.25, com a quantidade 250.0, totalizando 6062.5
+Ação teve sua venda pelo valor de        25.24, com a quantidade 250, totalizando 6310.0, sua media é de 27.974995744680854
+Total gasto: 6062.5, total vendido: 6310.0, Lucro-prejuizo: 247.5
+Money Antes: 49022.67, Ganhando 6310.0, E agora com 55332.67
+
+-------VENDA Ação da empresa GRND3F-NM   R$, na data 2017-01-18
+Ação teve sua ultima compra com valor de 17.8, com a quantidade 1144.0, totalizando 20363.2
+Ação teve sua venda pelo valor de        18.0, com a quantidade 1144, totalizando 20592.0, sua media é de 23.58189333333334
+Total gasto: 20363.2, total vendido: 20592.0, Lucro-prejuizo: 228.79999999999927
+Money Antes: 55332.67, Ganhando 20592.0, E agora com 75924.67
+
+-------VENDA Ação da empresa GRND3-NM   R$, na data 2017-01-18
+Ação teve sua ultima compra com valor de 17.8, com a quantidade 1643.0, totalizando 29245.4
+Ação teve sua venda pelo valor de        18.15, com a quantidade 1643, totalizando 29820.449999999997, sua media é de 23.46056888888888
+Total gasto: 29245.4, total vendido: 29820.449999999997, Lucro-prejuizo: 575.0499999999956
+Money Antes: 75924.67, Ganhando 29820.449999999997, E agora com 105745.12
+
+-------COMPRA Ação da empresa GRND3F-NM   R$, na data 2017-01-18
+Ação com valor 18.0, Sendo a media de 23.58189333333334
+Quantidade Ações antes:  0 comprando + 3002 acoes, então acoes agora 3002
+Comprando 3002 com valor 18.0
+Money Agora: 105745.12, Gastando 54036.0, E agora com 51709.119999999995
+
+-------COMPRA Ação da empresa GRND3-NM   R$, na data 2017-01-18
+Ação com valor 18.15, Sendo a media de 23.46056888888888
+Quantidade Ações antes:  0 comprando + 1392 acoes, então acoes agora 1392
+Comprando 1392 com valor 18.15
+Money Agora: 51709.119999999995, Gastando 25264.8, E agora com 26444.319999999996
+
+-------VENDA Ação da empresa GRND3F-NM   R$, na data 2017-01-19
+Ação teve sua ultima compra com valor de 18.0, com a quantidade 3002.0, totalizando 54036.0
+Ação teve sua venda pelo valor de        18.03, com a quantidade 3002, totalizando 54126.060000000005, sua media é de 23.46120000000001
+Total gasto: 54036.0, total vendido: 54126.060000000005, Lucro-prejuizo: 90.06000000000495
+Money Antes: 26444.319999999996, Ganhando 54126.060000000005, E agora com 80570.38
+
+-------COMPRA Ação da empresa NATU3-NM   R$, na data 2017-01-19
+Ação com valor 24.51, Sendo a media de 27.902808333333336
+Quantidade Ações antes:  0 comprando + 559 acoes, então acoes agora 559
+Comprando 559 com valor 24.51
+Money Agora: 80570.38, Gastando 13701.09, E agora com 66869.29000000001
+
+-------COMPRA Ação da empresa NATU3F-NM   R$, na data 2017-01-19
+Ação com valor 24.25, Sendo a media de 27.944450000000003
+Quantidade Ações antes:  0 comprando + 510 acoes, então acoes agora 510
+Comprando 510 com valor 24.25
+Money Agora: 66869.29000000001, Gastando 12367.5, E agora com 54501.79000000001
+
+-------COMPRA Ação da empresa GRND3-NM   R$, na data 2017-01-19
+Ação com valor 18.0, Sendo a media de 23.341860869565206
+Quantidade Ações antes:  1392 comprando + 970 acoes, então acoes agora 2362
+Comprando 970 com valor 18.0
+Money Agora: 54501.79000000001, Gastando 17460.0, E agora com 37041.79000000001
+
+-------COMPRA Ação da empresa GRND3F-NM   R$, na data 2017-01-19
+Ação com valor 18.03, Sendo a media de 23.46120000000001
+Quantidade Ações antes:  0 comprando + 665 acoes, então acoes agora 665
+Comprando 665 com valor 18.03
+Money Agora: 37041.79000000001, Gastando 11989.95, E agora com 25051.840000000007
+
+-------VENDA Ação da empresa NATU3-NM   R$, na data 2017-01-20
+Ação teve sua ultima compra com valor de 24.51, com a quantidade 559.0, totalizando 13701.09
+Ação teve sua venda pelo valor de        25.2, com a quantidade 559, totalizando 14086.8, sua media é de 27.84764897959184
+Total gasto: 13701.09, total vendido: 14086.8, Lucro-prejuizo: 385.7099999999991
+Money Antes: 25051.840000000007, Ganhando 14086.8, E agora com 39138.64000000001
+
+-------VENDA Ação da empresa GRND3F-NM   R$, na data 2017-01-20
+Ação teve sua ultima compra com valor de 18.03, com a quantidade 665.0, totalizando 11989.95
+Ação teve sua venda pelo valor de        18.14, com a quantidade 665, totalizando 12063.1, sua media é de 23.34798297872341
+Total gasto: 11989.95, total vendido: 12063.1, Lucro-prejuizo: 73.14999999999964
+Money Antes: 39138.64000000001, Ganhando 12063.1, E agora com 51201.740000000005
+
+-------VENDA Ação da empresa NATU3F-NM   R$, na data 2017-01-20
+Ação teve sua ultima compra com valor de 24.25, com a quantidade 510.0, totalizando 12367.5
+Ação teve sua venda pelo valor de        25.18, com a quantidade 510, totalizando 12841.8, sua media é de 27.88803265306123
+Total gasto: 12367.5, total vendido: 12841.8, Lucro-prejuizo: 474.2999999999993
+Money Antes: 51201.740000000005, Ganhando 12841.8, E agora com 64043.54000000001
+
+-------COMPRA Ação da empresa GRND3F-NM   R$, na data 2017-01-20
+Ação com valor 18.14, Sendo a media de 23.34798297872341
+Quantidade Ações antes:  0 comprando + 1727 acoes, então acoes agora 1727
+Comprando 1727 com valor 18.14
+Money Agora: 64043.54000000001, Gastando 31327.780000000002, E agora com 32715.760000000006
+
+-------COMPRA Ação da empresa GRND3-NM   R$, na data 2017-01-20
+Ação com valor 17.82, Sendo a media de 23.224374468085095
+Quantidade Ações antes:  2362 comprando + 937 acoes, então acoes agora 3299
+Comprando 937 com valor 17.82
+Money Agora: 32715.760000000006, Gastando 16697.34, E agora com 16018.420000000006
+
+-------VENDA Ação da empresa GRND3-NM   R$, na data 2017-01-23
+Ação teve sua ultima compra com valor de 17.82, com a quantidade 937.0, totalizando 16697.34
+Ação teve sua venda pelo valor de        17.99, com a quantidade 3299, totalizando 59349.009999999995, sua media é de 23.115324999999988
+Total gasto: 59422.14, total vendido: 59349.009999999995, Lucro-prejuizo: -73.13000000000466
+Money Antes: 16018.420000000006, Ganhando 59349.009999999995, E agora com 75367.43
+
+-------COMPRA Ação da empresa VIVT3F-R$, na data 2017-01-23
+Ação com valor 34.3, Sendo a media de 38.07296
+Quantidade Ações antes:  0 comprando + 321 acoes, então acoes agora 321
+Comprando 321 com valor 34.3
+Money Agora: 75367.43, Gastando 11010.3, E agora com 64357.12999999999
+
+-------COMPRA Ação da empresa GRND3-NM   R$, na data 2017-01-23
+Ação com valor 17.99, Sendo a media de 23.115324999999988
+Quantidade Ações antes:  0 comprando + 1171 acoes, então acoes agora 1171
+Comprando 1171 com valor 17.99
+Money Agora: 64357.12999999999, Gastando 21066.289999999997, E agora com 43290.84
+
+-------COMPRA Ação da empresa GRND3F-NM   R$, na data 2017-01-23
+Ação com valor 17.89, Sendo a media de 23.23427500000001
+Quantidade Ações antes:  1727 comprando + 822 acoes, então acoes agora 2549
+Comprando 822 com valor 17.89
+Money Agora: 43290.84, Gastando 14705.58, E agora com 28585.259999999995
+
+-------COMPRA Ação da empresa NATU3F-NM   R$, na data 2017-01-23
+Ação com valor 24.31, Sendo a media de 27.816472000000005
+Quantidade Ações antes:  0 comprando + 218 acoes, então acoes agora 218
+Comprando 218 com valor 24.31
+Money Agora: 28585.259999999995, Gastando 5299.58, E agora com 23285.679999999993
+
+-------VENDA Ação da empresa GRND3-NM   R$, na data 2017-01-24
+Ação teve sua ultima compra com valor de 17.99, com a quantidade 1171.0, totalizando 21066.289999999997
+Ação teve sua venda pelo valor de        18.24, com a quantidade 1171, totalizando 21359.039999999997, sua media é de 23.01582857142856
+Total gasto: 21066.289999999997, total vendido: 21359.039999999997, Lucro-prejuizo: 292.75
+Money Antes: 23285.679999999993, Ganhando 21359.039999999997, E agora com 44644.71999999999
+
+-------VENDA Ação da empresa NATU3F-NM   R$, na data 2017-01-24
+Ação teve sua ultima compra com valor de 24.31, com a quantidade 218.0, totalizando 5299.58
+Ação teve sua venda pelo valor de        24.79, com a quantidade 218, totalizando 5404.22, sua media é de 27.672354285714288
+Total gasto: 5299.58, total vendido: 5404.22, Lucro-prejuizo: 104.64000000000033
+Money Antes: 44644.71999999999, Ganhando 5404.22, E agora com 50048.93999999999
+
+-------VENDA Ação da empresa VIVT3F-R$, na data 2017-01-24
+Ação teve sua ultima compra com valor de 34.3, com a quantidade 321.0, totalizando 11010.3
+Ação teve sua venda pelo valor de        37.3, com a quantidade 321, totalizando 11973.3, sua media é de 38.05615652173913
+Total gasto: 11010.3, total vendido: 11973.3, Lucro-prejuizo: 963.0
+Money Antes: 50048.93999999999, Ganhando 11973.3, E agora com 62022.23999999999
+
+-------COMPRA Ação da empresa GRND3-NM   R$, na data 2017-01-24
+Ação com valor 18.24, Sendo a media de 23.01582857142856
+Quantidade Ações antes:  0 comprando + 1302 acoes, então acoes agora 1302
+Comprando 1302 com valor 18.24
+Money Agora: 62022.23999999999, Gastando 23748.48, E agora com 38273.759999999995
+
+-------COMPRA Ação da empresa NATU3F-NM   R$, na data 2017-01-24
+Ação com valor 24.79, Sendo a media de 27.672354285714288
+Quantidade Ações antes:  0 comprando + 296 acoes, então acoes agora 296
+Comprando 296 com valor 24.79
+Money Agora: 38273.759999999995, Gastando 7337.84, E agora com 30935.919999999995
+
+-------COMPRA Ação da empresa GRND3F-NM   R$, na data 2017-01-24
+Ação com valor 17.8, Sendo a media de 23.12337142857144
+Quantidade Ações antes:  2549 comprando + 738 acoes, então acoes agora 3287
+Comprando 738 com valor 17.8
+Money Agora: 30935.919999999995, Gastando 13136.4, E agora com 17799.519999999997
+
+-------VENDA Ação da empresa GRND3-NM   R$, na data 2017-01-26
+Ação teve sua ultima compra com valor de 18.24, com a quantidade 1302.0, totalizando 23748.48
+Ação teve sua venda pelo valor de        18.67, com a quantidade 1302, totalizando 24308.340000000004, sua media é de 22.92891199999999
+Total gasto: 23748.48, total vendido: 24308.340000000004, Lucro-prejuizo: 559.8600000000042
+Money Antes: 17799.519999999997, Ganhando 24308.340000000004, E agora com 42107.86
+
+-------VENDA Ação da empresa NATU3F-NM   R$, na data 2017-01-26
+Ação teve sua ultima compra com valor de 24.79, com a quantidade 296.0, totalizando 7337.84
+Ação teve sua venda pelo valor de        26.01, com a quantidade 296, totalizando 7698.96, sua media é de 27.596792727272728
+Total gasto: 7337.84, total vendido: 7698.96, Lucro-prejuizo: 361.1199999999999
+Money Antes: 42107.86, Ganhando 7698.96, E agora com 49806.82
+
+-------VENDA Ação da empresa GRND3F-NM   R$, na data 2017-01-26
+Ação teve sua ultima compra com valor de 17.8, com a quantidade 738.0, totalizando 13136.4
+Ação teve sua venda pelo valor de        18.81, com a quantidade 3287, totalizando 61828.469999999994, sua media é de 23.03710400000001
+Total gasto: 59169.76, total vendido: 61828.469999999994, Lucro-prejuizo: 2658.709999999992
+Money Antes: 49806.82, Ganhando 61828.469999999994, E agora com 111635.29
+
+-------COMPRA Ação da empresa GRND3-NM   R$, na data 2017-01-26
+Ação com valor 18.67, Sendo a media de 22.92891199999999
+Quantidade Ações antes:  0 comprando + 3007 acoes, então acoes agora 3007
+Comprando 3007 com valor 18.67
+Money Agora: 111635.29, Gastando 56140.69, E agora com 55494.59999999999
+
+-------COMPRA Ação da empresa GRND3F-NM   R$, na data 2017-01-26
+Ação com valor 18.81, Sendo a media de 23.03710400000001
+Quantidade Ações antes:  0 comprando + 1466 acoes, então acoes agora 1466
+Comprando 1466 com valor 18.81
+Money Agora: 55494.59999999999, Gastando 27575.46, E agora com 27919.139999999992
+
+-------VENDA Ação da empresa GRND3F-NM   R$, na data 2017-01-27
+Ação teve sua ultima compra com valor de 18.81, com a quantidade 1466.0, totalizando 27575.46
+Ação teve sua venda pelo valor de        19.0, com a quantidade 1466, totalizando 27854.0, sua media é de 22.84486095238096
+Total gasto: 27575.46, total vendido: 27854.0, Lucro-prejuizo: 278.5400000000009
+Money Antes: 27919.139999999992, Ganhando 27854.0, E agora com 55773.13999999999
+
+-------COMPRA Ação da empresa GRND3F-NM   R$, na data 2017-01-27
+Ação com valor 19.0, Sendo a media de 22.84486095238096
+Quantidade Ações antes:  0 comprando + 1412 acoes, então acoes agora 1412
+Comprando 1412 com valor 19.0
+Money Agora: 55773.13999999999, Gastando 26828.0, E agora com 28945.139999999992
+
+-------COMPRA Ação da empresa GRND3-NM   R$, na data 2017-01-27
+Ação com valor 18.6, Sendo a media de 22.722773333333325
+Quantidade Ações antes:  3007 comprando + 807 acoes, então acoes agora 3814
+Comprando 807 com valor 18.6
+Money Agora: 28945.139999999992, Gastando 15010.2, E agora com 13934.939999999991
+
+-------COMPRA Ação da empresa GRND3F-NM   R$, na data 2017-01-30
+Ação com valor 18.48, Sendo a media de 22.64645818181819
+Quantidade Ações antes:  1412 comprando + 379 acoes, então acoes agora 1791
+Comprando 379 com valor 18.48
+Money Agora: 13934.939999999991, Gastando 7003.92, E agora com 6931.019999999991
+
+-------COMPRA Ação da empresa GRND3-NM   R$, na data 2017-01-30
+Ação com valor 18.43, Sendo a media de 22.527647272727265
+Quantidade Ações antes:  3814 comprando + 186 acoes, então acoes agora 4000
+Comprando 186 com valor 18.43
+Money Agora: 6931.019999999991, Gastando 3427.98, E agora com 3503.0399999999913
+
+-------VENDA Ação da empresa GRND3F-NM   R$, na data 2017-01-31
+Ação teve sua ultima compra com valor de 18.48, com a quantidade 379.0, totalizando 7003.92
+Ação teve sua venda pelo valor de        18.58, com a quantidade 1791, totalizando 33276.78, sua media é de 22.46965565217392
+Total gasto: 33831.92, total vendido: 33276.78, Lucro-prejuizo: -555.1399999999994
+Money Antes: 3503.0399999999913, Ganhando 33276.78, E agora com 36779.81999999999
+
+-------VENDA Ação da empresa GRND3-NM   R$, na data 2017-01-31
+Ação teve sua ultima compra com valor de 18.43, com a quantidade 186.0, totalizando 3427.98
+Ação teve sua venda pelo valor de        18.51, com a quantidade 4000, totalizando 74040.0, sua media é de 22.352966956521733
+Total gasto: 74578.87, total vendido: 74040.0, Lucro-prejuizo: -538.8699999999953
+Money Antes: 36779.81999999999, Ganhando 74040.0, E agora com 110819.81999999999
+
+-------COMPRA Ação da empresa GRND3F-NM   R$, na data 2017-01-31
+Ação com valor 18.58, Sendo a media de 22.46965565217392
+Quantidade Ações antes:  0 comprando + 2992 acoes, então acoes agora 2992
+Comprando 2992 com valor 18.58
+Money Agora: 110819.81999999999, Gastando 55591.35999999999, E agora com 55228.46
+
+-------COMPRA Ação da empresa GRND3-NM   R$, na data 2017-01-31
+Ação com valor 18.51, Sendo a media de 22.352966956521733
+Quantidade Ações antes:  0 comprando + 1486 acoes, então acoes agora 1486
+Comprando 1486 com valor 18.51
+Money Agora: 55228.46, Gastando 27505.86, E agora com 27722.6
+
+-------VENDA Ação da empresa GRND3F-NM   R$, na data 2017-02-01
+Ação teve sua ultima compra com valor de 18.58, com a quantidade 2992.0, totalizando 55591.35999999999
+Ação teve sua venda pelo valor de        18.94, com a quantidade 2992, totalizando 56668.48, sua media é de 22.322586666666677
+Total gasto: 55591.35999999999, total vendido: 56668.48, Lucro-prejuizo: 1077.12000000001
+Money Antes: 27722.6, Ganhando 56668.48, E agora com 84391.08
+
+-------COMPRA Ação da empresa GRND3F-NM   R$, na data 2017-02-01
+Ação com valor 18.94, Sendo a media de 22.322586666666677
+Quantidade Ações antes:  0 comprando + 2126 acoes, então acoes agora 2126
+Comprando 2126 com valor 18.94
+Money Agora: 84391.08, Gastando 40266.44, E agora com 44124.64
+
+-------COMPRA Ação da empresa GRND3-NM   R$, na data 2017-02-01
+Ação com valor 18.51, Sendo a media de 22.19284333333333
+Quantidade Ações antes:  1486 comprando + 1246 acoes, então acoes agora 2732
+Comprando 1246 com valor 18.51
+Money Agora: 44124.64, Gastando 23063.460000000003, E agora com 21061.179999999997
+
+-------VENDA Ação da empresa GRND3-NM   R$, na data 2017-02-02
+Ação teve sua ultima compra com valor de 18.51, com a quantidade 1246.0, totalizando 23063.460000000003
+Ação teve sua venda pelo valor de        18.54, com a quantidade 2732, totalizando 50651.28, sua media é de 22.046729599999995
+Total gasto: 50569.32000000001, total vendido: 50651.28, Lucro-prejuizo: 81.95999999999185
+Money Antes: 21061.179999999997, Ganhando 50651.28, E agora com 71712.45999999999
+
+-------COMPRA Ação da empresa GRND3-NM   R$, na data 2017-02-02
+Ação com valor 18.54, Sendo a media de 22.046729599999995
+Quantidade Ações antes:  0 comprando + 1934 acoes, então acoes agora 1934
+Comprando 1934 com valor 18.54
+Money Agora: 71712.45999999999, Gastando 35856.36, E agora com 35856.09999999999
+
+-------COMPRA Ação da empresa GRND3F-NM   R$, na data 2017-02-02
+Ação com valor 18.65, Sendo a media de 22.17568320000001
+Quantidade Ações antes:  2126 comprando + 961 acoes, então acoes agora 3087
+Comprando 961 com valor 18.65
+Money Agora: 35856.09999999999, Gastando 17922.649999999998, E agora com 17933.449999999993
+
+-------VENDA Ação da empresa GRND3F-NM   R$, na data 2017-02-03
+Ação teve sua ultima compra com valor de 18.65, com a quantidade 961.0, totalizando 17922.649999999998
+Ação teve sua venda pelo valor de        19.0, com a quantidade 3087, totalizando 58653.0, sua media é de 22.053541538461545
+Total gasto: 58189.09, total vendido: 58653.0, Lucro-prejuizo: 463.9100000000035
+Money Antes: 17933.449999999993, Ganhando 58653.0, E agora com 76586.45
+
+-------COMPRA Ação da empresa GRND3-NM   R$, na data 2017-02-03
+Ação com valor 18.51, Sendo a media de 21.91070153846153
+Quantidade Ações antes:  1934 comprando + 2186 acoes, então acoes agora 4120
+Comprando 2186 com valor 18.51
+Money Agora: 76586.45, Gastando 40462.86, E agora com 36123.59
+
+-------COMPRA Ação da empresa GRND3F-NM   R$, na data 2017-02-03
+Ação com valor 19.0, Sendo a media de 22.053541538461545
+Quantidade Ações antes:  0 comprando + 896 acoes, então acoes agora 896
+Comprando 896 com valor 19.0
+Money Agora: 36123.59, Gastando 17024.0, E agora com 19099.589999999997
+
+-------COMPRA Ação da empresa GRND3F-NM   R$, na data 2017-02-06
+Ação com valor 18.82, Sendo a media de 21.93378074074075
+Quantidade Ações antes:  896 comprando + 493 acoes, então acoes agora 1389
+Comprando 493 com valor 18.82
+Money Agora: 19099.589999999997, Gastando 9278.26, E agora com 9821.329999999996
+
+-------COMPRA Ação da empresa GRND3-NM   R$, na data 2017-02-06
+Ação com valor 18.52, Sendo a media de 21.785119999999992
+Quantidade Ações antes:  4120 comprando + 272 acoes, então acoes agora 4392
+Comprando 272 com valor 18.52
+Money Agora: 9821.329999999996, Gastando 5037.44, E agora com 4783.889999999997
+
+-------COMPRA Ação da empresa GRND3F-NM   R$, na data 2017-02-07
+Ação com valor 18.43, Sendo a media de 21.80864571428572
+Quantidade Ações antes:  1389 comprando + 132 acoes, então acoes agora 1521
+Comprando 132 com valor 18.43
+Money Agora: 4783.889999999997, Gastando 2432.7599999999998, E agora com 2351.129999999997
+
+-------COMPRA Ação da empresa GRND3-NM   R$, na data 2017-02-07
+Ação com valor 18.44, Sendo a media de 21.665651428571426
+Quantidade Ações antes:  4392 comprando + 62 acoes, então acoes agora 4454
+Comprando 62 com valor 18.44
+Money Agora: 2351.129999999997, Gastando 1143.28, E agora com 1207.849999999997
+
+-------VENDA Ação da empresa GRND3F-NM   R$, na data 2017-02-08
+Ação teve sua ultima compra com valor de 18.43, com a quantidade 132.0, totalizando 2432.7599999999998
+Ação teve sua venda pelo valor de        18.62, com a quantidade 1521, totalizando 28321.02, sua media é de 21.69869241379311
+Total gasto: 28735.02, total vendido: 28321.02, Lucro-prejuizo: -414.0
+Money Antes: 1207.849999999997, Ganhando 28321.02, E agora com 29528.87
+
+-------VENDA Ação da empresa GRND3-NM   R$, na data 2017-02-08
+Ação teve sua ultima compra com valor de 18.44, com a quantidade 62.0, totalizando 1143.28
+Ação teve sua venda pelo valor de        18.54, com a quantidade 4454, totalizando 82577.15999999999, sua media é de 21.55787034482758
+Total gasto: 82499.94, total vendido: 82577.15999999999, Lucro-prejuizo: 77.21999999998661
+Money Antes: 29528.87, Ganhando 82577.15999999999, E agora com 112106.02999999998
+
+-------COMPRA Ação da empresa GRND3F-NM   R$, na data 2017-02-08
+Ação com valor 18.62, Sendo a media de 21.69869241379311
+Quantidade Ações antes:  0 comprando + 3030 acoes, então acoes agora 3030
+Comprando 3030 com valor 18.62
+Money Agora: 112106.02999999998, Gastando 56418.600000000006, E agora com 55687.42999999998
+
+-------COMPRA Ação da empresa GRND3-NM   R$, na data 2017-02-08
+Ação com valor 18.54, Sendo a media de 21.55787034482758
+Quantidade Ações antes:  0 comprando + 1491 acoes, então acoes agora 1491
+Comprando 1491 com valor 18.54
+Money Agora: 55687.42999999998, Gastando 27643.14, E agora com 28044.28999999998
+
+-------VENDA Ação da empresa GRND3-NM   R$, na data 2017-02-09
+Ação teve sua ultima compra com valor de 18.54, com a quantidade 1491.0, totalizando 27643.14
+Ação teve sua venda pelo valor de        19.4, com a quantidade 1491, totalizando 28925.399999999998, sua media é de 21.485941333333326
+Total gasto: 27643.14, total vendido: 28925.399999999998, Lucro-prejuizo: 1282.2599999999984
+Money Antes: 28044.28999999998, Ganhando 28925.399999999998, E agora com 56969.68999999997
+
+-------VENDA Ação da empresa GRND3F-NM   R$, na data 2017-02-09
+Ação teve sua ultima compra com valor de 18.62, com a quantidade 3030.0, totalizando 56418.600000000006
+Ação teve sua venda pelo valor de        19.13, com a quantidade 3030, totalizando 57963.899999999994, sua media é de 21.61306933333334
+Total gasto: 56418.600000000006, total vendido: 57963.899999999994, Lucro-prejuizo: 1545.2999999999884
+Money Antes: 56969.68999999997, Ganhando 57963.899999999994, E agora com 114933.58999999997
+
+-------COMPRA Ação da empresa GRND3-NM   R$, na data 2017-02-09
+Ação com valor 19.4, Sendo a media de 21.485941333333326
+Quantidade Ações antes:  0 comprando + 2713 acoes, então acoes agora 2713
+Comprando 2713 com valor 19.4
+Money Agora: 114933.58999999997, Gastando 52632.2, E agora com 62301.38999999997
+
+-------COMPRA Ação da empresa GRND3F-NM   R$, na data 2017-02-09
+Ação com valor 19.13, Sendo a media de 21.61306933333334
+Quantidade Ações antes:  0 comprando + 1765 acoes, então acoes agora 1765
+Comprando 1765 com valor 19.13
+Money Agora: 62301.38999999997, Gastando 33764.45, E agora com 28536.939999999973
+
+-------VENDA Ação da empresa GRND3F-NM   R$, na data 2017-02-10
+Ação teve sua ultima compra com valor de 19.13, com a quantidade 1765.0, totalizando 33764.45
+Ação teve sua venda pelo valor de        19.8, com a quantidade 1765, totalizando 34947.0, sua media é de 21.473602461538466
+Total gasto: 33764.45, total vendido: 34947.0, Lucro-prejuizo: 1182.550000000003
+Money Antes: 28536.939999999973, Ganhando 34947.0, E agora com 63483.93999999997
+
+-------COMPRA Ação da empresa GRND3-NM   R$, na data 2017-02-10
+Ação com valor 19.33, Sendo a media de 21.320099692307686
+Quantidade Ações antes:  2713 comprando + 3284 acoes, então acoes agora 5997
+Comprando 3284 com valor 19.33
+Money Agora: 63483.93999999997, Gastando 63479.719999999994, E agora com 4.219999999979336
+
+-------VENDA Ação da empresa GRND3-NM   R$, na data 2017-02-13
+Ação teve sua ultima compra com valor de 19.33, com a quantidade 3284.0, totalizando 63479.719999999994
+Ação teve sua venda pelo valor de        19.5, com a quantidade 5997, totalizando 116941.5, sua media é de 21.19009257142857
+Total gasto: 116111.91999999998, total vendido: 116941.5, Lucro-prejuizo: 829.5800000000163
+Money Antes: 4.219999999979336, Ganhando 116941.5, E agora com 116945.71999999997
+
+-------COMPRA Ação da empresa JSLG3F-NM   R$, na data 2017-03-08
+Ação com valor 7.71, Sendo a media de 8.631038117647062
+Quantidade Ações antes:  0 comprando + 15168 acoes, então acoes agora 15168
+Comprando 15168 com valor 7.71
+Money Agora: 116945.71999999997, Gastando 116945.28, E agora com 0.4399999999732245
+
+-------VENDA Ação da empresa JSLG3F-NM   R$, na data 2017-03-09
+Ação teve sua ultima compra com valor de 7.71, com a quantidade 15168.0, totalizando 116945.28
+Ação teve sua venda pelo valor de        8.01, com a quantidade 15168, totalizando 121495.68, sua media é de 8.596536000000002
+Total gasto: 116945.28, total vendido: 121495.68, Lucro-prejuizo: 4550.399999999994
+Money Antes: 0.4399999999732245, Ganhando 121495.68, E agora com 121496.11999999997
+
+-------COMPRA Ação da empresa JSLG3F-NM   R$, na data 2017-03-15
+Ação com valor 7.42, Sendo a media de 8.370705920000002
+Quantidade Ações antes:  0 comprando + 8562 acoes, então acoes agora 8562
+Comprando 8562 com valor 7.42
+Money Agora: 121496.11999999997, Gastando 63530.04, E agora com 57966.079999999965
+
+-------COMPRA Ação da empresa JSLG3-NM   R$, na data 2017-03-15
+Ação com valor 7.37, Sendo a media de 8.22194288
+Quantidade Ações antes:  0 comprando + 3752 acoes, então acoes agora 3752
+Comprando 3752 com valor 7.37
+Money Agora: 57966.079999999965, Gastando 27652.24, E agora com 30313.839999999964
+
+-------VENDA Ação da empresa JSLG3F-NM   R$, na data 2017-03-16
+Ação teve sua ultima compra com valor de 7.42, com a quantidade 8562.0, totalizando 63530.04
+Ação teve sua venda pelo valor de        7.96, com a quantidade 8562, totalizando 68153.52, sua media é de 8.288564736000001
+Total gasto: 63530.04, total vendido: 68153.52, Lucro-prejuizo: 4623.480000000003
+Money Antes: 30313.839999999964, Ganhando 68153.52, E agora com 98467.35999999997
+
+-------VENDA Ação da empresa JSLG3-NM   R$, na data 2017-03-16
+Ação teve sua ultima compra com valor de 7.37, com a quantidade 3752.0, totalizando 27652.24
+Ação teve sua venda pelo valor de        7.98, com a quantidade 3752, totalizando 29940.960000000003, sua media é de 8.195060337777779
+Total gasto: 27652.24, total vendido: 29940.960000000003, Lucro-prejuizo: 2288.720000000001
+Money Antes: 98467.35999999997, Ganhando 29940.960000000003, E agora com 128408.31999999998
+
+-------COMPRA Ação da empresa JSLG3-NM   R$, na data 2017-03-24
+Ação com valor 7.0, Sendo a media de 7.699135246222222
+Quantidade Ações antes:  0 comprando + 18344 acoes, então acoes agora 18344
+Comprando 18344 com valor 7.0
+Money Agora: 128408.31999999998, Gastando 128408.0, E agora com 0.3199999999778811
+
+-------VENDA Ação da empresa JSLG3-NM   R$, na data 2017-03-28
+Ação teve sua ultima compra com valor de 7.0, com a quantidade 18344.0, totalizando 128408.0
+Ação teve sua venda pelo valor de        7.1, com a quantidade 18344, totalizando 130242.4, sua media é de 7.523377377279999
+Total gasto: 128408.0, total vendido: 130242.4, Lucro-prejuizo: 1834.3999999999942
+Money Antes: 0.3199999999778811, Ganhando 130242.4, E agora com 130242.71999999997
+
+-------COMPRA Ação da empresa JSLG3F-NM   R$, na data 2017-03-28
+Ação com valor 7.14, Sendo a media de 7.863425894400001
+Quantidade Ações antes:  0 comprando + 18241 acoes, então acoes agora 18241
+Comprando 18241 com valor 7.14
+Money Agora: 130242.71999999997, Gastando 130240.73999999999, E agora com 1.9799999999813735
+
+-------VENDA Ação da empresa JSLG3F-NM   R$, na data 2017-04-06
+Ação teve sua ultima compra com valor de 7.14, com a quantidade 18241.0, totalizando 130240.73999999999
+Ação teve sua venda pelo valor de        7.23, com a quantidade 18241, totalizando 131882.43000000002, sua media é de 7.282475298133335
+Total gasto: 130240.73999999999, total vendido: 131882.43000000002, Lucro-prejuizo: 1641.6900000000314
+Money Antes: 1.9799999999813735, Ganhando 131882.43000000002, E agora com 131884.41
+
+-------COMPRA Ação da empresa CSNA3F-R$, na data 2017-04-12
+Ação com valor 7.69, Sendo a media de 8.901537716565334
+Quantidade Ações antes:  0 comprando + 17150 acoes, então acoes agora 17150
+Comprando 17150 com valor 7.69
+Money Agora: 131884.41, Gastando 131883.5, E agora com 0.9100000000034925
+
+-------VENDA Ação da empresa CSNA3F-R$, na data 2017-04-26
+Ação teve sua ultima compra com valor de 7.69, com a quantidade 17150.0, totalizando 131883.5
+Ação teve sua venda pelo valor de        7.97, com a quantidade 17150, totalizando 136685.5, sua media é de 7.931211314969599
+Total gasto: 131883.5, total vendido: 136685.5, Lucro-prejuizo: 4802.0
+Money Antes: 0.9100000000034925, Ganhando 136685.5, E agora com 136686.41
+
+-------COMPRA Ação da empresa CSNA3F-R$, na data 2017-05-04
+Ação com valor 7.05, Sendo a media de 7.741982315414673
+Quantidade Ações antes:  0 comprando + 19388 acoes, então acoes agora 19388
+Comprando 19388 com valor 7.05
+Money Agora: 136686.41, Gastando 136685.4, E agora com 1.0100000000093132
+
+-------VENDA Ação da empresa CSNA3F-R$, na data 2017-05-05
+Ação teve sua ultima compra com valor de 7.05, com a quantidade 19388.0, totalizando 136685.4
+Ação teve sua venda pelo valor de        7.4, com a quantidade 19388, totalizando 143471.2, sua media é de 7.699234525987839
+Total gasto: 136685.4, total vendido: 143471.2, Lucro-prejuizo: 6785.8000000000175
+Money Antes: 1.0100000000093132, Ganhando 143471.2, E agora com 143472.21000000002
+
+-------COMPRA Ação da empresa CSNA3F-R$, na data 2017-05-18
+Ação com valor 6.59, Sendo a media de 7.391564038652888
+Quantidade Ações antes:  0 comprando + 10810 acoes, então acoes agora 10810
+Comprando 10810 com valor 6.59
+Money Agora: 143472.21000000002, Gastando 71237.9, E agora com 72234.31000000003
+
+-------COMPRA Ação da empresa JSLG3-NM   R$, na data 2017-05-18
+Ação com valor 6.8, Sendo a media de 7.639988280190748
+Quantidade Ações antes:  0 comprando + 5347 acoes, então acoes agora 5347
+Comprando 5347 com valor 6.8
+Money Agora: 72234.31000000003, Gastando 36359.6, E agora com 35874.71000000003
+
+-------VENDA Ação da empresa CSNA3F-R$, na data 2017-05-19
+Ação teve sua ultima compra com valor de 6.59, com a quantidade 10810.0, totalizando 71237.9
+Ação teve sua venda pelo valor de        6.79, com a quantidade 10810, totalizando 73399.9, sua media é de 7.291303365544073
+Total gasto: 71237.9, total vendido: 73399.9, Lucro-prejuizo: 2162.0
+Money Antes: 35874.71000000003, Ganhando 73399.9, E agora com 109274.61000000002
+
+-------COMPRA Ação da empresa JSLG3-NM   R$, na data 2017-05-19
+Ação com valor 6.71, Sendo a media de 7.5469894521716725
+Quantidade Ações antes:  5347 comprando + 16285 acoes, então acoes agora 21632
+Comprando 16285 com valor 6.71
+Money Agora: 109274.61000000002, Gastando 109272.35, E agora com 2.2600000000093132
+
+-------VENDA Ação da empresa JSLG3-NM   R$, na data 2017-05-24
+Ação teve sua ultima compra com valor de 6.71, com a quantidade 16285.0, totalizando 109272.35
+Ação teve sua venda pelo valor de        6.83, com a quantidade 21632, totalizando 147746.56, sua media é de 7.108279686955241
+Total gasto: 145631.95, total vendido: 147746.56, Lucro-prejuizo: 2114.609999999986
+Money Antes: 2.2600000000093132, Ganhando 147746.56, E agora com 147748.82
+
+-------COMPRA Ação da empresa NATU3-NM   R$, na data 2017-06-13
+Ação com valor 28.8, Sendo a media de 31.476685739010207
+Quantidade Ações antes:  0 comprando + 2615 acoes, então acoes agora 2615
+Comprando 2615 com valor 28.8
+Money Agora: 147748.82, Gastando 75312.0, E agora com 72436.82
+
+-------COMPRA Ação da empresa NATU3F-NM   R$, na data 2017-06-13
+Ação com valor 28.88, Sendo a media de 31.451991224685848
+Quantidade Ações antes:  0 comprando + 1229 acoes, então acoes agora 1229
+Comprando 1229 com valor 28.88
+Money Agora: 72436.82, Gastando 35493.52, E agora com 36943.30000000001
+
+-------COMPRA Ação da empresa NATU3-NM   R$, na data 2017-06-14
+Ação com valor 28.19, Sendo a media de 30.928904782508507
+Quantidade Ações antes:  2615 comprando + 1310 acoes, então acoes agora 3925
+Comprando 1310 com valor 28.19
+Money Agora: 36943.30000000001, Gastando 36928.9, E agora com 14.400000000008731
+
+-------VENDA Ação da empresa NATU3-NM   R$, na data 2017-08-22
+Ação teve sua ultima compra com valor de 28.19, com a quantidade 1310.0, totalizando 36928.9
+Ação teve sua venda pelo valor de        28.45, com a quantidade 3925, totalizando 111666.25, sua media é de 26.690930490771596
+Total gasto: 112240.9, total vendido: 111666.25, Lucro-prejuizo: -574.6499999999942
+Money Antes: 14.400000000008731, Ganhando 111666.25, E agora com 111680.65000000001
+
+-------VENDA Ação da empresa NATU3F-NM   R$, na data 2017-08-23
+Ação teve sua ultima compra com valor de 28.88, com a quantidade 1229.0, totalizando 35493.52
+Ação teve sua venda pelo valor de        29.19, com a quantidade 1229, totalizando 35874.51, sua media é de 27.001638611663576
+Total gasto: 35493.52, total vendido: 35874.51, Lucro-prejuizo: 380.99000000000524
+Money Antes: 111680.65000000001, Ganhando 35874.51, E agora com 147555.16
+
+-------COMPRA Ação da empresa CSNA3F-R$, na data 2017-10-30
+Ação com valor 8.78, Sendo a media de 9.644613793211771
+Quantidade Ações antes:  0 comprando + 16805 acoes, então acoes agora 16805
+Comprando 16805 com valor 8.78
+Money Agora: 147555.16, Gastando 147547.9, E agora com 7.260000000009313
+------------------------
+VENDENDO TUDO
+------------------------
+
+-------VENDA Ação da empresa CSNA3F-R$, na data 2017-12-28
+Ação teve sua ultima compra com valor de 8.78, com a quantidade 16805.0, totalizando 147547.9
+Ação teve sua venda pelo valor de        8.3, com a quantidade 16805, totalizando 139481.5, sua media é de 7.9049278913106225
+Total gasto: 147547.9, total vendido: 139481.5, Lucro-prejuizo: -8066.399999999994
+Money Antes: 7.260000000009313, Ganhando 139481.5, E agora com 139488.76
+

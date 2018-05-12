@@ -1,0 +1,46 @@
+
+-------COMPRA Ação da empresa GRND3-NM   R$, na data 2014-02-19
+Ação com valor 14.05, Sendo a media de 15.49768028846154
+Quantidade Ações antes:  0 comprando + 7117 acoes, então acoes agora 7117
+Comprando 7117 com valor 14.05
+Money Agora: 100000.0, Gastando 99993.85, E agora com 6.149999999994179
+
+-------VENDA Ação da empresa GRND3-NM   R$, na data 2014-09-30
+Ação teve sua ultima compra com valor de 14.05, com a quantidade 7117.0, totalizando 99993.85
+Ação teve sua venda pelo valor de        17.0, com a quantidade 7117, totalizando 120989.0, sua media é de 15.672449035303929
+Total gasto: 99993.85, total vendido: 120989.0, Lucro-prejuizo: 20995.149999999994
+Money Antes: 6.149999999994179, Ganhando 120989.0, E agora com 120995.15
+
+-------COMPRA Ação da empresa CSNA3F-R$, na data 2014-09-30
+Ação com valor 8.72, Sendo a media de 9.728770739010402
+Quantidade Ações antes:  0 comprando + 13875 acoes, então acoes agora 13875
+Comprando 13875 com valor 8.72
+Money Agora: 120995.15, Gastando 120990.00000000001, E agora com 5.149999999979627
+
+-------COMPRA Ação da empresa CSNA3F-R$, na data 2014-12-08
+Ação com valor 5.1, Sendo a media de 6.781856224859752
+Quantidade Ações antes:  13875 comprando + 1 acoes, então acoes agora 13876
+Comprando 1 com valor 5.1
+Money Agora: 5.149999999979627, Gastando 5.1, E agora com 0.049999999979627674
+
+-------VENDA Ação da empresa CSNA3F-R$, na data 2014-12-23
+Ação teve sua ultima compra com valor de 5.1, com a quantidade 1.0, totalizando 5.1
+Ação teve sua venda pelo valor de        6.38, com a quantidade 13876, totalizando 88528.88, sua media é de 6.011241334550653
+Total gasto: 120995.10000000002, total vendido: 88528.88, Lucro-prejuizo: -32466.220000000016
+Money Antes: 0.049999999979627674, Ganhando 88528.88, E agora com 88528.92999999998
+
+-------COMPRA Ação da empresa LEVE3F-NM   R$, na data 2014-12-23
+Ação com valor 20.0, Sendo a media de 22.178294868692756
+Quantidade Ações antes:  0 comprando + 4426 acoes, então acoes agora 4426
+Comprando 4426 com valor 20.0
+Money Agora: 88528.92999999998, Gastando 88520.0, E agora com 8.929999999978463
+------------------------
+VENDENDO TUDO
+------------------------
+
+-------VENDA Ação da empresa LEVE3F-NM   R$, na data 2014-12-30
+Ação teve sua ultima compra com valor de 20.0, com a quantidade 4426.0, totalizando 88520.0
+Ação teve sua venda pelo valor de        20.01, com a quantidade 4426, totalizando 88564.26000000001, sua media é de 21.87996922828754
+Total gasto: 88520.0, total vendido: 88564.26000000001, Lucro-prejuizo: 44.26000000000931
+Money Antes: 8.929999999978463, Ganhando 88564.26000000001, E agora com 88573.18999999999
+
