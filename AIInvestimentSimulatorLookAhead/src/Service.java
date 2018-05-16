@@ -28,9 +28,6 @@ public class Service extends Config {
 
 
     public boolean containsCompany(String company) {
-//        if(!company.isEmpty()){
-//            return true;
-//        }
         for (String comp : avaliableCompanies) {
             if (company.contains(comp)) {
                 return true;
@@ -52,13 +49,8 @@ public class Service extends Config {
     }
 
     public void discardDaysFromAverage(Company company) {
-//        System.out.println("--");
-//        System.out.println("ANTES: count -> [" + company.getCount() + "], sum -> [" + company.getSum() + "], avg ->[" + company.getAverage() + "]");
         company.setCount(company.getCount() / PARAM_DISCARD_DIV);
         company.setSum(company.getSum() / PARAM_DISCARD_DIV);
-//        System.out.println("ANTES: count -> [" + company.getCount() + "], sum -> [" + company.getSum() + "], avg ->[" + company.getAverage() + "]");
-
-
     }
 
 
@@ -125,8 +117,6 @@ public class Service extends Config {
 
         finalResultFile.addToWrite(finalResult);
         finalResultFile.writeInFile(RESULT_PATH + RUNNED_INSTANCE_STRING + finalPercent() + "_finalResult" + ".txt");
-//        finalResultFile.writeInFile(RESULT_PATH + finalPercent() + "_"+System.currentTimeMillis()+ "_finalResult" + ".txt");
-
     }
 
 

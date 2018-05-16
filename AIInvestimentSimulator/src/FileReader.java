@@ -85,8 +85,8 @@ public class FileReader extends Config {
     private void handleLinesToTrain(Stream<String> stream) {
         stream.forEach(line -> {
             try {
-               if (!service.containsSpace(line)) {
-                    //handleLine(line);
+               if (!service.containsSpaceTrain(line)) {
+                    handleLine(line);
                 }
             } catch (DateTimeParseException dateTimeParseException) {
                 System.out.println("DateTimeParseException (primeira e ultima linha)");

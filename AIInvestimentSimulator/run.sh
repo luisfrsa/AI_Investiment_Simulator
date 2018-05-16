@@ -15,35 +15,11 @@ declare -a PARAM_DAYS_TO_DISCARD=("10")
 declare -a PARAM_MIN_DAYS_TO_BEGIN=("0")
 declare -a PARAM_MAX_MONEY_TO_INVEST=("1")
 declare -a MONEY=("100000")
-#declare -a INSTANCES=("2011-2012,2013-2014-2015-2016-2017" "2012-2013,2014-2015-2016-2017" "2013-2014,2015-2016-2017" "2014-2015,2016-2017" "2015-2016,2017")
-#declare -a INSTANCES=("2010-2011,2012")
-#declare -a INSTANCES=("2014-2015,2016")
 declare -a INSTANCES=("2011-2012,2013" "2012-2013,2014" "2013-2014,2015" "2014-2015,2016" "2015-2016,2017")
-
-
-
-#declare -a PARAM_MIN_TO_BUY=("0.01" "0.05" "0.1")
-#declare -a PARAM_MIN_TO_SELL=("0.005" "0.01" "0.1")
-#declare -a PARAM_DISCARD_DIV=("1.0" "1.1")
-#declare -a PARAM_DAYS_TO_DISCARD=("10" "20" "45" "60")
-#declare -a PARAM_MIN_DAYS_TO_BEGIN=("0")
-#declare -a PARAM_MAX_MONEY_TO_INVEST=("1" "1.1")
-#declare -a MONEY=("100000")
-
-
-
-#declare -a PARAM_MIN_TO_BUY=("5" "50")
-#declare -a PARAM_MIN_TO_SELL=("3" "30")
-#declare -a PARAM_DISCARD_DIV=("4" "4")
-#declare -a PARAM_DAYS_TO_DISCARD=("1" "10")
-#declare -a PARAM_MIN_DAYS_TO_BEGIN=("0")
-#declare -a PARAM_MAX_MONEY_TO_INVEST=("6" "60")
-#declare -a MONEY=("100000")
 
 
 javac src/*.java -d build/
 cd build/
-#java AIInvestimentSimulator 0.01 0.01 1.1 15 0 1 100000 0
 
 for PARAM_MIN_TO_BUY_VAR in "${PARAM_MIN_TO_BUY[@]}";
 do

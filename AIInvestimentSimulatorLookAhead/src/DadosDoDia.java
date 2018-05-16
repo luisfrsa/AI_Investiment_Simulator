@@ -84,14 +84,6 @@ public class DadosDoDia {
     public void setMinPrice(Double minPrice) {
         this.minPrice = minPrice;
     }
-//
-//    public Double getAvgPrice() {
-//        return avgPrice;
-//    }
-//
-//    public void setAvgPrice(Double avgPrice) {
-//        this.avgPrice = avgPrice;
-//    }
 
     public Double getClosePrice() {
         return closePrice;

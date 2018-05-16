@@ -29,12 +29,7 @@ public class AIInvestimentSimulator extends Config {
         TO_PRINT_DATA = true;
         INSTANCES_TO_TRAIN = Arrays.asList("2010", "2011");
         INSTANCE_TO_RUN = Arrays.asList("2012");
-        // Arrays.stream(args).forEach(a->{
-        // System.out.println(a);
-        // });
-        //// System.out.println(args.toString());
         if (args.length > 0) {
-
             PARAM_MIN_TO_BUY = Double.parseDouble(args[0]);
             PARAM_MIN_TO_SELL = Double.parseDouble(args[1]);
             PARAM_DISCARD_DIV = Double.parseDouble(args[2]);

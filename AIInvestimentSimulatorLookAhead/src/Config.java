@@ -35,21 +35,6 @@ public class Config {
 
 
     protected void setUpFiles() {
-//        TO_PRINT_DATA = true;
-//        FILES_TO_TRAIN.add(new File("COTAHIST_A2013.TXT"));
-//        FILES_TO_TRAIN.add(new File("COTAHIST_A2014.TXT"));
-//        FILES_TO_TRAIN.add(new File("COTAHIST_A2015.TXT"));
-//        FILES_TO_TRAIN.add(new File("COTAHIST_A2016.TXT"));
-
-//        FILES_TO_RUN.add(new File( "COTAHIST_A2013.TXT"));
-//        FILES_TO_RUN.add(new File( "COTAHIST_A2014.TXT"));
-//        FILES_TO_RUN.add(new File( "COTAHIST_A2015.TXT"));
-//        FILES_TO_RUN.add(new File( "COTAHIST_A2016.TXT"));
-//        FILES_TO_RUN.add(new File("COTAHIST_A2017.TXT"));
-//        INSTANCES_TO_TRAIN.forEach(instance -> {
-//            System.out.println("File to train "+instance);
-//            FILES_TO_TRAIN.add(new File("COTAHIST_A" + instance + ".TXT"));
-//        });
         INSTANCE_TO_RUN.forEach(instance -> {
             System.out.println("File to RUN "+instance);
             RUNNED_INSTANCE_STRING += instance + "_";

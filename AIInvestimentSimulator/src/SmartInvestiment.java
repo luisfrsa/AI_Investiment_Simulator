@@ -21,7 +21,6 @@ public class SmartInvestiment extends Config {
 
     public void run() {
         HASH_DATE_DADOS.forEach((localDate, dadosDoDiasSet) -> {
-//            logWritter.addToWrite(localDate);
             dadosDoDiasSet.forEach(dadosDoDia -> {
                 if (dadosDoDia.getComplany().getCount() > PARAM_MIN_DAYS_TO_BEGIN && dadosDoDia.getComplany().getNum_actions() > NUM_ACTIONS) {
                     mapSellList(dadosDoDia, dadosDoDia.getComplany());
@@ -53,29 +52,13 @@ public class SmartInvestiment extends Config {
     }
 
     public void investRunner() {
-//        int size = toInvest.size();
-        List<String> delet_MELsit = new ArrayList<>();
         double totalPercent = toInvest.entrySet()
                 .stream()
                 .mapToDouble(entry -> {
-                    String delete_ME = "DELETE_ME: AVG:" + entry.getValue().getAverage() + ", close " + entry.getKey().getClosePrice();
-                    delete_ME += ", Result: " + (100 - MathUtil.getPercentage(entry.getValue().getAverage(), entry.getKey().getClosePrice()));
-                    delet_MELsit.add(delete_ME);
                     return 100 - MathUtil.getPercentage(entry.getValue().getAverage(), entry.getKey().getClosePrice());
                 }).sum();
-//        logWritter.addToWrite("SHOW totalPercent -> " + totalPercent + "\n" + delet_MELsit.stream().collect(Collectors.joining("\n")));
 
         toInvest.forEach((dadosDoDia, company) -> {
-//            logWritter.addToWrite("");
-//            logWritter.addToWrite("PERCENT OF PERCENT @@@@@");
-//            logWritter.addToWrite(company.getName() + " at " + dadosDoDia.getDate());
-//            logWritter.addToWrite("Sum " + company.getSum());
-//            logWritter.addToWrite("Count " + company.getCount());
-//            logWritter.addToWrite("AVG " + company.getAverage());
-            if ((getPercentOfPercent(company.getAverage(), dadosDoDia.getClosePrice(), totalPercent) / 100) < 0) {
-                logWritter.addToWrite("MENOR QUE ZERO!!!:  AVG: " + company.getAverage() + ", close: " + dadosDoDia.getClosePrice() + ", totalPercent " + totalPercent);
-                logWritter.addToWrite("FROM: " + delet_MELsit.stream().collect(Collectors.joining("\n")));
-            }
             double moneyToInvest = (MONEY / PARAM_MAX_MONEY_TO_INVEST) * (getPercentOfPercent(company.getAverage(), dadosDoDia.getClosePrice(), totalPercent) / 100);
             if (moneyToInvest > 0) {
                 investInCompany(dadosDoDia, company, moneyToInvest);
@@ -85,11 +68,7 @@ public class SmartInvestiment extends Config {
     }
 
     public double getPercentOfPercent(double average, double closePrice, double totalPercent) {
-//        logWritter.addToWrite("closePrice : " + closePrice);
-//        logWritter.addToWrite("totalPercent : " + totalPercent);
         double percent = 100 - MathUtil.getPercentage(average, closePrice);
-//        logWritter.addToWrite("percent  getPercentage(average, closePric): " + percent);
-//        logWritter.addToWrite("percent  ofPercent(totalPercent, percent): " + (MathUtil.getPercentage(totalPercent, percent)));
         return (MathUtil.getPercentage(totalPercent, percent));
     }
 
@@ -101,13 +80,6 @@ public class SmartInvestiment extends Config {
 
     public void mapInvestList(DadosDoDia dadosDoDia, Company company) {
         if (worthToInvest(dadosDoDia.getClosePrice(), company.getAverage())) {
-//            logWritter.addToWrite("");
-//            logWritter.addToWrite("  WORTH to INVEST!!!!");
-//            logWritter.addToWrite(company.getName() + " at " + dadosDoDia.getDate());
-//            logWritter.addToWrite("AVG: " + company.getAverage());
-//            logWritter.addToWrite("AVG + " + PARAM_MIN_TO_BUY + ": " + MathUtil.calcAVGWithParamPercentToBuy(PARAM_MIN_TO_BUY, company.getAverage()));
-//            logWritter.addToWrite("Close: " + dadosDoDia.getClosePrice());
-//            company.setLastBuy(dadosDoDia.getClosePrice()); AQUIII
             toInvest.put(dadosDoDia, company);
         }
     }
@@ -121,10 +93,6 @@ public class SmartInvestiment extends Config {
     }
 
     public boolean worthToInvest(double closePrice, double average) {
-//        if(closePrice <= haveEnoughtPriceToBuy(average)){
-//            logWritter.addToWrite("DEBUGGER: " + company.getAverage());
-//
-//        }
         return closePrice <= haveEnoughtPriceToBuy(average);
     }
 
@@ -133,18 +101,7 @@ public class SmartInvestiment extends Config {
     }
 
     public boolean worthToSell(double closePrice, double average_or_last_buy) {
-        int bypass = 0;
-        if (bypass == 0) {
             return closePrice >= haveEnoughtPriceToSell(average_or_last_buy);
-        }
-        if (closePrice < average_or_last_buy) {
-            count_low++;
-            return false;
-        } else {
-            count_high++;
-            return true;
-        }
-
     }
 
     public boolean worthToSell(DadosDoDia dadosDoDia, Company company) {
@@ -167,9 +124,6 @@ public class SmartInvestiment extends Config {
         logWritter.addToWrite("-------VENDA Ação da empresa " + company.getName() + ", na data " + dadosDoDia.getDate().toString());
         logWritter.addToWrite(format("Ação teve sua ultima compra com valor de %s, com a quantidade %s, totalizando %s",company.getLastBuy(),company.getLastBuyCount(),(company.getLastBuy() * company.getLastBuyCount())));
         logWritter.addToWrite(format("Ação teve sua venda pelo valor de        %s, com a quantidade %s, totalizando %s, sua media é de %s",dadosDoDia.getClosePrice(),company.getActions(),(dadosDoDia.getClosePrice()* company.getActions()),company.getAverage()));
-//        logWritter.addToWrite("Com a ultima compra no valor de " + company.getLastBuy() + " com a quantidade " + company.getLastBuyCount()+ " Gasto total de compra: " + (company.getLastBuy() * company.getLastBuyCount()));
-//        logWritter.addToWrite("Ação com valor  hoje" + dadosDoDia.getClosePrice() + ", Sendo a media de " + company.getAverage());
-//        logWritter.addToWrite("Ação com valor " + dadosDoDia.getClosePrice() + ", Sendo a media de " + company.getAverage());
         double lucroPreju = (dadosDoDia.getClosePrice()*company.getActions()) - company.getAccumBought();
         logWritter.addToWrite("Total gasto: "+company.getAccumBought()+", total vendido: "+ (dadosDoDia.getClosePrice()*company.getActions())+", Lucro-prejuizo: "+lucroPreju);
         company.setProfit_prejudice(company.getProfit_prejudice() + lucroPreju);
@@ -196,7 +150,6 @@ public class SmartInvestiment extends Config {
     }
 
     public void updateMoneyFromSoldAction(int numOfActions, double closePrice) {
-//        logWritter.addToWrite("Vendendo " + numOfActions + " com valor " + closePrice);
         String strprint = "Money Antes: " + MONEY;
         MONEY += (numOfActions * closePrice);
         strprint += ", Ganhando " + (numOfActions * closePrice);
@@ -206,7 +159,6 @@ public class SmartInvestiment extends Config {
     }
 
     public void updateMoneyFromBoughtAction(int numOfActions, double closePrice) {
-
         logWritter.addToWrite("Comprando " + numOfActions + " com valor " + closePrice);
         String strprint = "Money Agora: " + MONEY;
         MONEY = MONEY - (numOfActions * closePrice);
@@ -218,5 +170,4 @@ public class SmartInvestiment extends Config {
     public void updateDadosCompany(DadosDoDia dadosDoDia) {
         service.updateAverage(dadosDoDia.getComplany(), dadosDoDia.getClosePrice());
     }
-
 }
